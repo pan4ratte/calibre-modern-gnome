@@ -18,8 +18,8 @@ The table below represents the current update status of each icon in the collect
 
 | Icon | Source | Status |
 |------|------|------|
-|![add_book.png](images/add_book.png =48x48)|Yaru-Blue|Done|
-|![apple-touch-icon.png](images/add_book.png)|Calibre|Remains unchanged|
+|![add_book.png](images/add_book.png | width=100)|Yaru-Blue|Done|
+|![apple-touch-icon.png](images/apple-touch-icon.png)|Calibre|Remains unchanged|
 |![arrow-down.png](images/arrow-down.png)|Calibre|Remains unchanged|
 |![arrow-up.png](images/arrow-up.png)|Calibre|Remains unchanged|
 |![auto_author_sort.png](images/auto_author_sort.png)|Calibre|Needs an update|
