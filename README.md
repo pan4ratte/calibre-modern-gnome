@@ -18,4 +18,4 @@ The table below represents the current update status of each icon in the collect
 
 | Icon | Source | Status |
 |------|------|------|
-|![add_book.png](images/add_book.png)|Yaru-Blue|- [x]|
+|![add_book.png](images/add_book.png)|Yaru-Blue| - [x]|
