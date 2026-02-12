@@ -14,19 +14,33 @@ This is a Calibre icon theme, a modern and a clean one. All themes, that are cur
 
 ## Icons Update Status and Source
 
-The table below represents the current update status of each icon in the collection and its source. The icons are listed in alphabetical order. Status options: (a) "Done": icon was succesfully replaced; (b) "Needs an update": should be replaced with modern alternative; (b) "Unable to update": some icons are not replacable because they are used for multiple, contradicting purposes in the Calibre UI — they could be changed only after UI update in the program itself.
+The table below represents the current update status of each icon in the collection and its source. The icons are listed in alphabetical order. Status options: (a) "Done": icon was succesfully replaced; (b) "Needs an update": should be replaced with modern alternative; (c) "Unable to update": some icons are not replacable because they are used for multiple, contradicting purposes in the Calibre UI — they could be changed only after UI update of Calibre itself.
 
-| Icon 											| Source 					| Status			|
-|-----------------------------------------------|---------------------------|-------------------|
-|![](images/add_book.png)						|Ubuntu GNOME Yaru-Blue		|Updated			|
-|![](images/apple-touch-icon.png)				|Calibre original icon 		|Needs an Updated	|
-|![](images/arrow-down.png)						|Calibre original icon 		|Unable to Updated	|
-|![](images/arrow-up.png)						|Calibre original icon 		|Unable to Updated	|
-|![](images/auto_author_sort.png)				|Calibre original icon 		|Needs an update 	|
-|![](images/auto-reload.png)					|Calibre original icon 		|Needs an update 	|
-|![](images/auto-scroll.png)					|Calibre original icon 		|Needs an update 	|
-|![](images/back.png)							|Calibre original icon 		|Needs an update 	|
-|![](images/beautify.png)						|Calibre original icon 		|Needs an update 	|
-|![](images/book.png)							|Calibre original icon 		|Updated		 	|
-|![](images/bookmarks.svg)						|Ubuntu GNOME Yaru-Blue		|Updated		 	|
-|![](images/books_in_series.svg)				|Ubuntu GNOME Yaru-Blue		|Updated		 	|
+| Icon 											| Source 								| Status			|
+|-----------------------------------------------|---------------------------------------|-------------------|
+|![](images/add_book.png)						|Ubuntu GNOME Yaru-Blue					|Updated			|
+|![](images/apple-touch-icon.png)				|Calibre original icon 					|Needs an Updated	|
+|![](images/arrow-down.png)						|Calibre original icon 					|Unable to Update	|
+|![](images/arrow-up.png)						|Calibre original icon 					|Unable to Update	|
+|![](images/auto_author_sort.png)				|Calibre original icon 					|Needs an update 	|
+|![](images/auto-reload.png)					|Calibre original icon 					|Needs an update 	|
+|![](images/auto-scroll.png)					|Calibre original icon 					|Needs an update 	|
+|![](images/back.png)							|Calibre original icon 					|Needs an update 	|
+|![](images/beautify.png)						|Calibre original icon 					|Needs an update 	|
+|![](images/book.png)							|Calibre original icon 					|Updated		 	|
+|![](images/bookmarks.svg)						|Ubuntu GNOME Yaru-Blue					|Updated		 	|
+|![](images/books_in_series.svg)				|Ubuntu GNOME Yaru-Blue					|Updated		 	|
+|![](images/bullhorn.png)						|Calibre original icon 					|Needs an update 	|
+|![](images/catalog.png)						|Calibre original icon 					|Needs an update 	|
+|![](images/chapters.png)						|Calibre original icon 					|Needs an update 	|
+|![](images/characters-set.png)					|Ubuntu GNOME Yaru-Blue					|Updated		 	|
+|![](images/clear_left-for-dark-theme.png)		|Calibre original icon 					|Needs an update 	|
+|![](images/clear_left-for-light-theme.png)		|Calibre original icon 					|Needs an update 	|
+|![](images/close-for-dark-theme.png)			|Calibre original icon 					|Needs an update 	|
+|![](images/close-for-light-theme.png)			|Calibre original icon 					|Needs an update 	|
+|![](images/code.png)							|Ubuntu GNOME Yaru-Blue				 	|Updated 			|
+|![](images/column.png)							|Icons8 (???) 							|Updated		 	|
+|![](images/connect_share.png)					|Ubuntu GNOME Yaru-Blue (customized)	|Updated		 	|
+|![](images/connect_share_on.png)				|Ubuntu GNOME Yaru-Blue				 	|Updated		 	|
+|![](images/context_menu.png)					|Ubuntu GNOME Yaru-Blue 				|Updated		 	|
+|![](images/convert.png)						|Ubuntu GNOME Yaru-Blue					|Updated		 	|
