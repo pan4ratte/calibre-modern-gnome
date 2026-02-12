@@ -27,6 +27,7 @@ The table below represents the current update status of each icon in the collect
 |auto-scroll.png						|![](images/auto-scroll.png)			|Calibre original icon 			|Needs an update 	|
 |back.png								|![](images/back.png)					|Calibre original icon			|Needs an update 	|
 |beautify.png							|![](images/beautify.png)				|Calibre original icon			|Needs an update 	|
+|blank.png								|![](images/blank.png)					|Calibre original icon			|Needs an update 	|
 |book.png								|![](images/book.png)					|Calibre original icon			|Updated		 	|
 |bookmarks.svg							|![](images/bookmarks.svg)				|Ubuntu GNOME Yaru-Blue			|Updated		 	|
 |books_in_series.svg					|![](images/books_in_series.svg)		|Ubuntu GNOME Yaru-Blue			|Updated		 	|
