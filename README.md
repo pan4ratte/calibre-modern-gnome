@@ -18,7 +18,7 @@ The table below represents the current update status of each icon in the collect
 
 | Icon | Source | Status |
 |------|------|------|
-|![add_book.png](images/add_book.png)|Yaru-Blue|Done|
+|<img src="https://github.com/pan4ratte/calibre-modern-gnome/main/images/add_book.png" width="56">|Yaru-Blue|Done|
 |![apple-touch-icon.png](images/apple-touch-icon.png)|Calibre|Remains unchanged|
 |![arrow-down.png](images/arrow-down.png)|Calibre|Remains unchanged|
 |![arrow-up.png](images/arrow-up.png)|Calibre|Remains unchanged|
