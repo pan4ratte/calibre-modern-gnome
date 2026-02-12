@@ -14,7 +14,7 @@ This is a Calibre icon theme, a modern and a clean one. All themes, that are cur
 
 ## Icons Update Status and Source
 
-The table below represents the current update status of each icon in the collection and its source. The icons are listed in alphabetical order. Status options: (a) "Done": icon was succesfully replaced; (b) "Needs an update": should be replaced with modern alternative; (c) "Unable to update": some icons are not replacable because they are used for multiple, contradicting purposes in the Calibre UI — they could be changed only after UI update of Calibre itself.
+The table below represents the current update status of each icon in the collection and its source. The icons are listed in alphabetical order. Status options: (a) "Done": icon was succesfully replaced; (b) "Needs an update": should be replaced with modern alternative; (c) "Unable to update": some icons are not replacable because they are used for multiple, contradicting purposes in the Calibre UI — they could be changed only after UI update of Calibre itself; (d) "Unchanged": some icons do not need an update.
 
 |File name								| Icon 									| Source 						| Status			|
 |---------------------------------------|---------------------------------------|-------------------------------|-------------------|
@@ -27,7 +27,7 @@ The table below represents the current update status of each icon in the collect
 |auto-scroll.png						|![](images/auto-scroll.png)			|Calibre original icon 			|Needs an update 	|
 |back.png								|![](images/back.png)					|Calibre original icon			|Needs an update 	|
 |beautify.png							|![](images/beautify.png)				|Calibre original icon			|Needs an update 	|
-|blank.png								|![](images/blank.png)					|Calibre original icon			|Needs an update 	|
+|blank.png								|![](images/blank.png)					|Calibre original icon			|Unchanged			|
 |book.png								|![](images/book.png)					|Calibre original icon			|Updated		 	|
 |bookmarks.svg							|![](images/bookmarks.svg)				|Ubuntu GNOME Yaru-Blue			|Updated		 	|
 |books_in_series.svg					|![](images/books_in_series.svg)		|Ubuntu GNOME Yaru-Blue			|Updated		 	|
