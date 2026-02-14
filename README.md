@@ -23,7 +23,7 @@ The table below represents the current update status of each icon in the collect
 |File name								| Icon 									| Source 						| Status			|
 |---------------------------------------|---------------------------------------|-------------------------------|-------------------|
 |add_book.png							|![](images/add_book.png)				|Ubuntu GNOME Yaru-Blue			|Updated			|
-|apple-touch-icon.png					|![](images/apple-touch-icon.png)		|Calibre original icon 			|Needs an Updated	|
+|apple-touch-icon.png					|![](images/apple-touch-icon.png)		|Pan4ratte (Me)		 			|Updated			|
 |arrow-down.png							|![](images/arrow-down.png)				|Calibre original icon 			|Unable to Update	|
 |arrow-up.png							|![](images/arrow-up.png)				|Calibre original icon 			|Unable to Update	|
 |auto_author_sort.png					|![](images/auto_author_sort.png)		|Calibre original icon 			|Needs an update 	|
