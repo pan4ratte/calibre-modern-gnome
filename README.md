@@ -15,10 +15,11 @@ This is a Calibre icon theme, a modern and a clean one. All themes, that are cur
 ## Icons Update Status and Source
 
 The table below represents the current update status of each icon in the collection and its source. The icons are listed in alphabetical order. Status options:
-	(a) "Done": icon was successfully replaced;
-	(b) "Needs an update": icon should be replaced with a modern alternative;
-	(c) "Unable to update": icon is not replacable because it used for multiple, contradicting purposes in the Calibre UI. Such icons could be updated only after UI changes in the Calibre itself;
-	(d) "Unchanged": icon do not need an update because it is good enough already.
+
+1. "Done": icon was successfully replaced;
+2. "Needs an update": icon should be replaced with a modern alternative;
+3. "Unable to update": icon is not replacable because it used for multiple, contradicting purposes in the Calibre UI. Such icons could be updated only after UI changes in the Calibre itself;
+4. "Unchanged": icon do not need an update because it is good enough already.
 
 |File name								| Icon 									| Source 						| Status			|
 |---------------------------------------|---------------------------------------|-------------------------------|-------------------|
