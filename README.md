@@ -47,7 +47,21 @@ The table below represents the current update status of each icon in the collect
 |column.png								|![](images/column.png)					|Icons8 (???) 					|Updated		 	|
 |compress-image.png						|![](images/compress-image.png)			|Calibre original icon 			|Needs an update 	|
 |config.png								|![](images/config.png)					|Ubuntu GNOME Yaru-Blue 		|Updated		 	|
-|connect_share.png						|![](images/connect_share.png)			|Ubuntu GNOME Yaru-Blue (customized)|Updated		|
+|connect_share.png						|![](images/connect_share.png)			|Ubuntu GNOME Yaru-Blue (customized by me)|Updated	|
 |connect_share_on.png					|![](images/connect_share_on.png)		|Ubuntu GNOME Yaru-Blue			|Updated		 	|
 |context_menu.png						|![](images/context_menu.png)			|Ubuntu GNOME Yaru-Blue 		|Updated		 	|
 |convert.png							|![](images/convert.png)				|Ubuntu GNOME Yaru-Blue			|Updated		 	|
+|copy-to-library.png					|![](images/copy-to-library.png)		|Calibre original icon			|Needs an update 	|
+|cover_flow.png							|![](images/cover_flow.png)				|Calibre original icon			|Needs an update 	|
+|debug.svg								|![](images/debug.svg)					|???							|Updated		 	|
+|default_cover.png						|![](images/default_cover.png)			|Calibre original icon			|Needs an update	|
+|dialog_error.png						|![](images/dialog_error.png)			|Ubuntu GNOME Yaru-Blue			|Updated		 	|
+|dialog_information.png					|![](images/dialog_information.png)		|Ubuntu GNOME Yaru-Blue			|Updated		 	|
+|dialog_question.png					|![](images/dialog_question.png)		|Ubuntu GNOME Yaru-Blue			|Updated		 	|
+|dialog_warning.png						|![](images/dialog_warning.png)			|Ubuntu GNOME Yaru-Blue			|Updated		 	|
+|dictionary.png							|![](images/dictionary.png)				|Ubuntu GNOME Yaru-Blue			|Updated		 	|
+|diff.png								|![](images/diff.png)					|Calibre original icon			|Needs an update	|
+|document_open.png						|![](images/document_open.png)			|Ubuntu GNOME Yaru-Blue			|Updated		 	|
+|document-encrypt.png					|![](images/document-encrypt.png)		|Ubuntu GNOME Yaru-Blue			|Updated		 	|
+|document-import.png					|![](images/document-import.png)		|Ubuntu GNOME Yaru-Blue			|Updated		 	|
+|document-new.png						|![](images/document-new.png)			|Ubuntu GNOME Yaru-Blue			|Updated		 	|
