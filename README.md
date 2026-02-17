@@ -39,7 +39,7 @@ The table below represents the current update status of each icon in the collect
 |bullhorn.png							|![](images/bullhorn.png)				|Calibre original icon 			|Needs an update 	|
 |catalog.png							|![](images/catalog.png)				|Calibre original icon 			|Needs an update 	|
 |chapters.png							|![](images/chapters.png)				|Calibre original icon 			|Needs an update 	|
-|character-set.png						|![](images/characters-set.png)			|Ubuntu GNOME Yaru-Blue			|Updated		 	|
+|character-set.png						|![](images/character-set.png)			|Ubuntu GNOME Yaru-Blue			|Updated		 	|
 |clear_left-for-dark-theme.png			|![](images/clear_left-for-dark-theme.png)|Calibre original icon 		|Needs an update 	|
 |clear_left-for-light-theme.png			|![](images/clear_left-for-light-theme.png)|Calibre original icon		|Needs an update 	|
 |close-for-dark-theme.png				|![](images/close-for-dark-theme.png)	|Calibre original icon 			|Needs an update 	|
@@ -87,7 +87,7 @@ The table below represents the current update status of each icon in the collect
 |exec.png								|![](images/exec.png)					|Ubuntu GNOME Yaru-Blue			|Updated		 	|
 |external-link.png						|![](images/external-link.png)			|Ubuntu GNOME Yaru-Blue			|Updated		 	|
 |filter.png								|![](images/filter.png)					|Calibre original icon			|Needs an update 	|
-|folder_saved_search.png				|![](images/folder_saved_search.png.png)|Ubuntu GNOME Yaru-Blue			|Updated		 	|
+|folder_saved_search.png				|![](images/folder_saved_search.png)	|Ubuntu GNOME Yaru-Blue			|Updated		 	|
 |font.png								|![](images/font.png)					|Ubuntu GNOME Yaru-Blue			|Updated		 	|
 |font_size_larger.svg					|![](images/font_size_larger.svg)		|???							|Updated		 	|
 |font_size_smaller.svg					|![](images/font_size_smaller.svg)		|???							|Updated		 	|
