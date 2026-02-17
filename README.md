@@ -66,3 +66,29 @@ The table below represents the current update status of each icon in the collect
 |document-encrypt.png					|![](images/document-encrypt.png)		|Ubuntu GNOME Yaru-Blue			|Updated		 	|
 |document-import.png					|![](images/document-import.png)		|Ubuntu GNOME Yaru-Blue			|Updated		 	|
 |document-new.png						|![](images/document-new.png)			|Ubuntu GNOME Yaru-Blue			|Updated		 	|
+|document-split.png						|![](images/document-split.png)			|Calibre original icon			|Needs an update 	|
+|donate.svg								|![](images/donate.svg)					|???							|Updated		 	|
+|dot_green.svg							|![](images/dot_green.svg)				|???							|Updated		 	|
+|dot_red.svg							|![](images/dot_red.svg)				|???							|Updated		 	|
+|download-metadata.png					|![](images/download-metadata.png)		|Ubuntu GNOME Yaru-Blue			|Updated		 	|
+|drm-locked.svg							|![](images/drm-locked.svg)				|???							|Updated		 	|
+|drm-unlocked.svg						|![](images/drm-unlocked.svg)			|???							|Updated		 	|
+|edit-clear.png							|![](images/edit-clear.png)				|Calibre original icon			|Needs an update 	|
+|edit-copy.png							|![](images/edit-copy.png)				|Ubuntu GNOME Yaru-Blue			|Updated		 	|
+|edit-cut.png							|![](images/edit-cut.png)				|Ubuntu GNOME Yaru-Blue			|Updated		 	|
+|edit-paste.png							|![](images/edit-paste.png)				|Ubuntu GNOME Yaru-Blue			|Updated		 	|
+|edit-redo.png							|![](images/edit-redo.png)				|Ubuntu GNOME Yaru-Blue			|Updated		 	|
+|edit-select-all.png					|![](images/edit-select-all.png)		|Ubuntu GNOME Yaru-Blue			|Updated		 	|
+|edit-undo.png							|![](images/edit-undo.png)				|Ubuntu GNOME Yaru-Blue			|Updated		 	|
+|edit_book.png							|![](images/edit_book.png)				|Ubuntu GNOME Yaru-Blue			|Updated		 	|
+|edit_input.png							|![](images/edit_input.png)				|Ubuntu GNOME Yaru-Blue			|Updated		 	|
+|eject.png								|![](images/eject.png)					|Ubuntu GNOME Yaru-Blue			|Updated		 	|
+|embed-fonts.png						|![](images/embed-fonts.png)			|Ubuntu GNOME Yaru-Blue			|Updated		 	|
+|exec.png								|![](images/exec.png)					|Ubuntu GNOME Yaru-Blue			|Updated		 	|
+|external-link.png						|![](images/external-link.png)			|Ubuntu GNOME Yaru-Blue			|Updated		 	|
+|filter.png								|![](images/filter.png)					|Calibre original icon			|Needs an update 	|
+|folder_saved_search.png				|![](images/folder_saved_search.png.png)|Ubuntu GNOME Yaru-Blue			|Updated		 	|
+|font.png								|![](images/font.png)					|Ubuntu GNOME Yaru-Blue			|Updated		 	|
+|font_size_larger.svg					|![](images/font_size_larger.svg)		|???							|Updated		 	|
+|font_size_smaller.svg					|![](images/font_size_smaller.svg)		|???							|Updated		 	|
+|format-fill-color.svg					|![](images/format-fill-color.svg)		|???							|Updated		 	|
