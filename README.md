@@ -1,6 +1,6 @@
 # Calibre Modern GNOME
 
-This is a Calibre icon theme, a modern and a clean one. All themes, that are currently available in Calibre icon store, are morally deprecated and should be replaced with some modern alternative. This is that alternative.
+This is a Calibre icon theme, a modern and a clean one. All themes, that are currently available in the Calibre icon store, are morally deprecated and should be replaced with some modern alternative. This is that alternative. Note: until the project gets its first release, it should be considered undergiong alfa-testing.
 
 
 ## Key Principles
@@ -11,6 +11,7 @@ This is a Calibre icon theme, a modern and a clean one. All themes, that are cur
 
 3. Use any other suitable open-source icons that do not conflict stylistically with modern GNOME icons. Sometimes there is no good icon for certain UI element in either Yaru-Blue or Calibre icon themes. In that case you should try to find a good open-source (or free for non-commercial use) icon alternative.
 
+First stage of the project is to replace all default icons with something better. Second stage of the prject will be to redraw every non-Yaru icon on the Yaru style. 
 
 ## Icons Update Status and Source
 
