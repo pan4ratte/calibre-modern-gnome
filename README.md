@@ -99,59 +99,59 @@ The table below represents the current update status of each icon in the collect
 | format-justify-left.png        | ![](images/format-justify-left.png)        | Ubuntu GNOME Yaru-Blue                    | Updated          |
 | format-justify-right.png       | ![](images/format-justify-right.png)       | Ubuntu GNOME Yaru-Blue                    | Updated          |
 | format-list-ordered.png        | ![](images/format-list-ordered.png)        | Ubuntu GNOME Yaru-Blue                    | Updated          |
-| format-list-unordered.png      | ![](images/format-list-unordered.png)      | Ubuntu GNOME Yaru-Blue                    | Updated          |
-| format-text-bold.png           | ![](images/format-text-bold.png)           | Ubuntu GNOME Yaru-Blue                    | Updated          |
+| format-list-unordered.png      | ![](images/format-list-unordered.png)      | Calibre original icon                     | Needs an update  |
+| format-text-bold.png           | ![](images/format-text-bold.png)           | Calibre original icon                     | Needs an update  |
 | format-text-color.png          | ![](images/format-text-color.png)          | Ubuntu GNOME Yaru-Blue                    | Updated          |
 | format-text-heading.png        | ![](images/format-text-heading.png)        | Calibre original icon                     | Needs an update  |
 | format-text-hr.png             | ![](images/format-text-hr.png)             | Calibre original icon                     | Needs an update  |
 | format-text-italic.png         | ![](images/format-text-italic.png)         | Ubuntu GNOME Yaru-Blue                    | Updated          |
 | format-text-strikethrough.png  | ![](images/format-text-strikethrough.png)  | Ubuntu GNOME Yaru-Blue                    | Updated          |
-| format-text-subscript.png      | ![](images/format-text-subscript.png)      | Ubuntu GNOME Yaru-Blue                    | Updated          |
-| format-text-superscript.png    | ![](images/format-text-superscript.png)    | Ubuntu GNOME Yaru-Blue                    | Updated          |
+| format-text-subscript.png      | ![](images/format-text-subscript.png)      | Calibre original icon                     | Needs an update  |
+| format-text-superscript.png    | ![](images/format-text-superscript.png)    | Calibre original icon                     | Needs an update  |
 | format-text-underline.png      | ![](images/format-text-underline.png)      | Ubuntu GNOME Yaru-Blue                    | Updated          |
 | forward.png                    | ![](images/forward.png)                    | Calibre original icon                     | Needs an update  |
 | fts.png                        | ![](images/fts.png)                        | Calibre original icon                     | Needs an update  |
 | generic-library.png            | ![](images/generic-library.png)            | Calibre original icon                     | Needs an update  |
-| gmail_logo.svg                 | ![](images/gmail_logo.svg)                 | ???                                       | Unchanged        |
-| grid.png                       | ![](images/grid.png)                       | Calibre original icon                     | Needs an update  |
+| gmail_logo.svg                 | ![](images/gmail_logo.svg)                 | ???                                       | Updated          |
+| grid.png                       | ![](images/grid.png)                       | Ubuntu GNOME Yaru-Blue                    | Updated          |
 | h-ellipsis.png                 | ![](images/h-ellipsis.png)                 | Ubuntu GNOME Yaru-Blue                    | Updated          |
 | help.png                       | ![](images/help.png)                       | Ubuntu GNOME Yaru-Blue                    | Updated          |
 | heuristics.png                 | ![](images/heuristics.png)                 | Calibre original icon                     | Needs an update  |
 | highlight.png                  | ![](images/highlight.png)                  | Calibre original icon                     | Needs an update  |
 | highlight_only_off.png         | ![](images/highlight_only_off.png)         | Calibre original icon                     | Needs an update  |
 | highlight_only_on.png          | ![](images/highlight_only_on.png)          | Calibre original icon                     | Needs an update  |
-| hotmail.svg                    | ![](images/hotmail.svg)                    | ???                                       | Unchanged        |
+| hotmail.svg                    | ![](images/hotmail.svg)                    | ???                                       | Updated          |
 | html-fix.png                   | ![](images/html-fix.png)                   | Calibre original icon                     | Needs an update  |
-| icon_choose.png                | ![](images/icon_choose.png)                | Calibre original icon                     | Needs an update  |
-| identifiers.png                | ![](images/identifiers.png)                | Calibre original icon                     | Needs an update  |
+| icon_choose.png                | ![](images/icon_choose.png)                | Ubuntu GNOME Yaru-Blue                    | Updated          |
+| identifiers.png                | ![](images/identifiers.png)                | ???                                       | Updated          |
 | insert-link.png                | ![](images/insert-link.png)                | Ubuntu GNOME Yaru-Blue                    | Updated          |
 | jobs.png                       | ![](images/jobs.png)                       | Calibre original icon                     | Needs an update  |
 | keyboard-prefs.png             | ![](images/keyboard-prefs.png)             | Ubuntu GNOME Yaru-Blue                    | Updated          |
 | languages.png                  | ![](images/languages.png)                  | Ubuntu GNOME Yaru-Blue                    | Updated          |
-| layout.png                     | ![](images/layout.png)                     | Calibre original icon                     | Needs an update  |
-| library.png                    | ![](images/library.png)                    | Ubuntu GNOME Yaru-Blue                    | Updated          |
-| list_remove.png                | ![](images/list_remove.png)                | Ubuntu GNOME Yaru-Blue                    | Updated          |
-| lookfeel.png                   | ![](images/lookfeel.png)                   | Calibre original icon                     | Needs an update  |
-| lt.png                         | ![](images/lt.png)                         | ???                                       | Unchanged        |
+| layout.png                     | ![](images/layout.png)                     | Ubuntu GNOME Yaru-Blue                    | Updated          |
+| library.png                    | ![](images/library.png)                    | Pan4ratte (Me)                            | Updated          |
+| list_remove.png                | ![](images/list_remove.png)                | ???                                       | ???              |
+| lookfeel.png                   | ![](images/lookfeel.png)                   | Ubuntu GNOME Yaru-Blue                    | Updated          |
+| lt.png                         | ![](images/lt.png)                         | Pan4ratte (Me)                            | Updated          |
 | mail.png                       | ![](images/mail.png)                       | Ubuntu GNOME Yaru-Blue                    | Updated          |
 | marked.png                     | ![](images/marked.png)                     | Calibre original icon                     | Needs an update  |
 | merge.png                      | ![](images/merge.png)                      | Calibre original icon                     | Needs an update  |
 | merge_books.png                | ![](images/merge_books.png)                | Calibre original icon                     | Needs an update  |
-| metadata.png                   | ![](images/metadata.png)                   | Ubuntu GNOME Yaru-Blue                    | Updated          |
+| metadata.png                   | ![](images/metadata.png)                   | Calibre original icon                     | Needs an update  |
 | minus.svg                      | ![](images/minus.svg)                      | Calibre original icon                     | Needs an update  |
-| minusminus.png                 | ![](images/minusminus.png)                 | Calibre original icon                     | Needs an update  |
+| minusminus.png                 | ![](images/minusminus.png)                 | Ubuntu GNOME Yaru-Blue                    | Updated          |
 | modified-for-dark-theme.png    | ![](images/modified-for-dark-theme.png)    | Calibre original icon                     | Needs an update  |
 | modified-for-light-theme.png   | ![](images/modified-for-light-theme.png)   | Calibre original icon                     | Needs an update  |
 | network-server.png             | ![](images/network-server.png)             | Ubuntu GNOME Yaru-Blue                    | Updated          |
 | news.png                       | ![](images/news.png)                       | Calibre original icon                     | Needs an update  |
-| next.svg                       | ![](images/next.svg)                       | Calibre original icon                     | Needs an update  |
+| next.svg                       | ![](images/next.svg)                       | ???                                       | Updated          |
 | notes-for-dark-theme.png       | ![](images/notes-for-dark-theme.png)       | Calibre original icon                     | Needs an update  |
-| notes.png                      | ![](images/notes.png)                      | Ubuntu GNOME Yaru-Blue                    | Updated          |
-| ok.svg                         | ![](images/ok.svg)                         | Calibre original icon                     | Needs an update  |
-| page.svg                       | ![](images/page.svg)                       | Calibre original icon                     | Needs an update  |
-| plugboard.png                  | ![](images/plugboard.png)                  | Calibre original icon                     | Needs an update  |
+| notes.png                      | ![](images/notes.png)                      | Calibre original icon                     | Needs an update  |
+| ok.svg                         | ![](images/ok.svg)                         | ???                                       | Updated          |
+| page.svg                       | ![](images/page.svg)                       | ???                                       | Updated          |
+| plugboard.png                  | ![](images/plugboard.png)                  | Ubuntu GNOME Yaru-Blue                    | Updated          |
 | plugins.png                    | ![](images/plugins.png)                    | Ubuntu GNOME Yaru-Blue                    | Updated          |
-| plus.svg                       | ![](images/plus.svg)                       | Calibre original icon                     | Needs an update  |
+| plus.svg                       | ![](images/plus.svg)                       | Calibre original icon (-)                 | Needs an update  |
 | plusplus.png                   | ![](images/plusplus.png)                   | Calibre original icon                     | Needs an update  |
 | polish.png                     | ![](images/polish.png)                     | Calibre original icon                     | Needs an update  |
 | previous.svg                   | ![](images/previous.svg)                   | Calibre original icon                     | Needs an update  |
