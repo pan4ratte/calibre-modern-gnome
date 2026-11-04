@@ -56,9 +56,10 @@ The tables below represent the current update status of each icon in the collect
 | add_book.png                   | ![](images/add_book.png)                   | Ubuntu GNOME Yaru-Blue                    |
 | apple-touch-icon.png           | ![](images/apple-touch-icon.png)           | Pan4ratte (Me)                            |
 | bookmarks.svg                  | ![](images/bookmarks.svg)                  | Ubuntu GNOME Yaru-Blue                    |
-| books_in_series.svg            | ![](images/books_in_series.svg)            | Ubuntu GNOME Yaru-Blue                    |
+| books_in_series.png            | ![](images/books_in_series.png)            | Pan4ratte (Me)                            |
 | character-set.png              | ![](images/character-set.png)              | Ubuntu GNOME Yaru-Blue                    |
 | code.png                       | ![](images/code.png)                       | Ubuntu GNOME Yaru-Blue                    |
+| column.png                     | ![](images/column.png)                     | Pan4ratte (Me)                            |
 | config.png                     | ![](images/config.png)                     | Ubuntu GNOME Yaru-Blue                    |
 | connect_share.png              | ![](images/connect_share.png)              | Ubuntu GNOME Yaru-Blue (customized by me) |
 | connect_share_on.png           | ![](images/connect_share_on.png)           | Ubuntu GNOME Yaru-Blue                    |
@@ -69,10 +70,10 @@ The tables below represent the current update status of each icon in the collect
 | dialog_question.png            | ![](images/dialog_question.png)            | Ubuntu GNOME Yaru-Blue                    |
 | dialog_warning.png             | ![](images/dialog_warning.png)             | Ubuntu GNOME Yaru-Blue                    |
 | dictionary.png                 | ![](images/dictionary.png)                 | Ubuntu GNOME Yaru-Blue                    |
-| document_open.png              | ![](images/document_open.png)              | Ubuntu GNOME Yaru-Blue                    |
 | document-encrypt.png           | ![](images/document-encrypt.png)           | Ubuntu GNOME Yaru-Blue                    |
 | document-import.png            | ![](images/document-import.png)            | Ubuntu GNOME Yaru-Blue                    |
 | document-new.png               | ![](images/document-new.png)               | Ubuntu GNOME Yaru-Blue                    |
+| document_open.png              | ![](images/document_open.png)              | Ubuntu GNOME Yaru-Blue                    |
 | download-metadata.png          | ![](images/download-metadata.png)          | Ubuntu GNOME Yaru-Blue                    |
 | edit-clear.png                 | ![](images/edit-clear.png)                 | Pan4ratte (Me)                            |
 | edit-copy.png                  | ![](images/edit-copy.png)                  | Ubuntu GNOME Yaru-Blue                    |
@@ -113,6 +114,7 @@ The tables below represent the current update status of each icon in the collect
 | h-ellipsis.png                 | ![](images/h-ellipsis.png)                 | Ubuntu GNOME Yaru-Blue                    |
 | help.png                       | ![](images/help.png)                       | Ubuntu GNOME Yaru-Blue                    |
 | icon_choose.png                | ![](images/icon_choose.png)                | Ubuntu GNOME Yaru-Blue                    |
+| identifiers.png                | ![](images/identifiers.png)                | Pan4ratte (Me)                            |
 | insert-link.png                | ![](images/insert-link.png)                | Ubuntu GNOME Yaru-Blue                    |
 | keyboard-prefs.png             | ![](images/keyboard-prefs.png)             | Ubuntu GNOME Yaru-Blue                    |
 | languages.png                  | ![](images/languages.png)                  | Ubuntu GNOME Yaru-Blue                    |
@@ -127,15 +129,17 @@ The tables below represent the current update status of each icon in the collect
 | plugins.png                    | ![](images/plugins.png)                    | Ubuntu GNOME Yaru-Blue                    |
 | print-preview.png              | ![](images/print-preview.png)              | Ubuntu GNOME Yaru-Blue                    |
 | print.png                      | ![](images/print.png)                      | Ubuntu GNOME Yaru-Blue                    |
+| publisher.png                  | ![](images/publisher.png)                  | Pan4ratte (Me)                            |
 | rating.png                     | ![](images/rating.png)                     | Ubuntu GNOME Yaru-Blue                    |
 | remove_books.png               | ![](images/remove_books.png)               | Ubuntu GNOME Yaru-Blue                    |
 | restart.png                    | ![](images/restart.png)                    | Ubuntu GNOME Yaru-Blue                    |
 | rotate-right.png               | ![](images/rotate-right.png)               | Ubuntu GNOME Yaru-Blue                    |
 | save.png                       | ![](images/save.png)                       | Ubuntu GNOME Yaru-Blue                    |
 | search.png                     | ![](images/search.png)                     | Ubuntu GNOME Yaru-Blue                    |
+| series.png                     | ![](images/series.png)                     | Pan4ratte (Me)                            |
 | spell-check.png                | ![](images/spell-check.png)                | Ubuntu GNOME Yaru-Blue                    |
 | sync.png                       | ![](images/sync.png)                       | Ubuntu GNOME Yaru-Blue                    |
-| tags.png                       | ![](images/tags.png)                       | Ubuntu GNOME Yaru-Blue                    |
+| tags.png                       | ![](images/tags.png)                       | Pan4ratte (Me)                            |
 | tb_folder.png                  | ![](images/tb_folder.png)                  | Ubuntu GNOME Yaru-Blue                    |
 | trash.png                      | ![](images/trash.png)                      | Ubuntu GNOME Yaru-Blue                    |
 | user_profile.png               | ![](images/user_profile.png)               | Ubuntu GNOME Yaru-Blue                    |
@@ -162,7 +166,6 @@ The tables below represent the current update status of each icon in the collect
 | clear_left-for-light-theme.png | ![](images/clear_left-for-light-theme.png) | Calibre original icon                     |
 | close-for-dark-theme.png       | ![](images/close-for-dark-theme.png)       | Calibre original icon                     |
 | close-for-light-theme.png      | ![](images/close-for-light-theme.png)      | Calibre original icon                     |
-| column.png                     | ![](images/column.png)                     | Icons8 (???)                              |
 | compress-image.png             | ![](images/compress-image.png)             | Calibre original icon                     |
 | copy-to-library.png            | ![](images/copy-to-library.png)            | Calibre original icon                     |
 | cover_flow.png                 | ![](images/cover_flow.png)                 | Calibre original icon                     |
@@ -186,7 +189,6 @@ The tables below represent the current update status of each icon in the collect
 | highlight_only_on.png          | ![](images/highlight_only_on.png)          | Calibre original icon                     |
 | hotmail.svg                    | ![](images/hotmail.svg)                    | ???                                       |
 | html-fix.png                   | ![](images/html-fix.png)                   | Calibre original icon                     |
-| identifiers.png                | ![](images/identifiers.png)                | ???                                       |
 | jobs.png                       | ![](images/jobs.png)                       | Calibre original icon                     |
 | list_remove.png                | ![](images/list_remove.png)                | ???                                       |
 | marked.png                     | ![](images/marked.png)                     | Calibre original icon                     |
@@ -206,7 +208,6 @@ The tables below represent the current update status of each icon in the collect
 | plusplus.png                   | ![](images/plusplus.png)                   | Calibre original icon                     |
 | polish.png                     | ![](images/polish.png)                     | Calibre original icon                     |
 | previous.svg                   | ![](images/previous.svg)                   | Calibre original icon                     |
-| publisher.svg                  | ![](images/publisher.svg)                  | Calibre original icon                     |
 | quickview.png                  | ![](images/quickview.png)                  | Calibre original icon                     |
 | random.png                     | ![](images/random.png)                     | Calibre original icon                     |
 | reader.png                     | ![](images/reader.png)                     | Calibre original icon                     |
@@ -219,7 +220,6 @@ The tables below represent the current update status of each icon in the collect
 | search_add_saved.png           | ![](images/search_add_saved.png)           | Calibre original icon                     |
 | search_copy_saved.png          | ![](images/search_copy_saved.png)          | Calibre original icon                     |
 | search_delete_saved.png        | ![](images/search_delete_saved.png)        | Calibre original icon                     |
-| series.svg                     | ![](images/series.svg)                     | Calibre original icon                     |
 | similar.png                    | ![](images/similar.png)                    | Calibre original icon                     |
 | smarten-punctuation.png        | ![](images/smarten-punctuation.png)        | Calibre original icon                     |
 | snippets.png                   | ![](images/snippets.png)                   | Calibre original icon                     |

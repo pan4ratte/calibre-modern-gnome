@@ -5,6 +5,7 @@
 - New direction: the theme now uses only Yaru icons and icons drawn in Yaru style. The 17 icons from other sources are marked as "Needs an update" and will be replaced.
 - The theme is now licensed under CC BY-SA 4.0, the same license as the Yaru icons.
 - New formatting icons drawn in Yaru style: ordered and unordered list, heading, horizontal rule, subscript, superscript, text color, background color, larger and smaller font, and clear. They replace calibre's original icons and three icons of unknown origin.
+- New icons drawn in Yaru style for series (in the sidebar and the "books in this series" action), publisher, tags, identifiers and custom columns.
 
 ## 1.0.0 (2026-11-04)
 

@@ -84,4 +84,11 @@ Simple icons (letters, lines, badges, basic shapes) are written as SVG code dire
 3. Clean the exported file: remove Illustrator's extra elements and metadata, keep the 256×256 `viewBox`, and check the drawing still follows this guide.
 4. Render, check and preview as for any other icon (`tools\theme.cmd render`, `check`, `preview`).
 
-Scripts wait while Illustrator has a dialog open. This workflow has not been used for an icon yet, so try it on a copy first.
+What survives the round trip, learned on the books in a series, publisher, tags, identifiers and column icons:
+
+- **Plain shapes only.** Illustrator drops SVG filters (it fills the shape solid black instead) and exports clipping paths as `<use>` references that calibre's SVG renderer can't draw. Draw Yaru's darker bottom edge and top highlight as real shapes (the shape intersected with a copy of itself moved up, or minus a copy moved down), not with clip paths.
+- **Shadows as named groups.** Put each drop shadow in its own group `shadow-N` right under its shape. For Illustrator the group is plain black at 22% opacity; when cleaning the export, give these groups Yaru's blur back (`feGaussianBlur` 2.5, 2 px down, 22% black). Illustrator keeps group ids as their names, so the groups come back with the same ids.
+- **Linear gradients, stop opacity, even-odd fills and fill opacity** survive as they are.
+- **Turn off alerts.** Set `app.userInteractionLevel = UserInteractionLevel.DONTDISPLAYALERTS` while a script opens files; otherwise an import warning dialog blocks the script until someone clicks OK.
+
+Export with `ExportOptionsSVG`: `DTD` SVG1_1, `cssProperties` PRESENTATIONATTRIBUTES, `fontType` OUTLINEFONT, `preserveEditability`, `embedRasterImages`, `includeFileInfo` and `optimizeForSVGViewer` off, `coordinatePrecision` 2, UTF-8.
