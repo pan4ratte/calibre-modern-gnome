@@ -74,6 +74,7 @@ The tables below represent the current update status of each icon in the collect
 | document-import.png            | ![](images/document-import.png)            | Ubuntu GNOME Yaru-Blue                    |
 | document-new.png               | ![](images/document-new.png)               | Ubuntu GNOME Yaru-Blue                    |
 | download-metadata.png          | ![](images/download-metadata.png)          | Ubuntu GNOME Yaru-Blue                    |
+| edit-clear.png                 | ![](images/edit-clear.png)                 | Pan4ratte (Me)                            |
 | edit-copy.png                  | ![](images/edit-copy.png)                  | Ubuntu GNOME Yaru-Blue                    |
 | edit-cut.png                   | ![](images/edit-cut.png)                   | Ubuntu GNOME Yaru-Blue                    |
 | edit-paste.png                 | ![](images/edit-paste.png)                 | Ubuntu GNOME Yaru-Blue                    |
@@ -88,6 +89,9 @@ The tables below represent the current update status of each icon in the collect
 | external-link.png              | ![](images/external-link.png)              | Ubuntu GNOME Yaru-Blue                    |
 | folder_saved_search.png        | ![](images/folder_saved_search.png)        | Ubuntu GNOME Yaru-Blue                    |
 | font.png                       | ![](images/font.png)                       | Ubuntu GNOME Yaru-Blue                    |
+| font_size_larger.png           | ![](images/font_size_larger.png)           | Pan4ratte (Me)                            |
+| font_size_smaller.png          | ![](images/font_size_smaller.png)          | Pan4ratte (Me)                            |
+| format-fill-color.png          | ![](images/format-fill-color.png)          | Pan4ratte (Me)                            |
 | format-indent-less.png         | ![](images/format-indent-less.png)         | Ubuntu GNOME Yaru-Blue                    |
 | format-indent-more.png         | ![](images/format-indent-more.png)         | Ubuntu GNOME Yaru-Blue                    |
 | format-justify-center.png      | ![](images/format-justify-center.png)      | Ubuntu GNOME Yaru-Blue                    |
@@ -95,9 +99,15 @@ The tables below represent the current update status of each icon in the collect
 | format-justify-left.png        | ![](images/format-justify-left.png)        | Ubuntu GNOME Yaru-Blue                    |
 | format-justify-right.png       | ![](images/format-justify-right.png)       | Ubuntu GNOME Yaru-Blue                    |
 | format-list-ordered.png        | ![](images/format-list-ordered.png)        | Pan4ratte (Me)                            |
+| format-list-unordered.png      | ![](images/format-list-unordered.png)      | Pan4ratte (Me)                            |
+| format-text-bold.png           | ![](images/format-text-bold.png)           | Ubuntu GNOME Yaru-Blue                    |
 | format-text-color.png          | ![](images/format-text-color.png)          | Pan4ratte (Me)                            |
+| format-text-heading.png        | ![](images/format-text-heading.png)        | Pan4ratte (Me)                            |
+| format-text-hr.png             | ![](images/format-text-hr.png)             | Pan4ratte (Me)                            |
 | format-text-italic.png         | ![](images/format-text-italic.png)         | Ubuntu GNOME Yaru-Blue                    |
 | format-text-strikethrough.png  | ![](images/format-text-strikethrough.png)  | Ubuntu GNOME Yaru-Blue                    |
+| format-text-subscript.png      | ![](images/format-text-subscript.png)      | Pan4ratte (Me)                            |
+| format-text-superscript.png    | ![](images/format-text-superscript.png)    | Pan4ratte (Me)                            |
 | format-text-underline.png      | ![](images/format-text-underline.png)      | Ubuntu GNOME Yaru-Blue                    |
 | grid.png                       | ![](images/grid.png)                       | Ubuntu GNOME Yaru-Blue                    |
 | h-ellipsis.png                 | ![](images/h-ellipsis.png)                 | Ubuntu GNOME Yaru-Blue                    |
@@ -165,17 +175,7 @@ The tables below represent the current update status of each icon in the collect
 | dot_red.svg                    | ![](images/dot_red.svg)                    | ???                                       |
 | drm-locked.svg                 | ![](images/drm-locked.svg)                 | ???                                       |
 | drm-unlocked.svg               | ![](images/drm-unlocked.svg)               | ???                                       |
-| edit-clear.png                 | ![](images/edit-clear.png)                 | Calibre original icon                     |
 | filter.png                     | ![](images/filter.png)                     | Calibre original icon                     |
-| font_size_larger.svg           | ![](images/font_size_larger.svg)           | ???                                       |
-| font_size_smaller.svg          | ![](images/font_size_smaller.svg)          | ???                                       |
-| format-fill-color.svg          | ![](images/format-fill-color.svg)          | ???                                       |
-| format-list-unordered.png      | ![](images/format-list-unordered.png)      | Calibre original icon                     |
-| format-text-bold.png           | ![](images/format-text-bold.png)           | Calibre original icon                     |
-| format-text-heading.png        | ![](images/format-text-heading.png)        | Calibre original icon                     |
-| format-text-hr.png             | ![](images/format-text-hr.png)             | Calibre original icon                     |
-| format-text-subscript.png      | ![](images/format-text-subscript.png)      | Calibre original icon                     |
-| format-text-superscript.png    | ![](images/format-text-superscript.png)    | Calibre original icon                     |
 | forward.png                    | ![](images/forward.png)                    | Calibre original icon                     |
 | fts.png                        | ![](images/fts.png)                        | Calibre original icon                     |
 | generic-library.png            | ![](images/generic-library.png)            | Calibre original icon                     |

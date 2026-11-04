@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Unordered list. Blue bullets as in Yaru's 256px list-remove; lines drawn like Yaru's format-justify-left. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <linearGradient id="blue" x1="1" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#1a7fd4"/><stop offset="1" stop-color="#37a6e6"/></linearGradient>
+  </defs>
+  <path fill="#ffffff" transform="translate(0 8)" d="M96 48h128v8h-128z M96 120h128v8h-128z M96 192h128v8h-128z"/>
+  <path fill="#232629" d="M96 48h128v8h-128z M96 120h128v8h-128z M96 192h128v8h-128z"/>
+  <g fill="url(#blue)"><circle cx="56" cy="52" r="16"/><circle cx="56" cy="124" r="16"/><circle cx="56" cy="196" r="16"/></g>
+</svg>

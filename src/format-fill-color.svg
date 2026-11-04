@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Background color. A tilted paint bucket pouring a drop over a line, drawn like Yaru's 256px
+     format-text-* glyphs: #4d4d4d to #151515 gradient with a 4px white outline. The light area is the
+     air above the liquid, which stays level while the bucket tilts. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <linearGradient id="glyph" x1="1" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#151515"/><stop offset="1" stop-color="#4d4d4d"/></linearGradient>
+    <linearGradient id="inside" x1="1" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#d5d5d5"/><stop offset="1" stop-color="#f7f7f7"/></linearGradient>
+  </defs>
+  <g fill="#ffffff" stroke="#ffffff" stroke-width="8" stroke-linejoin="round">
+    <g stroke-width="10" transform="translate(100 123) rotate(45) scale(0.96)"><path d="M-58 -58 H58 L46.60 44.00 A18 18 0 0 1 28.60 62 H-28.60 A18 18 0 0 1 -46.60 44.00 Z"/><rect x="-78" y="-72" width="142" height="16" rx="8"/></g>
+    <path d="M196 138 C196 138 178 162 178 173 A18 18 0 0 0 214 173 C214 162 196 138 196 138 Z"/>
+    <rect x="32" y="206" width="192" height="24" rx="12"/>
+  </g>
+  <g fill="url(#glyph)">
+    <g transform="translate(100 123) rotate(45) scale(0.96)"><path d="M-58 -58 H58 L46.60 44.00 A18 18 0 0 1 28.60 62 H-28.60 A18 18 0 0 1 -46.60 44.00 Z"/><rect x="-78" y="-72" width="142" height="16" rx="8"/></g>
+    <path d="M196 138 C196 138 178 162 178 173 A18 18 0 0 0 214 173 C214 162 196 138 196 138 Z"/>
+    <rect x="32" y="206" width="192" height="24" rx="12"/>
+  </g>
+  <path transform="translate(100 123) rotate(45) scale(0.96)" d="M-42.80 -56.00 L42.80 -56.00 L42.80 -55.98 L-35.02 21.83 Z" fill="url(#inside)" stroke="url(#inside)" stroke-width="6" stroke-linejoin="round"/>
+</svg>
