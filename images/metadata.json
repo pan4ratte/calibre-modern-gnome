@@ -1,12 +1,8 @@
 {
-  "title": "Yaru",
+  "title": "Modern GNOME",
   "author": "Mark Ingram",
   "color_palette": "any",
-  "version": 1,
-  "description": "",
-  "number": 239,
-  "date": "2025-10-09",
-  "name": "yaru",
-  "license": "Unknown",
-  "url": null
+  "description": "Modern icons based on the Ubuntu Yaru-Blue icon theme.",
+  "license": "CC BY-SA 4.0 for Yaru and own icons, other icons keep their original licenses",
+  "url": "https://github.com/pan4ratte/calibre-modern-gnome"
 }

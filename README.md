@@ -1,6 +1,17 @@
 # Calibre Modern GNOME
 
-This is a Calibre icon theme, a modern and a clean one. All themes, that are currently available in the Calibre icon store, are morally deprecated and should be replaced with some modern alternative. This is that alternative. Note: until the project gets its first release, it should be considered undergiong alfa-testing.
+This is a Calibre icon theme, a modern and a clean one. All themes, that are currently available in the Calibre icon store, are morally deprecated and should be replaced with some modern alternative. This is that alternative. See [CHANGELOG.md](CHANGELOG.md) for the changes in each release.
+
+## Installation
+
+The theme is not in calibre's icon theme list yet, so for now it is installed by hand:
+
+1. Download this repository (Code → Download ZIP) and unpack it.
+2. In calibre, open Preferences → Advanced → Miscellaneous → Open calibre configuration directory.
+3. Copy the `images` folder from the download into the `resources` folder there (create `resources` if it does not exist).
+4. Restart calibre.
+
+Icons in that folder are used instead of any icon theme chosen in calibre. To go back to the default icons, delete `resources/images` and restart calibre.
 
 
 ## Key Principles
