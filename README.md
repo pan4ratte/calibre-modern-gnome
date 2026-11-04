@@ -36,6 +36,12 @@ This repository is meant to be cloned as calibre's `resources` folder, so calibr
 
 The goal is to replace every calibre icon this way. Icons that still come from other sources, including calibre's original icons, are listed under "Needs an update" until they are replaced.
 
+## About the author
+
+My name is Mark Ingrem. I build various tools for scientific research, and add-ons that make life easier for people using Obsidian and other programs. More of my projects can be found on my [GitHub](https://github.com/pan4ratte) page.
+
+If Calibre Modern GNOME is useful to you, you can [support its development](https://pay.cloudtips.ru/p/c0e8eac4). The page takes cards issued in Russia.
+
 ## License
 
 The theme is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](LICENSE) (CC BY-SA 4.0), the same license as the Yaru icons it is based on.
