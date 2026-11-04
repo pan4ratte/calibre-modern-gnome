@@ -1,4 +1,4 @@
-# Agent Instructions
+# Instructions for Claude
 
 ## Icon sources
 
@@ -18,8 +18,9 @@ Use one of these values in the README "Source" column for replaced icons:
 ## Drawing icons
 
 - Every icon drawn for this project has its source in `src/<icon-name>.svg`. `tools\theme.cmd render` turns it into `images/<icon-name>.png` (256×256). Never edit those PNG files by hand.
-- Base new icons on Yaru: its full-color sources (`icons/src/fullcolor` in github.com/ubuntu/yaru) for the look, and its symbolic icons (`icons/src/scalable`) for the idea when there is no full-color one.
-- Match the 256px Yaru icons already in the theme: glyphs use a #4d4d4d to #151515 gradient (top left to bottom right) with a 4px white outline; text lines are #232629 bars with a white copy 8px below; keep the drawing inside 32..224 px.
+- Follow `docs/yaru-style.md`: where Yaru's sources are, the measured colors, outlines, lines, fonts and layout, when to use color, and the logic rules. Read it before drawing, and add to it when a new rule is agreed with the user.
+- Base new icons on Yaru: its full-color sources for the look, and its symbolic icons for the idea when there is no full-color one. If Yaru already has the icon, use Yaru's PNG.
+- Simple icons are written as SVG code. Icons with detailed artwork are made with the user in Adobe Illustrator: draft the SVG, open it in Illustrator by script, let the user refine it, then export and clean it (see "Working in Illustrator" in the guide).
 - Check every new icon on light and dark backgrounds and at small sizes (16 to 48 px) before calling it done.
 
 ## Icon status tables in README.md

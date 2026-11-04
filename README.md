@@ -15,7 +15,7 @@ Icons in that folder are used instead of any icon theme chosen in calibre. To go
 
 ## Development
 
-This repository is meant to be cloned as calibre's `resources` folder, so calibre uses the icons in `images/` directly. `tools\theme.cmd` runs calibre's own icon theme tools on them (it needs calibre installed):
+This repository is meant to be cloned as calibre's `resources` folder, so calibre uses the icons in `images/` directly. Icons drawn for this project follow the [Yaru style guide](docs/yaru-style.md). `tools\theme.cmd` runs calibre's own icon theme tools on them (it needs calibre installed):
 
 - `tools\theme.cmd check` lists calibre icons the theme does not have, icons calibre no longer uses, broken images and README tables that do not match the `images` folder.
 - `tools\theme.cmd render` turns the icons drawn for this project, kept as SVG files in `src/`, into the 256×256 PNG files in `images/` that calibre uses. Edit the SVG, never the PNG.
