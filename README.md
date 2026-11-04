@@ -225,13 +225,17 @@ The tables below represent the current update status of each icon in the collect
 
 | File name                      | Icon                                       | Source                                    |
 |--------------------------------|--------------------------------------------|-------------------------------------------|
+| ai.png                         | ![](images/ai.png)                         | Calibre original icon                     |
 | beautify.png                   | ![](images/beautify.png)                   | Calibre original icon                     |
 | book.png                       | ![](images/book.png)                       | Calibre original icon                     |
 | bookmarks.svg                  | ![](images/bookmarks.svg)                  | Ubuntu GNOME Yaru-Blue                    |
+| bookshelf.png                  | ![](images/bookshelf.png)                  | Calibre original icon                     |
+| calibre.svg                    | ![](images/calibre.svg)                    | Calibre original icon                     |
 | catalog.png                    | ![](images/catalog.png)                    | Calibre original icon                     |
 | compress-image.png             | ![](images/compress-image.png)             | Calibre original icon                     |
 | copy-to-library.png            | ![](images/copy-to-library.png)            | Calibre original icon                     |
 | cover_flow.png                 | ![](images/cover_flow.png)                 | Calibre original icon                     |
+| cyoa.png                       | ![](images/cyoa.png)                       | Calibre original icon                     |
 | debug.svg                      | ![](images/debug.svg)                      | ???                                       |
 | default_cover.png              | ![](images/default_cover.png)              | Calibre original icon                     |
 | donate.svg                     | ![](images/donate.svg)                     | ???                                       |
@@ -239,8 +243,11 @@ The tables below represent the current update status of each icon in the collect
 | dot_red.svg                    | ![](images/dot_red.svg)                    | ???                                       |
 | drm-locked.svg                 | ![](images/drm-locked.svg)                 | ???                                       |
 | drm-unlocked.svg               | ![](images/drm-unlocked.svg)               | ???                                       |
+| favicon-192.png                | ![](images/favicon-192.png)                | Calibre original icon                     |
+| favicon-512.png                | ![](images/favicon-512.png)                | Calibre original icon                     |
 | filter.png                     | ![](images/filter.png)                     | Calibre original icon                     |
 | fts.png                        | ![](images/fts.png)                        | Calibre original icon                     |
+| gear.png                       | ![](images/gear.png)                       | Calibre original icon                     |
 | generic-library.png            | ![](images/generic-library.png)            | Calibre original icon                     |
 | gmail_logo.svg                 | ![](images/gmail_logo.svg)                 | ???                                       |
 | heuristics.png                 | ![](images/heuristics.png)                 | Calibre original icon                     |
@@ -265,8 +272,10 @@ The tables below represent the current update status of each icon in the collect
 | rating.png                     | ![](images/rating.png)                     | Ubuntu GNOME Yaru-Blue                    |
 | reference.png                  | ![](images/reference.png)                  | Calibre original icon                     |
 | resize.png                     | ![](images/resize.png)                     | Calibre original icon                     |
+| scene-divider.png              | ![](images/scene-divider.png)              | Calibre original icon                     |
 | scroll.png                     | ![](images/scroll.png)                     | Calibre original icon                     |
 | search_copy_saved.png          | ![](images/search_copy_saved.png)          | Calibre original icon                     |
+| send.png                       | ![](images/send.png)                       | Calibre original icon                     |
 | similar.png                    | ![](images/similar.png)                    | Calibre original icon                     |
 | smarten-punctuation.png        | ![](images/smarten-punctuation.png)        | Calibre original icon                     |
 | snippets.png                   | ![](images/snippets.png)                   | Calibre original icon                     |
