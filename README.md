@@ -1,4 +1,8 @@
-# Calibre Modern GNOME
+<div align="center">
+  <img src="images/calibre.png" width="128" height="128" alt="Calibre Modern GNOME logo">
+  <h1>Calibre Modern GNOME</h1>
+  <p>Modern, clean icon theme for calibre<br>in the style of Ubuntu's Yaru icons</p>
+</div>
 
 This is a Calibre icon theme, a modern and a clean one. All themes, that are currently available in the Calibre icon store, are morally deprecated and should be replaced with some modern alternative. This is that alternative. See [CHANGELOG.md](CHANGELOG.md) for the changes in each release.
 
