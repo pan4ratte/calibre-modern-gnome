@@ -78,12 +78,16 @@ Toolbar icons for working with text: bold, italic, underline, strikethrough, hea
 
 ### Basic action symbols
 
-Small generic symbols that calibre uses in many places: OK, plus, minus, double plus and minus, next, previous. Working examples: `src/ok.svg`, `plus.svg`, `minus.svg`, `plusplus.svg`, `minusminus.svg`, `next.svg`, `previous.svg`.
+Small generic symbols and buttons that calibre uses in many places: OK, plus, minus, double plus and minus, next, previous, back, forward, up, down, close, remove, clear, refresh, auto reload, rotate, auto scroll, sort, read aloud, link, compare, split. Working examples: the matching files in `src/`.
 
 - **Neutral, never colored.** Not Yaru's colored round buttons (`dialog-apply`, `list-add`): draw them the same way as the text formatting glyphs above, with the dark gradient and the 4 px white outline.
 - **A dark mode version of each**, made as for the text formatting icons.
-- **Shapes from Yaru's symbolic icons**, scaled up: `object-select` for OK, `list-add` and `list-remove` for plus and minus, `go-next` and `go-previous` (a tall chevron, ends cut flat) for next and previous.
-- **Strokes** are 32 px wide, and a single symbol spans 160 to 192 px. The double symbols keep calibre's layout, two symbols on a diagonal (centers at 168,88 and 88,168), each 112 px long with 28 px strokes.
+- **Shapes from Yaru's symbolic icons**, scaled up: `object-select` for OK, `list-add` and `list-remove` for plus and minus, `go-next` and `go-previous` (a tall chevron, ends cut flat) for next and previous, and for back and forward too, as in Yaru. `window-close` (a plain X) for close, `edit-clear` (an outlined backspace tag with an X) for clear, `view-refresh` for reload, `emblem-synchronizing` (two arrows round a circle, turned clockwise like reload) for refresh, `object-rotate-right` for rotate, `pan-down` chevrons for scroll, `view-sort-descending` for sort, `audio-volume-high` for read aloud, `insert-link` (two links and a bar, set on the diagonal, without the insert triangle) for links. Without a Yaru symbol, keep calibre's idea (two pages for compare, a page cut in two for split).
+- **Reuse shapes for the same idea.** Up and down are the next chevron turned, remove is the close X (it pairs with the OK check mark as yes / no), sync to the right is the next chevron.
+- **Strokes** are 24 to 32 px wide, and a single symbol spans 160 to 192 px. The double symbols keep calibre's layout, two symbols on a diagonal (centers at 168,88 and 88,168), each 112 px long with 28 px strokes.
+- **Filled shapes, sharp corners.** Draw lines as filled shapes (an X is the plus turned 45°, a ring segment is two arcs joined), not as stroked paths: a stroke's white outline stops at its ends and leaves them unfinished. Corners and joins are sharp and line ends are cut flat, as in the chevrons; no round caps. Parts of one object can be drawn as separate shapes, each with its own outline, so the outline shows where they meet (such as the parts of a machine).
+- **Pages** (compare, split) are Yaru's page: rounded corners (14 px), the top right corner folded (36 px, a solid triangle), a light surface with a 14 px glyph edge. Arrows that show content moving are Yaru blue, as in the formatting icons. With several shapes, the gradient is set on the whole canvas (`gradientUnits="userSpaceOnUse"`, from #4d4d4d at 0,0 to #151515 at 256,256) so it runs evenly across them.
+- **Icons calibre has only as a light and dark pair** (`close`, `clear_left`) get a source for each: `<name>-for-light-theme.svg` and `<name>-for-dark-theme.svg`.
 
 ## Working in Illustrator
 

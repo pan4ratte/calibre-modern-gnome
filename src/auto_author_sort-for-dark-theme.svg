@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Sort by author. Yaru's view-sort-descending symbol, drawn like the 256px format-text-* glyphs. Colors inverted for dark mode. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <linearGradient id="glyph" gradientUnits="userSpaceOnUse" x1="256" y1="256" x2="0" y2="0"><stop offset="0" stop-color="#d5d5d5"/><stop offset="1" stop-color="#f7f7f7"/></linearGradient>
+    <linearGradient id="surface" gradientUnits="userSpaceOnUse" x1="256" y1="256" x2="0" y2="0"><stop offset="0" stop-color="#151515"/><stop offset="1" stop-color="#4d4d4d"/></linearGradient>
+    <linearGradient id="blue" x1="1" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#1a7fd4"/><stop offset="1" stop-color="#37a6e6"/></linearGradient>
+  </defs>
+  <path d="M32 32 h56 v56 h-56 Z M50 50 v20 h20 v-20 Z M32 100 h56 v56 h-56 Z M50 118 v20 h20 v-20 Z M32 168 h56 v56 h-56 Z M50 186 v20 h20 v-20 Z" fill-rule="evenodd" fill="#232629" stroke="#232629" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M164 32 L188 32 L188 160 L224 160 L176 224 L128 160 L164 160 Z" fill="#232629" stroke="#232629" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M32 32 h56 v56 h-56 Z M50 50 v20 h20 v-20 Z M32 100 h56 v56 h-56 Z M50 118 v20 h20 v-20 Z M32 168 h56 v56 h-56 Z M50 186 v20 h20 v-20 Z" fill-rule="evenodd" fill="url(#glyph)"/>
+  <path d="M164 32 L188 32 L188 160 L224 160 L176 224 L128 160 L164 160 Z" fill="url(#glyph)"/>
+</svg>

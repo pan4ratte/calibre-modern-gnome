@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Rotate right. Yaru's object-rotate-right symbol, drawn like the 256px format-text-* glyphs. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <linearGradient id="glyph" gradientUnits="userSpaceOnUse" x1="256" y1="256" x2="0" y2="0"><stop offset="0" stop-color="#151515"/><stop offset="1" stop-color="#4d4d4d"/></linearGradient>
+    <linearGradient id="surface" gradientUnits="userSpaceOnUse" x1="256" y1="256" x2="0" y2="0"><stop offset="0" stop-color="#d5d5d5"/><stop offset="1" stop-color="#f7f7f7"/></linearGradient>
+    <linearGradient id="blue" x1="1" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#1a7fd4"/><stop offset="1" stop-color="#37a6e6"/></linearGradient>
+  </defs>
+  <path d="M117.8 225.5 A98.0 98.0 0 1 1 208.3 71.8 L185.3 87.8 A70.0 70.0 0 1 0 120.7 197.6 Z" fill="#ffffff" stroke="#ffffff" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M231.2 55.7 L162.4 103.9 L231.2 129 Z" fill="#ffffff" stroke="#ffffff" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M205.2 188.3 A98.0 98.0 0 0 1 185.6 207.3 L169.1 184.6 A70.0 70.0 0 0 0 183.2 171.1 Z" fill="#ffffff" stroke="#ffffff" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M167.9 217.5 A98.0 98.0 0 0 1 141.6 225.0 L137.7 197.3 A70.0 70.0 0 0 0 156.5 191.9 Z" fill="#ffffff" stroke="#ffffff" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M150 128 A22 22 0 0 1 106 128 A22 22 0 0 1 150 128 Z M137 128 A9 9 0 0 1 119 128 A9 9 0 0 1 137 128 Z" fill-rule="evenodd" fill="#ffffff" stroke="#ffffff" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M117.8 225.5 A98.0 98.0 0 1 1 208.3 71.8 L185.3 87.8 A70.0 70.0 0 1 0 120.7 197.6 Z" fill="url(#glyph)"/>
+  <path d="M231.2 55.7 L162.4 103.9 L231.2 129 Z" fill="url(#glyph)"/>
+  <path d="M205.2 188.3 A98.0 98.0 0 0 1 185.6 207.3 L169.1 184.6 A70.0 70.0 0 0 0 183.2 171.1 Z" fill="url(#glyph)"/>
+  <path d="M167.9 217.5 A98.0 98.0 0 0 1 141.6 225.0 L137.7 197.3 A70.0 70.0 0 0 0 156.5 191.9 Z" fill="url(#glyph)"/>
+  <path d="M150 128 A22 22 0 0 1 106 128 A22 22 0 0 1 150 128 Z M137 128 A9 9 0 0 1 119 128 A9 9 0 0 1 137 128 Z" fill-rule="evenodd" fill="url(#glyph)"/>
+</svg>

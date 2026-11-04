@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Link. Yaru's insert-link symbol (two links and a bar), on the diagonal, drawn like the 256px format-text-* glyphs. Colors inverted for dark mode. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <linearGradient id="glyph" gradientUnits="userSpaceOnUse" x1="256" y1="256" x2="0" y2="0"><stop offset="0" stop-color="#d5d5d5"/><stop offset="1" stop-color="#f7f7f7"/></linearGradient>
+    <linearGradient id="surface" gradientUnits="userSpaceOnUse" x1="256" y1="256" x2="0" y2="0"><stop offset="0" stop-color="#151515"/><stop offset="1" stop-color="#4d4d4d"/></linearGradient>
+    <linearGradient id="blue" x1="1" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#1a7fd4"/><stop offset="1" stop-color="#37a6e6"/></linearGradient>
+  </defs>
+  <path d="M50.2 160.5 L81.3 129.4 A20 20 0 0 1 109.6 129.4 L126.6 146.4 A20 20 0 0 1 126.6 174.7 L95.5 205.8 A20 20 0 0 1 67.2 205.8 L50.2 188.8 A20 20 0 0 1 50.2 160.5 Z M64.4 171.8 L92.6 143.6 A4 4 0 0 1 98.3 143.6 L112.4 157.7 A4 4 0 0 1 112.4 163.4 L84.2 191.6 A4 4 0 0 1 78.5 191.6 L64.4 177.5 A4 4 0 0 1 64.4 171.8 Z M129.4 81.3 L160.5 50.2 A20 20 0 0 1 188.8 50.2 L205.8 67.2 A20 20 0 0 1 205.8 95.5 L174.7 126.6 A20 20 0 0 1 146.4 126.6 L129.4 109.6 A20 20 0 0 1 129.4 81.3 Z M143.6 92.6 L171.8 64.4 A4 4 0 0 1 177.5 64.4 L191.6 78.5 A4 4 0 0 1 191.6 84.2 L163.4 112.4 A4 4 0 0 1 157.7 112.4 L143.6 98.3 A4 4 0 0 1 143.6 92.6 Z" fill-rule="evenodd" fill="#232629" stroke="#232629" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M83.5 159.8 L159.8 83.5 A2 2 0 0 1 162.6 83.5 L172.5 93.4 A2 2 0 0 1 172.5 96.2 L96.2 172.5 A2 2 0 0 1 93.4 172.5 L83.5 162.6 A2 2 0 0 1 83.5 159.8 Z" fill="#232629" stroke="#232629" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M50.2 160.5 L81.3 129.4 A20 20 0 0 1 109.6 129.4 L126.6 146.4 A20 20 0 0 1 126.6 174.7 L95.5 205.8 A20 20 0 0 1 67.2 205.8 L50.2 188.8 A20 20 0 0 1 50.2 160.5 Z M64.4 171.8 L92.6 143.6 A4 4 0 0 1 98.3 143.6 L112.4 157.7 A4 4 0 0 1 112.4 163.4 L84.2 191.6 A4 4 0 0 1 78.5 191.6 L64.4 177.5 A4 4 0 0 1 64.4 171.8 Z M129.4 81.3 L160.5 50.2 A20 20 0 0 1 188.8 50.2 L205.8 67.2 A20 20 0 0 1 205.8 95.5 L174.7 126.6 A20 20 0 0 1 146.4 126.6 L129.4 109.6 A20 20 0 0 1 129.4 81.3 Z M143.6 92.6 L171.8 64.4 A4 4 0 0 1 177.5 64.4 L191.6 78.5 A4 4 0 0 1 191.6 84.2 L163.4 112.4 A4 4 0 0 1 157.7 112.4 L143.6 98.3 A4 4 0 0 1 143.6 92.6 Z" fill-rule="evenodd" fill="url(#glyph)"/>
+  <path d="M83.5 159.8 L159.8 83.5 A2 2 0 0 1 162.6 83.5 L172.5 93.4 A2 2 0 0 1 172.5 96.2 L96.2 172.5 A2 2 0 0 1 93.4 172.5 L83.5 162.6 A2 2 0 0 1 83.5 159.8 Z" fill="url(#glyph)"/>
+</svg>

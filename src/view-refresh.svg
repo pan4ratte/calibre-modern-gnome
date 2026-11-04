@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Refresh. Two arrows round a circle, like Yaru's emblem-synchronizing symbol, turning clockwise as in view-refresh, drawn like the 256px format-text-* glyphs. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <linearGradient id="glyph" gradientUnits="userSpaceOnUse" x1="256" y1="256" x2="0" y2="0"><stop offset="0" stop-color="#151515"/><stop offset="1" stop-color="#4d4d4d"/></linearGradient>
+    <linearGradient id="surface" gradientUnits="userSpaceOnUse" x1="256" y1="256" x2="0" y2="0"><stop offset="0" stop-color="#d5d5d5"/><stop offset="1" stop-color="#f7f7f7"/></linearGradient>
+    <linearGradient id="blue" x1="1" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#1a7fd4"/><stop offset="1" stop-color="#37a6e6"/></linearGradient>
+  </defs>
+  <path d="M33.8 101.0 A98.0 98.0 0 0 1 200.8 62.4 L180.0 81.2 A70.0 70.0 0 0 0 60.7 108.7 Z" fill="#ffffff" stroke="#ffffff" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M221.6 43.7 L159.2 99.9 L230.6 116.4 Z" fill="#ffffff" stroke="#ffffff" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M222.2 155.0 A98.0 98.0 0 0 1 55.2 193.6 L76.0 174.8 A70.0 70.0 0 0 0 195.3 147.3 Z" fill="#ffffff" stroke="#ffffff" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M34.4 212.3 L96.8 156.1 L25.4 139.6 Z" fill="#ffffff" stroke="#ffffff" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M33.8 101.0 A98.0 98.0 0 0 1 200.8 62.4 L180.0 81.2 A70.0 70.0 0 0 0 60.7 108.7 Z" fill="url(#glyph)"/>
+  <path d="M221.6 43.7 L159.2 99.9 L230.6 116.4 Z" fill="url(#glyph)"/>
+  <path d="M222.2 155.0 A98.0 98.0 0 0 1 55.2 193.6 L76.0 174.8 A70.0 70.0 0 0 0 195.3 147.3 Z" fill="url(#glyph)"/>
+  <path d="M34.4 212.3 L96.8 156.1 L25.4 139.6 Z" fill="url(#glyph)"/>
+</svg>

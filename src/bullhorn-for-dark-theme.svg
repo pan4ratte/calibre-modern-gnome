@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Read aloud. Yaru's audio-volume-high symbol (a speaker with two sound waves), drawn like the 256px format-text-* glyphs. Colors inverted for dark mode. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <linearGradient id="glyph" gradientUnits="userSpaceOnUse" x1="256" y1="256" x2="0" y2="0"><stop offset="0" stop-color="#d5d5d5"/><stop offset="1" stop-color="#f7f7f7"/></linearGradient>
+    <linearGradient id="surface" gradientUnits="userSpaceOnUse" x1="256" y1="256" x2="0" y2="0"><stop offset="0" stop-color="#151515"/><stop offset="1" stop-color="#4d4d4d"/></linearGradient>
+    <linearGradient id="blue" x1="1" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#1a7fd4"/><stop offset="1" stop-color="#37a6e6"/></linearGradient>
+  </defs>
+  <path d="M44 100 L84 100 L132 52 L132 204 L84 156 L44 156 Z" fill="#232629" stroke="#232629" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M167.4 92.6 A50.0 50.0 0 0 1 167.4 163.4 L153.2 149.2 A30.0 30.0 0 0 0 153.2 106.8 Z" fill="#232629" stroke="#232629" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M192.4 56.0 A94.0 94.0 0 0 1 192.4 200.0 L179.6 184.7 A74.0 74.0 0 0 0 179.6 71.3 Z" fill="#232629" stroke="#232629" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M44 100 L84 100 L132 52 L132 204 L84 156 L44 156 Z" fill="url(#glyph)"/>
+  <path d="M167.4 92.6 A50.0 50.0 0 0 1 167.4 163.4 L153.2 149.2 A30.0 30.0 0 0 0 153.2 106.8 Z" fill="url(#glyph)"/>
+  <path d="M192.4 56.0 A94.0 94.0 0 0 1 192.4 200.0 L179.6 184.7 A74.0 74.0 0 0 0 179.6 71.3 Z" fill="url(#glyph)"/>
+</svg>

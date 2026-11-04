@@ -55,8 +55,27 @@ The tables below represent the current update status of each icon in the collect
 |--------------------------------|--------------------------------------------|-------------------------------------------|
 | add_book.png                   | ![](images/add_book.png)                   | Ubuntu GNOME Yaru-Blue                    |
 | apple-touch-icon.png           | ![](images/apple-touch-icon.png)           | Pan4ratte (Me)                            |
+| arrow-down-for-dark-theme.png  | ![](images/arrow-down-for-dark-theme.png)  | Pan4ratte (Me)                            |
+| arrow-down.png                 | ![](images/arrow-down.png)                 | Pan4ratte (Me)                            |
+| arrow-up-for-dark-theme.png    | ![](images/arrow-up-for-dark-theme.png)    | Pan4ratte (Me)                            |
+| arrow-up.png                   | ![](images/arrow-up.png)                   | Pan4ratte (Me)                            |
+| auto-reload-for-dark-theme.png | ![](images/auto-reload-for-dark-theme.png) | Pan4ratte (Me)                            |
+| auto-reload.png                | ![](images/auto-reload.png)                | Pan4ratte (Me)                            |
+| auto-scroll-for-dark-theme.png | ![](images/auto-scroll-for-dark-theme.png) | Pan4ratte (Me)                            |
+| auto-scroll.png                | ![](images/auto-scroll.png)                | Pan4ratte (Me)                            |
+| auto_author_sort-for-dark-theme.png | ![](images/auto_author_sort-for-dark-theme.png) | Pan4ratte (Me)                            |
+| auto_author_sort.png           | ![](images/auto_author_sort.png)           | Pan4ratte (Me)                            |
+| back-for-dark-theme.png        | ![](images/back-for-dark-theme.png)        | Pan4ratte (Me)                            |
+| back.png                       | ![](images/back.png)                       | Pan4ratte (Me)                            |
 | books_in_series.png            | ![](images/books_in_series.png)            | Pan4ratte (Me)                            |
+| bullhorn-for-dark-theme.png    | ![](images/bullhorn-for-dark-theme.png)    | Pan4ratte (Me)                            |
+| bullhorn.png                   | ![](images/bullhorn.png)                   | Pan4ratte (Me)                            |
+| chapters.png                   | ![](images/chapters.png)                   | Pan4ratte (Me)                            |
 | character-set.png              | ![](images/character-set.png)              | Ubuntu GNOME Yaru-Blue                    |
+| clear_left-for-dark-theme.png  | ![](images/clear_left-for-dark-theme.png)  | Pan4ratte (Me)                            |
+| clear_left-for-light-theme.png | ![](images/clear_left-for-light-theme.png) | Pan4ratte (Me)                            |
+| close-for-dark-theme.png       | ![](images/close-for-dark-theme.png)       | Pan4ratte (Me)                            |
+| close-for-light-theme.png      | ![](images/close-for-light-theme.png)      | Pan4ratte (Me)                            |
 | code.png                       | ![](images/code.png)                       | Ubuntu GNOME Yaru-Blue                    |
 | column.png                     | ![](images/column.png)                     | Pan4ratte (Me)                            |
 | config.png                     | ![](images/config.png)                     | Ubuntu GNOME Yaru-Blue                    |
@@ -69,9 +88,13 @@ The tables below represent the current update status of each icon in the collect
 | dialog_question.png            | ![](images/dialog_question.png)            | Ubuntu GNOME Yaru-Blue                    |
 | dialog_warning.png             | ![](images/dialog_warning.png)             | Ubuntu GNOME Yaru-Blue                    |
 | dictionary.png                 | ![](images/dictionary.png)                 | Ubuntu GNOME Yaru-Blue                    |
+| diff-for-dark-theme.png        | ![](images/diff-for-dark-theme.png)        | Pan4ratte (Me)                            |
+| diff.png                       | ![](images/diff.png)                       | Pan4ratte (Me)                            |
 | document-encrypt.png           | ![](images/document-encrypt.png)           | Ubuntu GNOME Yaru-Blue                    |
 | document-import.png            | ![](images/document-import.png)            | Ubuntu GNOME Yaru-Blue                    |
 | document-new.png               | ![](images/document-new.png)               | Ubuntu GNOME Yaru-Blue                    |
+| document-split-for-dark-theme.png | ![](images/document-split-for-dark-theme.png) | Pan4ratte (Me)                            |
+| document-split.png             | ![](images/document-split.png)             | Pan4ratte (Me)                            |
 | document_open.png              | ![](images/document_open.png)              | Ubuntu GNOME Yaru-Blue                    |
 | download-metadata.png          | ![](images/download-metadata.png)          | Ubuntu GNOME Yaru-Blue                    |
 | edit-clear.png                 | ![](images/edit-clear.png)                 | Pan4ratte (Me)                            |
@@ -120,16 +143,21 @@ The tables below represent the current update status of each icon in the collect
 | format-text-superscript.png    | ![](images/format-text-superscript.png)    | Pan4ratte (Me)                            |
 | format-text-underline-for-dark-theme.png | ![](images/format-text-underline-for-dark-theme.png) | Ubuntu GNOME Yaru-Blue (customized by me) |
 | format-text-underline.png      | ![](images/format-text-underline.png)      | Ubuntu GNOME Yaru-Blue                    |
+| forward-for-dark-theme.png     | ![](images/forward-for-dark-theme.png)     | Pan4ratte (Me)                            |
+| forward.png                    | ![](images/forward.png)                    | Pan4ratte (Me)                            |
 | grid.png                       | ![](images/grid.png)                       | Ubuntu GNOME Yaru-Blue                    |
 | h-ellipsis.png                 | ![](images/h-ellipsis.png)                 | Ubuntu GNOME Yaru-Blue                    |
 | help.png                       | ![](images/help.png)                       | Ubuntu GNOME Yaru-Blue                    |
 | icon_choose.png                | ![](images/icon_choose.png)                | Ubuntu GNOME Yaru-Blue                    |
 | identifiers.png                | ![](images/identifiers.png)                | Pan4ratte (Me)                            |
-| insert-link.png                | ![](images/insert-link.png)                | Ubuntu GNOME Yaru-Blue                    |
+| insert-link-for-dark-theme.png | ![](images/insert-link-for-dark-theme.png) | Pan4ratte (Me)                            |
+| insert-link.png                | ![](images/insert-link.png)                | Pan4ratte (Me)                            |
 | keyboard-prefs.png             | ![](images/keyboard-prefs.png)             | Ubuntu GNOME Yaru-Blue                    |
 | languages.png                  | ![](images/languages.png)                  | Ubuntu GNOME Yaru-Blue                    |
 | layout.png                     | ![](images/layout.png)                     | Ubuntu GNOME Yaru-Blue                    |
 | library.png                    | ![](images/library.png)                    | Pan4ratte (Me)                            |
+| list_remove-for-dark-theme.png | ![](images/list_remove-for-dark-theme.png) | Pan4ratte (Me)                            |
+| list_remove.png                | ![](images/list_remove.png)                | Pan4ratte (Me)                            |
 | lookfeel.png                   | ![](images/lookfeel.png)                   | Ubuntu GNOME Yaru-Blue                    |
 | lt.png                         | ![](images/lt.png)                         | Pan4ratte (Me)                            |
 | mail.png                       | ![](images/mail.png)                       | Ubuntu GNOME Yaru-Blue                    |
@@ -158,7 +186,8 @@ The tables below represent the current update status of each icon in the collect
 | remove_books.png               | ![](images/remove_books.png)               | Ubuntu GNOME Yaru-Blue                    |
 | reports.png                    | ![](images/reports.png)                    | Ubuntu GNOME Yaru-Blue                    |
 | restart.png                    | ![](images/restart.png)                    | Ubuntu GNOME Yaru-Blue                    |
-| rotate-right.png               | ![](images/rotate-right.png)               | Ubuntu GNOME Yaru-Blue                    |
+| rotate-right-for-dark-theme.png | ![](images/rotate-right-for-dark-theme.png) | Pan4ratte (Me)                            |
+| rotate-right.png               | ![](images/rotate-right.png)               | Pan4ratte (Me)                            |
 | save.png                       | ![](images/save.png)                       | Ubuntu GNOME Yaru-Blue                    |
 | scheduler.png                  | ![](images/scheduler.png)                  | Ubuntu GNOME Yaru-Blue                    |
 | sd.png                         | ![](images/sd.png)                         | Ubuntu GNOME Yaru-Blue                    |
@@ -167,6 +196,8 @@ The tables below represent the current update status of each icon in the collect
 | search_delete_saved.png        | ![](images/search_delete_saved.png)        | Ubuntu GNOME Yaru-Blue                    |
 | series.png                     | ![](images/series.png)                     | Pan4ratte (Me)                            |
 | store.png                      | ![](images/store.png)                      | Ubuntu GNOME Yaru-Blue                    |
+| sync-right-for-dark-theme.png  | ![](images/sync-right-for-dark-theme.png)  | Pan4ratte (Me)                            |
+| sync-right.png                 | ![](images/sync-right.png)                 | Pan4ratte (Me)                            |
 | sync.png                       | ![](images/sync.png)                       | Ubuntu GNOME Yaru-Blue                    |
 | tags.png                       | ![](images/tags.png)                       | Pan4ratte (Me)                            |
 | tb_folder.png                  | ![](images/tb_folder.png)                  | Ubuntu GNOME Yaru-Blue                    |
@@ -178,7 +209,8 @@ The tables below represent the current update status of each icon in the collect
 | user_profile.png               | ![](images/user_profile.png)               | Ubuntu GNOME Yaru-Blue                    |
 | v-ellipsis.png                 | ![](images/v-ellipsis.png)                 | Ubuntu GNOME Yaru-Blue                    |
 | view-image.png                 | ![](images/view-image.png)                 | Ubuntu GNOME Yaru-Blue                    |
-| view-refresh.png               | ![](images/view-refresh.png)               | Ubuntu GNOME Yaru-Blue                    |
+| view-refresh-for-dark-theme.png | ![](images/view-refresh-for-dark-theme.png) | Pan4ratte (Me)                            |
+| view-refresh.png               | ![](images/view-refresh.png)               | Pan4ratte (Me)                            |
 | view.png                       | ![](images/view.png)                       | Ubuntu GNOME Yaru-Blue                    |
 | viewer.png                     | ![](images/viewer.png)                     | Ubuntu GNOME Yaru-Blue                    |
 | window-close.png               | ![](images/window-close.png)               | Ubuntu GNOME Yaru-Blue                    |
@@ -188,34 +220,21 @@ The tables below represent the current update status of each icon in the collect
 
 | File name                      | Icon                                       | Source                                    |
 |--------------------------------|--------------------------------------------|-------------------------------------------|
-| auto_author_sort.png           | ![](images/auto_author_sort.png)           | Calibre original icon                     |
-| auto-reload.png                | ![](images/auto-reload.png)                | Calibre original icon                     |
-| auto-scroll.png                | ![](images/auto-scroll.png)                | Calibre original icon                     |
-| back.png                       | ![](images/back.png)                       | Calibre original icon                     |
 | beautify.png                   | ![](images/beautify.png)                   | Calibre original icon                     |
 | book.png                       | ![](images/book.png)                       | Calibre original icon                     |
 | bookmarks.svg                  | ![](images/bookmarks.svg)                  | Ubuntu GNOME Yaru-Blue                    |
-| bullhorn.png                   | ![](images/bullhorn.png)                   | Calibre original icon                     |
 | catalog.png                    | ![](images/catalog.png)                    | Calibre original icon                     |
-| chapters.png                   | ![](images/chapters.png)                   | Calibre original icon                     |
-| clear_left-for-dark-theme.png  | ![](images/clear_left-for-dark-theme.png)  | Calibre original icon                     |
-| clear_left-for-light-theme.png | ![](images/clear_left-for-light-theme.png) | Calibre original icon                     |
-| close-for-dark-theme.png       | ![](images/close-for-dark-theme.png)       | Calibre original icon                     |
-| close-for-light-theme.png      | ![](images/close-for-light-theme.png)      | Calibre original icon                     |
 | compress-image.png             | ![](images/compress-image.png)             | Calibre original icon                     |
 | copy-to-library.png            | ![](images/copy-to-library.png)            | Calibre original icon                     |
 | cover_flow.png                 | ![](images/cover_flow.png)                 | Calibre original icon                     |
 | debug.svg                      | ![](images/debug.svg)                      | ???                                       |
 | default_cover.png              | ![](images/default_cover.png)              | Calibre original icon                     |
-| diff.png                       | ![](images/diff.png)                       | Calibre original icon                     |
-| document-split.png             | ![](images/document-split.png)             | Calibre original icon                     |
 | donate.svg                     | ![](images/donate.svg)                     | ???                                       |
 | dot_green.svg                  | ![](images/dot_green.svg)                  | ???                                       |
 | dot_red.svg                    | ![](images/dot_red.svg)                    | ???                                       |
 | drm-locked.svg                 | ![](images/drm-locked.svg)                 | ???                                       |
 | drm-unlocked.svg               | ![](images/drm-unlocked.svg)               | ???                                       |
 | filter.png                     | ![](images/filter.png)                     | Calibre original icon                     |
-| forward.png                    | ![](images/forward.png)                    | Calibre original icon                     |
 | fts.png                        | ![](images/fts.png)                        | Calibre original icon                     |
 | generic-library.png            | ![](images/generic-library.png)            | Calibre original icon                     |
 | gmail_logo.svg                 | ![](images/gmail_logo.svg)                 | ???                                       |
@@ -226,7 +245,6 @@ The tables below represent the current update status of each icon in the collect
 | hotmail.svg                    | ![](images/hotmail.svg)                    | ???                                       |
 | html-fix.png                   | ![](images/html-fix.png)                   | Calibre original icon                     |
 | jobs.png                       | ![](images/jobs.png)                       | Calibre original icon                     |
-| list_remove.png                | ![](images/list_remove.png)                | ???                                       |
 | marked.png                     | ![](images/marked.png)                     | Calibre original icon                     |
 | merge.png                      | ![](images/merge.png)                      | Calibre original icon                     |
 | merge_books.png                | ![](images/merge_books.png)                | Calibre original icon                     |
@@ -252,7 +270,6 @@ The tables below represent the current update status of each icon in the collect
 | split.png                      | ![](images/split.png)                      | Calibre original icon                     |
 | subset-fonts.png               | ![](images/subset-fonts.png)               | Calibre original icon                     |
 | swap.png                       | ![](images/swap.png)                       | Calibre original icon                     |
-| sync-right.png                 | ![](images/sync-right.png)                 | Calibre original icon                     |
 | toc.png                        | ![](images/toc.png)                        | Calibre original icon                     |
 | unpack-book.png                | ![](images/unpack-book.png)                | Calibre original icon                     |
 | vl.png                         | ![](images/vl.png)                         | Calibre original icon                     |
@@ -262,8 +279,6 @@ The tables below represent the current update status of each icon in the collect
 
 | File name                      | Icon                                       | Source                                    |
 |--------------------------------|--------------------------------------------|-------------------------------------------|
-| arrow-down.png                 | ![](images/arrow-down.png)                 | Calibre original icon                     |
-| arrow-up.png                   | ![](images/arrow-up.png)                   | Calibre original icon                     |
 
 ### Unchanged
 

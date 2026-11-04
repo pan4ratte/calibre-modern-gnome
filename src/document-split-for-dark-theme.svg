@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Split. Yaru's page cut in two with arrows, as in calibre's icon, drawn like the 256px format-text-* glyphs; the arrows in Yaru blue. Colors inverted for dark mode. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <linearGradient id="glyph" gradientUnits="userSpaceOnUse" x1="256" y1="256" x2="0" y2="0"><stop offset="0" stop-color="#d5d5d5"/><stop offset="1" stop-color="#f7f7f7"/></linearGradient>
+    <linearGradient id="surface" gradientUnits="userSpaceOnUse" x1="256" y1="256" x2="0" y2="0"><stop offset="0" stop-color="#151515"/><stop offset="1" stop-color="#4d4d4d"/></linearGradient>
+    <linearGradient id="blue" x1="1" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#1a7fd4"/><stop offset="1" stop-color="#37a6e6"/></linearGradient>
+  </defs>
+  <path d="M54 24 H180 L216 60 V116 H40 V38 A14 14 0 0 1 54 24 Z" fill="#232629" stroke="#232629" stroke-width="22" stroke-linejoin="round"/>
+  <path d="M54 24 H180 L216 60 V116 H40 V38 A14 14 0 0 1 54 24 Z" fill="url(#surface)" stroke="url(#glyph)" stroke-width="14" stroke-linejoin="round"/>
+  <path d="M180 24 L216 60 L180 60 Z" fill="url(#glyph)" stroke="url(#glyph)" stroke-width="14" stroke-linejoin="round"/>
+  <path d="M92 96 L164 96 L128 56 Z" fill="#232629" stroke="#232629" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M92 96 L164 96 L128 56 Z" fill="url(#blue)"/>
+  <path d="M40 140 H216 V218 A14 14 0 0 1 202 232 H54 A14 14 0 0 1 40 218 Z" fill="#232629" stroke="#232629" stroke-width="22" stroke-linejoin="round"/>
+  <path d="M40 140 H216 V218 A14 14 0 0 1 202 232 H54 A14 14 0 0 1 40 218 Z" fill="url(#surface)" stroke="url(#glyph)" stroke-width="14" stroke-linejoin="round"/>
+  <path d="M92 164 L164 164 L128 204 Z" fill="#232629" stroke="#232629" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M92 164 L164 164 L128 204 Z" fill="url(#blue)"/>
+</svg>

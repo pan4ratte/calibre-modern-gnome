@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Remove, and No next to ok.png. The X of close-for-light-theme.svg (Yaru's window-close), drawn like the 256px format-text-* glyphs. Colors inverted for dark mode. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <linearGradient id="glyph" gradientUnits="userSpaceOnUse" x1="256" y1="256" x2="0" y2="0"><stop offset="0" stop-color="#d5d5d5"/><stop offset="1" stop-color="#f7f7f7"/></linearGradient>
+    <linearGradient id="surface" gradientUnits="userSpaceOnUse" x1="256" y1="256" x2="0" y2="0"><stop offset="0" stop-color="#151515"/><stop offset="1" stop-color="#4d4d4d"/></linearGradient>
+    <linearGradient id="blue" x1="1" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#1a7fd4"/><stop offset="1" stop-color="#37a6e6"/></linearGradient>
+  </defs>
+  <path d="M187.4 46 L210 68.6 L150.6 128 L210 187.4 L187.4 210 L128 150.6 L68.6 210 L46 187.4 L105.4 128 L46 68.6 L68.6 46 L128 105.4 Z" fill="#232629" stroke="#232629" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M187.4 46 L210 68.6 L150.6 128 L210 187.4 L187.4 210 L128 150.6 L68.6 210 L46 187.4 L105.4 128 L46 68.6 L68.6 46 L128 105.4 Z" fill="url(#glyph)"/>
+</svg>

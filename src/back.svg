@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Back, the same as previous. The chevron of Yaru's go-previous symbol, drawn like the 256px format-text-* glyphs. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <linearGradient id="glyph" x1="1" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#151515"/><stop offset="1" stop-color="#4d4d4d"/></linearGradient>
+  </defs>
+  <g fill="#ffffff" stroke="#ffffff" stroke-width="8" stroke-linejoin="round">
+    <path d="M139.13 32 L79.13 128 L139.13 224 L176.87 224 L116.87 128 L176.87 32 Z"/>
+  </g>
+  <g fill="url(#glyph)">
+    <path d="M139.13 32 L79.13 128 L139.13 224 L176.87 224 L116.87 128 L176.87 32 Z"/>
+  </g>
+</svg>
