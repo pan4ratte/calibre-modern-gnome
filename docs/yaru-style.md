@@ -1,6 +1,36 @@
 # Yaru style guide for this theme
 
-How the icons drawn for this project match Ubuntu's Yaru icons. The numbers were measured from Yaru's own sources and from the 256 px Yaru icons already in the theme. The SVG files in `src/` follow every rule here, so they are the working examples.
+Yaru's own design drives every icon in this theme. This guide has four parts: the general approach, which comes first and applies to every icon; Yaru's palette and sources; rules agreed for particular families of icons, which apply only to icons of that family; and how to work with Illustrator.
+
+## General approach
+
+1. **If Yaru already has the icon, use it.** Take Yaru's 256 px PNG.
+2. **Match the closest Yaru icons.** Find the Yaru icons nearest to the new one: the same context (actions, apps, categories, devices, emblems, mimetypes, places, status) and a similar meaning. Draw the new icon the way they are drawn: shape language, colors, shading, size on the canvas, outline. A device icon should look like Yaru's device icons, a folder like its places icons, a toolbar action like its action icons. Yaru builds on the [Suru](https://snwh.org/suru) icons of Ubuntu Touch, so Suru icons are the next reference.
+3. **Build it the way Yaru does.** Yaru requires new full-color icons to start from an existing Yaru icon or from one of its templates (`icons/src/fullcolor/`: blank, square, round and oblong app icons, mimetype, legacy action). Its templates are organized in layers: Background (the color), Pictogram (the symbol), Folds, Highlights, Shadows and Emblems.
+4. **Pick the idea.** Use Yaru's symbolic icon for the same action when there is one. If not, keep the idea of calibre's original icon. If that doesn't work either, use the most common design for that action (a paint bucket for fill color).
+5. **Use Yaru's colors.** Take colors from Yaru's palette (below) or from the Yaru icons being matched.
+6. **Make it make sense.** Drawings must be physically plausible: a pouring bucket's liquid is level and reaches the spout the drop comes from; an eraser touches the line it erases.
+7. **Ask when unsure.** If it isn't clear which approach fits an icon, ask the user before drawing. For example: which Yaru icons to match, Yaru's symbol or calibre's idea, color or neutral, drawn in code or in Illustrator. Show the options rather than picking one silently.
+8. **Check it.** Look at every icon on light and dark backgrounds and at 16, 24, 32 and 48 px before calling it done.
+
+## Yaru's palette
+
+From `icons/src/Yaru.gpl`, Yaru's Inkscape palette. Each family has five shades, 01 darkest to 05 lightest.
+
+| Family | 01 | 02 | 03 | 04 | 05 |
+|---|---|---|---|---|---|
+| Aubergine | #62237C | #9B33AE | #C43AC4 | #D85ECA | #E97CC8 |
+| Purple | #7839B7 | #8C59D9 | #8F76E4 | #A7A7F1 | #C5C9F5 |
+| Deep Blue | #234DB8 | #2F5FDD | #5884F4 | #80A3FA | #A2BCFE |
+| Blue | #1463A5 | #1A7FD4 | #37A6E6 | #6DC7F1 | #AEE3F8 |
+| Turquoise | #2B898F | #2DAAAA | #31C6B7 | #5BDBC1 | #81E9C0 |
+| Green | #28851E | #46A926 | #76C22B | #A6D74F | #CBE667 |
+| Yellow | #EAB305 | #FDC92B | #FFDA64 | #FEE581 | #FFF4C9 |
+| Orange | #D64310 | #F34F17 | #FB7C38 | #FDA463 | #FEC589 |
+| Red | #BC1938 | #DA1636 | #F22C42 | #F76363 | #FA9381 |
+| Beige | #AEA795 | #C8C4B7 | #E3DFD5 | #F1F0E9 | #FAF8F6 |
+
+Neutrals: Jet #111111, Inkstone #3B3B3B, Slate #5D5D5D, Graphite #666666, Ash #888888, Silk #CDCDCD, Porcelain #F7F7F7, White #FFFFFF. Ubuntu brand colors: Orange #E95420, Blue #19B6EE, Green #3EB34F, Red #ED3146.
 
 ## Where Yaru's sources are
 
@@ -13,45 +43,37 @@ All in [github.com/ubuntu/yaru](https://github.com/ubuntu/yaru), licensed CC BY-
 | Symbolic icons | `icons/src/scalable/default/<context>/<name>-symbolic.svg` | The idea, when Yaru has no full-color icon for it (16 px, one color). |
 | Old full-color actions | `icons/src/fullcolor/default/legacy/` | Badges and bullets: `list-add`, `list-remove`. |
 | Templates and Yaru's rules | `icons/src/fullcolor/README.md`, `icons/CONTRIBUTING.md` | |
+| Palette | `icons/src/Yaru.gpl` | |
 
-Yaru's own rules that matter here: new full-color icons are made from a template or from an existing Yaru icon; names follow the freedesktop icon naming spec; Yaru draws in Inkscape and warns that other editors add their own elements to SVG files, so anything made elsewhere must be saved as plain SVG (see [Working in Illustrator](#working-in-illustrator)).
+Yaru's own rules that matter here: new full-color icons start from a template or an existing Yaru icon; names follow the freedesktop icon naming spec; Yaru draws in Inkscape and warns that other editors add their own elements to SVG files, so anything made elsewhere must be saved as plain SVG (see [Working in Illustrator](#working-in-illustrator)).
 
 ## Canvas
 
 - One 256×256 image per icon. calibre takes a single image and scales it, so unlike Yaru there are no separate small-size drawings. Draw in `src/<icon-name>.svg` with `viewBox="0 0 256 256"`; `tools\theme.cmd render` makes the PNG.
-- Keep the drawing inside 32..224 px. Tall shapes may use 20..234 px, the height Yaru's letters use (Yaru's "B" runs from 21 to 234 with its outline).
+- Use the space the Yaru icons being matched use. Yaru's action icons keep their drawing inside about 32..224 px; its letters run from 21 to 234 px with their outline.
 
-## The neutral look (the default)
+## Rules for icon families
 
-Most icons are neutral, like Yaru's 256 px text formatting icons.
+These rules were measured from Yaru and agreed with the user for one family of icons each. They apply only to that family. Add a new section here when a new family's rules are agreed.
 
-- **Glyphs and solid shapes**: a linear gradient from #4d4d4d at the top left to #151515 at the bottom right (`x1="1" y1="1" x2="0" y2="0"`: stop 0 #151515, stop 1 #4d4d4d), with a 4 px white outline: draw a white copy of the shape with an 8 px white stroke, round joins, under the shape. The outline is what keeps them readable on dark backgrounds.
-- **Text lines** (Yaru's `format-justify-*`): #232629 bars, 8 px high, with a white copy of each bar 8 px below it. In a paragraph they repeat every 24 px; full lines are 192 px long from x 32, shorter ones 160 or 128 px.
-- **Light surfaces** (inside of a bucket, an eraser's rubber): a gradient from #f7f7f7 at the top left to #d5d5d5 at the bottom right. Next to white, give them a thin #232629 edge.
-- **Letters and digits**: the Ubuntu font, as in Yaru. Ubuntu Bold for letters and digits (heading "H", subscript "x", list numbers). The "A" in text color, background color and font size icons is the Ubuntu Medium "A" from Yaru's `font-color-symbolic.svg`. Letters that stand alone are as tall as Yaru's B, I, U: about 206 px.
+### Text formatting and editing actions
 
-## Color
+Toolbar icons for working with text: bold, italic, underline, strikethrough, heading, subscript, superscript, lists, alignment, indent, horizontal rule, text and background color, font size, clear. They match Yaru's 256 px `format-text-*`, `format-justify-*` and `format-indent-*` icons, and its legacy `list-add` and `list-remove`. Working examples: the matching files in `src/`.
 
-Color is the exception: use it only where it means something, and keep everything else neutral.
+- **Neutral by default.** Glyphs and solid shapes use a linear gradient from #4d4d4d at the top left to #151515 at the bottom right (`x1="1" y1="1" x2="0" y2="0"`: stop 0 #151515, stop 1 #4d4d4d), with a 4 px white outline: a white copy of the shape with an 8 px white stroke and round joins, under the shape. The outline keeps them readable on dark backgrounds.
+- **Text lines.** #232629 bars, 8 px high, with a white copy of each bar 8 px below it. In a paragraph they repeat every 24 px; full lines are 192 px long from x 32, shorter ones 160 or 128 px.
+- **Light surfaces** (inside of a bucket, an eraser's rubber): a gradient from #f7f7f7 at the top left to #d5d5d5 at the bottom right; next to white, a thin #232629 edge.
+- **Letters and digits.** The Ubuntu font, as in Yaru. Ubuntu Bold for letters and digits (heading "H", subscript "x", list numbers). The "A" in the text color and font size icons is the Ubuntu Medium "A" from Yaru's `font-color-symbolic.svg`. Letters that stand alone are as tall as Yaru's B, I, U: about 206 px.
+- **Color only where it means something.**
 
-| Color | Values | Means | Used in |
-|---|---|---|---|
-| Yaru blue | gradient #1a7fd4 → #37a6e6 (Yaru's `list-remove` bullets) | the thing the button inserts or moves | list bullets, the "2" in subscript and superscript, the horizontal rule |
-| Yaru green | #45a925 (Yaru's `list-add`) | add, more | plus badges |
-| Yaru red | #c7162b (Yaru's `list-remove`); as a gradient #a51d2d → #e2364c | remove, less; the text color | minus badges, the text color swatch |
+  | Color | Values | Means | Used in |
+  |---|---|---|---|
+  | Yaru Blue 02 → 03 | gradient #1a7fd4 → #37a6e6 (Yaru's `list-remove` bullets) | the thing the button inserts or moves | list bullets, the "2" in subscript and superscript, the horizontal rule |
+  | Yaru Green 02 | #45a925 (Yaru's `list-add`) | add, more | plus badges |
+  | Ubuntu red | #c7162b (Yaru's `list-remove`); as a gradient #a51d2d → #e2364c | remove, less; the text color | minus badges, the text color swatch |
 
-Buttons that are about color in general (background color) or used everywhere (clear) stay neutral.
-
-## Layout of the formatting icons
-
-- Lists: three rows centered at y 52, 124 and 196. The marker column is 32..80 (digits centered in it, bullets are 32 px circles centered at x 56); the text lines run from x 96 to 224. Yaru's `list-remove` puts its bullets at the same rows.
-- Badges (plus, minus, color swatch) sit at the bottom right, over the main shape, with the same 4 px white outline so they stand apart from it.
-
-## Ideas and logic
-
-- Keep the idea of calibre's original icon unless Yaru has its own symbol for that action; then follow Yaru (ordered list, font color, clear). If neither fits, use the most common design for that action (a paint bucket for fill color).
-- Drawings must make physical sense: a pouring bucket has a level liquid surface that reaches the spout the drop comes from; an eraser touches the line it erases.
-- Check every icon on light and dark backgrounds and at 16, 24, 32 and 48 px before calling it done.
+  Buttons about color in general (background color) or used in many places (clear) stay neutral.
+- **Layout.** Lists have three rows centered at y 52, 124 and 196; the marker column is 32..80 (digits centered in it, bullets are 32 px circles centered at x 56), and the text lines run from x 96 to 224. Yaru's `list-remove` puts its bullets at the same rows. Badges (plus, minus, color swatch) sit at the bottom right, over the main shape, with the same 4 px white outline.
 
 ## Working in Illustrator
 

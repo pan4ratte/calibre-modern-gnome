@@ -18,8 +18,9 @@ Use one of these values in the README "Source" column for replaced icons:
 ## Drawing icons
 
 - Every icon drawn for this project has its source in `src/<icon-name>.svg`. `tools\theme.cmd render` turns it into `images/<icon-name>.png` (256×256). Never edit those PNG files by hand.
-- Follow `docs/yaru-style.md`: where Yaru's sources are, the measured colors, outlines, lines, fonts and layout, when to use color, and the logic rules. Read it before drawing, and add to it when a new rule is agreed with the user.
-- Base new icons on Yaru: its full-color sources for the look, and its symbolic icons for the idea when there is no full-color one. If Yaru already has the icon, use Yaru's PNG.
+- Read `docs/yaru-style.md` before drawing. Yaru's general design drives every icon: match the closest Yaru icons of the same kind, build from Yaru's sources and templates, use Yaru's palette. If Yaru already has the icon, use Yaru's PNG. The guide's rules for a family of icons (such as text formatting) apply only to that family.
+- When it isn't clear which approach fits an icon (which Yaru icons to match, Yaru's symbol or calibre's idea, color or neutral, code or Illustrator), ask the user before drawing and show the options.
+- Add to the guide when a new rule is agreed with the user.
 - Simple icons are written as SVG code. Icons with detailed artwork are made with the user in Adobe Illustrator: draft the SVG, open it in Illustrator by script, let the user refine it, then export and clean it (see "Working in Illustrator" in the guide).
 - Check every new icon on light and dark backgrounds and at small sizes (16 to 48 px) before calling it done.
 
