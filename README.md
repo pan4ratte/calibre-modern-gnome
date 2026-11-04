@@ -42,15 +42,14 @@ The theme is licensed under the [Creative Commons Attribution-ShareAlike 4.0 Int
 
 - Yaru icons are made by the [Yaru team](https://github.com/ubuntu/yaru) and licensed under CC BY-SA 4.0. Customized Yaru icons are shared under the same license.
 - Icons drawn for this project are licensed under CC BY-SA 4.0.
-- Icons that are not replaced yet (the "Needs an update" and "Unchanged" tables) keep their original licenses. Most of them are calibre's original icons, which come with calibre under its own licenses. Icons with an unknown source ("???") will be replaced first.
+- Icons that are not replaced yet (the "Needs an update" table, and the empty `blank.png`) keep their original licenses. Most of them are calibre's original icons, which come with calibre under its own licenses. Icons with an unknown source ("???") will be replaced first.
 
 ## Icons Update Status and Source
 
 The tables below represent the current update status of each icon in the collection and its source. There is one table per status, and the icons in each table are listed in alphabetical order. Status options:
 
 1. "Updated": icon was replaced with a Yaru icon or an icon drawn in Yaru style;
-2. "Needs an update": icon should be replaced with a Yaru icon or an icon drawn in Yaru style;
-3. "Unchanged": icon do not need an update because it is good enough already.
+2. "Needs an update": icon should be replaced with a Yaru icon or an icon drawn in Yaru style.
 
 In the "Updated" table, the "Light theme" column shows the icon calibre uses in light mode, and the "Dark theme" column the version it uses in dark mode, for icons that have one.
 
@@ -67,6 +66,7 @@ In the "Updated" table, the "Light theme" column shows the icon calibre uses in 
 | auto-scroll.png                | ![](images/auto-scroll.png)                | ![](images/auto-scroll-for-dark-theme.png)               | Mark Ingrem            |
 | auto_author_sort.png           | ![](images/auto_author_sort.png)           | ![](images/auto_author_sort-for-dark-theme.png)          | Mark Ingrem            |
 | back.png                       | ![](images/back.png)                       | ![](images/back-for-dark-theme.png)                      | Mark Ingrem            |
+| blank.png                      | ![](images/blank.png)                      |                                                          | Calibre original icon  |
 | books_in_series.png            | ![](images/books_in_series.png)            |                                                          | Mark Ingrem            |
 | bullhorn.png                   | ![](images/bullhorn.png)                   | ![](images/bullhorn-for-dark-theme.png)                  | Mark Ingrem            |
 | calibre.png                    | ![](images/calibre.png)                    |                                                          | Mark Ingrem            |
@@ -252,9 +252,3 @@ In the "Updated" table, the "Light theme" column shows the icon calibre uses in 
 | toc.png                        | ![](images/toc.png)                        | Calibre original icon  |
 | unpack-book.png                | ![](images/unpack-book.png)                | Calibre original icon  |
 | width.png                      | ![](images/width.png)                      | Calibre original icon  |
-
-### Unchanged
-
-| File name                      | Icon                                       | Source                 |
-|--------------------------------|--------------------------------------------|------------------------|
-| blank.png                      | ![](images/blank.png)                      | Calibre original icon  |

@@ -26,7 +26,7 @@ Use one of these values in the README "Source" column for replaced icons:
 
 ## Icon status tables in README.md
 
-The "Icons Update Status and Source" section of `README.md` has three tables, one per status: "Updated", "Needs an update" and "Unchanged".
+The "Icons Update Status and Source" section of `README.md` has two tables, one per status: "Updated" and "Needs an update". `blank.png`, an empty transparent image, is the one exception: it stays in "Updated" with the source "Calibre original icon".
 
 - When an icon's status changes, move its row from its current table to the table of the new status. Never keep the same icon in two tables.
 - Update the row's "Source" column if the new icon comes from a different source.
