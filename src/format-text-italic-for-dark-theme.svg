@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Yaru's 256px format-text-italic, colors inverted for dark mode. calibre uses Yaru's own PNG in light mode. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <linearGradient id="linearGradient3668" x1="19" y1="5" x2="19" y2="27" gradientUnits="userSpaceOnUse" gradientTransform="matrix(9.3636362,0,0,9.3636362,2.18178,6.181824)"><stop offset="0" stop-color="#d5d5d5"/><stop offset="1" stop-color="#f7f7f7"/></linearGradient>
+  </defs>
+  <g transform="translate(-24 -28)">
+    <path fill="#232629" fill-opacity="1" stroke="#232629" stroke-width="8" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="4" d="m 133.76358,53 v 16.26316 h 39.92063 L 108.63158,242.73684 H 70.68421 V 259 h 97.57895 V 242.73684 H 130.31579 L 195.36842,69.26316 h 37.94737 V 53 Z"/>
+    <path fill="url(#linearGradient3668)" fill-opacity="1" stroke-width="2.66667" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="4" d="m 133.76358,53 v 16.26316 h 39.92063 L 108.63158,242.73684 H 70.68421 V 259 h 97.57895 V 242.73684 H 130.31579 L 195.36842,69.26316 h 37.94737 V 53 Z"/>
+  </g>
+</svg>

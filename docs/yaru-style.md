@@ -61,6 +61,7 @@ These rules were measured from Yaru and agreed with the user for one family of i
 Toolbar icons for working with text: bold, italic, underline, strikethrough, heading, subscript, superscript, lists, alignment, indent, horizontal rule, text and background color, font size, clear. They match Yaru's 256 px `format-text-*`, `format-justify-*` and `format-indent-*` icons, and its legacy `list-add` and `list-remove`. Working examples: the matching files in `src/`.
 
 - **Neutral by default.** Glyphs and solid shapes use a linear gradient from #4d4d4d at the top left to #151515 at the bottom right (`x1="1" y1="1" x2="0" y2="0"`: stop 0 #151515, stop 1 #4d4d4d), with a 4 px white outline: a white copy of the shape with an 8 px white stroke and round joins, under the shape. The outline keeps them readable on dark backgrounds.
+- **A dark mode version of each icon**, `<name>-for-dark-theme.png`, which calibre uses instead in dark mode. It has the same drawing with the neutral colors inverted: #151515 → #d5d5d5, #4d4d4d → #f7f7f7 (the lighter end of a gradient stays lighter), the white outline → #232629, and light surfaces → the dark glyph gradient. Colors that mean something (badges, swatch, blue) and the white signs on badges stay as they are. Icons drawn here get a `src/<name>-for-dark-theme.svg` next to the light source. For Yaru's own icons, the source is the 256 px drawing from Yaru's full-color source with the same color changes, and the light version stays Yaru's PNG.
 - **Text lines.** #232629 bars, 8 px high, with a white copy of each bar 8 px below it. In a paragraph they repeat every 24 px; full lines are 192 px long from x 32, shorter ones 160 or 128 px.
 - **Light surfaces** (inside of a bucket, an eraser's rubber): a gradient from #f7f7f7 at the top left to #d5d5d5 at the bottom right; next to white, a thin #232629 edge.
 - **Letters and digits.** The Ubuntu font, as in Yaru. Ubuntu Bold for letters and digits (heading "H", subscript "x", list numbers). The "A" in the text color and font size icons is the Ubuntu Medium "A" from Yaru's `font-color-symbolic.svg`. Letters that stand alone are as tall as Yaru's B, I, U: about 206 px.
@@ -74,6 +75,15 @@ Toolbar icons for working with text: bold, italic, underline, strikethrough, hea
 
   Buttons about color in general (background color) or used in many places (clear) stay neutral.
 - **Layout.** Lists have three rows centered at y 52, 124 and 196; the marker column is 32..80 (digits centered in it, bullets are 32 px circles centered at x 56), and the text lines run from x 96 to 224. Yaru's `list-remove` puts its bullets at the same rows. Badges (plus, minus, color swatch) sit at the bottom right, over the main shape, with the same 4 px white outline.
+
+### Basic action symbols
+
+Small generic symbols that calibre uses in many places: OK, plus, minus, double plus and minus, next, previous. Working examples: `src/ok.svg`, `plus.svg`, `minus.svg`, `plusplus.svg`, `minusminus.svg`, `next.svg`, `previous.svg`.
+
+- **Neutral, never colored.** Not Yaru's colored round buttons (`dialog-apply`, `list-add`): draw them the same way as the text formatting glyphs above, with the dark gradient and the 4 px white outline.
+- **A dark mode version of each**, made as for the text formatting icons.
+- **Shapes from Yaru's symbolic icons**, scaled up: `object-select` for OK, `list-add` and `list-remove` for plus and minus, `go-next` and `go-previous` (a tall chevron, ends cut flat) for next and previous.
+- **Strokes** are 32 px wide, and a single symbol spans 160 to 192 px. The double symbols keep calibre's layout, two symbols on a diagonal (centers at 168,88 and 88,168), each 112 px long with 28 px strokes.
 
 ## Working in Illustrator
 

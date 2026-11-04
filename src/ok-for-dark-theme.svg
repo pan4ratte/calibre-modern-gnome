@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- OK. The check mark of Yaru's object-select symbol, drawn like the 256px format-text-* glyphs, colors inverted for dark mode. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <linearGradient id="glyph" x1="1" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#d5d5d5"/><stop offset="1" stop-color="#f7f7f7"/></linearGradient>
+  </defs>
+  <g fill="#232629" stroke="#232629" stroke-width="8" stroke-linejoin="round">
+    <path d="M55.31 96.03 L32.69 118.66 L110 195.97 L223.31 82.66 L200.69 60.03 L110 150.72 Z"/>
+  </g>
+  <g fill="url(#glyph)">
+    <path d="M55.31 96.03 L32.69 118.66 L110 195.97 L223.31 82.66 L200.69 60.03 L110 150.72 Z"/>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Heading. Ubuntu Bold "H" drawn like Yaru's 256px format-text-* glyphs. Colors inverted for dark mode. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <linearGradient id="glyph" x1="1" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#d5d5d5"/><stop offset="1" stop-color="#f7f7f7"/></linearGradient>
+  </defs>
+  <g fill="#232629" stroke="#232629" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"><path d="M166.94 25.00 L213.31 25.00 L213.31 231.00 L166.94 231.00 L166.94 143.61 L89.06 143.61 L89.06 231.00 L42.69 231.00 L42.69 25.00 L89.06 25.00 L89.06 103.77 L166.94 103.77 L166.94 25.00 Z"/></g>
+  <g fill="url(#glyph)"><path d="M166.94 25.00 L213.31 25.00 L213.31 231.00 L166.94 231.00 L166.94 143.61 L89.06 143.61 L89.06 231.00 L42.69 231.00 L42.69 25.00 L89.06 25.00 L89.06 103.77 L166.94 103.77 L166.94 25.00 Z"/></g>
+</svg>

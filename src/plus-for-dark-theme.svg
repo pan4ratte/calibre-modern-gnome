@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Plus. Yaru's list-add symbol, drawn like the 256px format-text-* glyphs, colors inverted for dark mode. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <linearGradient id="glyph" x1="1" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#d5d5d5"/><stop offset="1" stop-color="#f7f7f7"/></linearGradient>
+  </defs>
+  <g fill="#232629" stroke="#232629" stroke-width="8" stroke-linejoin="round">
+    <path d="M112 48 L144 48 L144 112 L208 112 L208 144 L144 144 L144 208 L112 208 L112 144 L48 144 L48 112 L112 112 Z"/>
+  </g>
+  <g fill="url(#glyph)">
+    <path d="M112 48 L144 48 L144 112 L208 112 L208 144 L144 144 L144 208 L112 208 L112 144 L48 144 L48 112 L112 112 Z"/>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Minus. Yaru's list-remove symbol, drawn like the 256px format-text-* glyphs. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <linearGradient id="glyph" x1="1" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#151515"/><stop offset="1" stop-color="#4d4d4d"/></linearGradient>
+  </defs>
+  <g fill="#ffffff" stroke="#ffffff" stroke-width="8" stroke-linejoin="round">
+    <path d="M48 112 L208 112 L208 144 L48 144 Z"/>
+  </g>
+  <g fill="url(#glyph)">
+    <path d="M48 112 L208 112 L208 144 L48 144 Z"/>
+  </g>
+</svg>

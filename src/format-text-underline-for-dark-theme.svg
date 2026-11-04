@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Yaru's 256px format-text-underline, colors inverted for dark mode. calibre uses Yaru's own PNG in light mode. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <linearGradient id="linearGradient5910" x1="16" y1="4" x2="16" y2="28" gradientUnits="userSpaceOnUse" gradientTransform="matrix(7.228069,0,0,7.228069,36.350965,45.771895)"><stop offset="0" stop-color="#d5d5d5"/><stop offset="1" stop-color="#f7f7f7"/></linearGradient>
+  </defs>
+  <g transform="translate(-24 -28)">
+    <path fill="#232629" fill-opacity="1" stroke="#232629" stroke-width="8" stroke-miterlimit="4" d="M 97.789483,53.000001 V 175.87714 c 0,36.14045 25.298317,50.59655 54.210517,50.59655 28.91232,0 54.21052,-21.68421 54.21052,-50.59655 V 53.000001 H 184.52631 V 175.87714 c 0,15.96782 -16.55849,28.91234 -32.52631,28.91234 -15.96781,0 -33.46393,-12.97206 -32.52632,-28.91234 V 53.000001 h -7.22809 z M 86.947373,248.1579 V 259 H 217.05262 v -10.8421 z"/>
+    <path fill="url(#linearGradient5910)" fill-opacity="1" stroke-width="1" d="m 97.789485,53 v 122.87714 c 0,36.14045 25.298315,50.59655 54.210515,50.59655 28.91232,0 54.21052,-21.68421 54.21052,-50.59655 V 53 h -21.68421 v 122.87714 c 0,15.96782 -16.55849,28.91234 -32.52631,28.91234 -15.96781,0 -33.46393,-12.97206 -32.52632,-28.91234 V 53 h -7.22809 z M 86.947375,248.1579 V 259 H 217.05262 v -10.8421 z"/>
+  </g>
+</svg>

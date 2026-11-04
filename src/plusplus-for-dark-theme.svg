@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Two plus signs on a diagonal, as in calibre's icon. Yaru's list-add symbol, drawn like the 256px format-text-* glyphs, colors inverted for dark mode. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <linearGradient id="glyph" x1="1" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#d5d5d5"/><stop offset="1" stop-color="#f7f7f7"/></linearGradient>
+  </defs>
+  <g fill="#232629" stroke="#232629" stroke-width="8" stroke-linejoin="round">
+    <path d="M154 32 L182 32 L182 74 L224 74 L224 102 L182 102 L182 144 L154 144 L154 102 L112 102 L112 74 L154 74 Z"/>
+    <path d="M74 112 L102 112 L102 154 L144 154 L144 182 L102 182 L102 224 L74 224 L74 182 L32 182 L32 154 L74 154 Z"/>
+  </g>
+  <g fill="url(#glyph)">
+    <path d="M154 32 L182 32 L182 74 L224 74 L224 102 L182 102 L182 144 L154 144 L154 102 L112 102 L112 74 L154 74 Z"/>
+    <path d="M74 112 L102 112 L102 154 L144 154 L144 182 L102 182 L102 224 L74 224 L74 182 L32 182 L32 154 L74 154 Z"/>
+  </g>
+</svg>
