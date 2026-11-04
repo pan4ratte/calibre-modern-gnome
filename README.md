@@ -42,7 +42,7 @@ The theme is licensed under the [Creative Commons Attribution-ShareAlike 4.0 Int
 
 - Yaru icons are made by the [Yaru team](https://github.com/ubuntu/yaru) and licensed under CC BY-SA 4.0. Customized Yaru icons are shared under the same license.
 - Icons drawn for this project are licensed under CC BY-SA 4.0.
-- Icons that are not replaced yet (the "Needs an update", "Unable to update" and "Unchanged" tables) keep their original licenses. Most of them are calibre's original icons, which come with calibre under its own licenses. Icons with an unknown source ("???") will be replaced first.
+- Icons that are not replaced yet (the "Needs an update" and "Unchanged" tables) keep their original licenses. Most of them are calibre's original icons, which come with calibre under its own licenses. Icons with an unknown source ("???") will be replaced first.
 
 ## Icons Update Status and Source
 
@@ -50,8 +50,7 @@ The tables below represent the current update status of each icon in the collect
 
 1. "Updated": icon was replaced with a Yaru icon or an icon drawn in Yaru style;
 2. "Needs an update": icon should be replaced with a Yaru icon or an icon drawn in Yaru style;
-3. "Unable to update": icon is not replacable because it used for multiple, contradicting purposes in the Calibre UI. Such icons could be updated only after UI changes in the Calibre itself;
-4. "Unchanged": icon do not need an update because it is good enough already.
+3. "Unchanged": icon do not need an update because it is good enough already.
 
 In the "Updated" table, the "Light theme" column shows the icon calibre uses in light mode, and the "Dark theme" column the version it uses in dark mode, for icons that have one.
 
@@ -253,11 +252,6 @@ In the "Updated" table, the "Light theme" column shows the icon calibre uses in 
 | toc.png                        | ![](images/toc.png)                        | Calibre original icon  |
 | unpack-book.png                | ![](images/unpack-book.png)                | Calibre original icon  |
 | width.png                      | ![](images/width.png)                      | Calibre original icon  |
-
-### Unable to update
-
-| File name                      | Icon                                       | Source                 |
-|--------------------------------|--------------------------------------------|------------------------|
 
 ### Unchanged
 
