@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Horizontal rule. Text lines drawn like Yaru's format-justify-left, the inserted rule in Yaru blue. Colors inverted for dark mode. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <linearGradient id="blue" x1="1" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#1a7fd4"/><stop offset="1" stop-color="#37a6e6"/></linearGradient>
+  </defs>
+  <path fill="#232629" transform="translate(0 8)" d="M32 32h192v8h-192z M32 56h128v8h-128z M32 184h192v8h-192z M32 208h160v8h-160z"/>
+  <path fill="#e5e5e5" d="M32 32h192v8h-192z M32 56h128v8h-128z M32 184h192v8h-192z M32 208h160v8h-160z"/>
+  <g fill="#232629" stroke="#232629" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"><rect x="32" y="116" width="192" height="24" rx="12"/></g>
+  <g fill="url(#blue)"><rect x="32" y="116" width="192" height="24" rx="12"/></g>
+</svg>

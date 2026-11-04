@@ -70,6 +70,7 @@ The tables below represent the current update status of each icon in the collect
 | books_in_series.png            | ![](images/books_in_series.png)            | Pan4ratte (Me)                            |
 | bullhorn-for-dark-theme.png    | ![](images/bullhorn-for-dark-theme.png)    | Pan4ratte (Me)                            |
 | bullhorn.png                   | ![](images/bullhorn.png)                   | Pan4ratte (Me)                            |
+| chapters-for-dark-theme.png    | ![](images/chapters-for-dark-theme.png)    | Pan4ratte (Me)                            |
 | chapters.png                   | ![](images/chapters.png)                   | Pan4ratte (Me)                            |
 | character-set.png              | ![](images/character-set.png)              | Ubuntu GNOME Yaru-Blue                    |
 | clear_left-for-dark-theme.png  | ![](images/clear_left-for-dark-theme.png)  | Pan4ratte (Me)                            |
@@ -97,6 +98,7 @@ The tables below represent the current update status of each icon in the collect
 | document-split.png             | ![](images/document-split.png)             | Pan4ratte (Me)                            |
 | document_open.png              | ![](images/document_open.png)              | Ubuntu GNOME Yaru-Blue                    |
 | download-metadata.png          | ![](images/download-metadata.png)          | Ubuntu GNOME Yaru-Blue                    |
+| edit-clear-for-dark-theme.png  | ![](images/edit-clear-for-dark-theme.png)  | Pan4ratte (Me)                            |
 | edit-clear.png                 | ![](images/edit-clear.png)                 | Pan4ratte (Me)                            |
 | edit-copy.png                  | ![](images/edit-copy.png)                  | Ubuntu GNOME Yaru-Blue                    |
 | edit-cut.png                   | ![](images/edit-cut.png)                   | Ubuntu GNOME Yaru-Blue                    |
@@ -124,7 +126,9 @@ The tables below represent the current update status of each icon in the collect
 | format-justify-fill.png        | ![](images/format-justify-fill.png)        | Ubuntu GNOME Yaru-Blue                    |
 | format-justify-left.png        | ![](images/format-justify-left.png)        | Ubuntu GNOME Yaru-Blue                    |
 | format-justify-right.png       | ![](images/format-justify-right.png)       | Ubuntu GNOME Yaru-Blue                    |
+| format-list-ordered-for-dark-theme.png | ![](images/format-list-ordered-for-dark-theme.png) | Pan4ratte (Me)                            |
 | format-list-ordered.png        | ![](images/format-list-ordered.png)        | Pan4ratte (Me)                            |
+| format-list-unordered-for-dark-theme.png | ![](images/format-list-unordered-for-dark-theme.png) | Pan4ratte (Me)                            |
 | format-list-unordered.png      | ![](images/format-list-unordered.png)      | Pan4ratte (Me)                            |
 | format-text-bold-for-dark-theme.png | ![](images/format-text-bold-for-dark-theme.png) | Ubuntu GNOME Yaru-Blue (customized by me) |
 | format-text-bold.png           | ![](images/format-text-bold.png)           | Ubuntu GNOME Yaru-Blue                    |
@@ -132,6 +136,7 @@ The tables below represent the current update status of each icon in the collect
 | format-text-color.png          | ![](images/format-text-color.png)          | Pan4ratte (Me)                            |
 | format-text-heading-for-dark-theme.png | ![](images/format-text-heading-for-dark-theme.png) | Pan4ratte (Me)                            |
 | format-text-heading.png        | ![](images/format-text-heading.png)        | Pan4ratte (Me)                            |
+| format-text-hr-for-dark-theme.png | ![](images/format-text-hr-for-dark-theme.png) | Pan4ratte (Me)                            |
 | format-text-hr.png             | ![](images/format-text-hr.png)             | Pan4ratte (Me)                            |
 | format-text-italic-for-dark-theme.png | ![](images/format-text-italic-for-dark-theme.png) | Ubuntu GNOME Yaru-Blue (customized by me) |
 | format-text-italic.png         | ![](images/format-text-italic.png)         | Ubuntu GNOME Yaru-Blue                    |

@@ -10,7 +10,7 @@
 - New neutral icons drawn in Yaru style for back, forward, close, clear, auto reload, auto scroll, sort by author, read aloud, compare and split, with light versions for dark mode. They replace calibre's original icons.
 - New neutral icons drawn in Yaru style for links, refresh, rotate, remove, sync to the right, and up and down, with light versions for dark mode. They replace Yaru's colored link, refresh and rotate icons, calibre's original icons and one icon of unknown origin. Up and down were marked as "Unable to update" and now use the same chevron as next and previous.
 - The chapters icon now uses the ordered list icon.
-- Light versions of the text formatting icons for dark mode: bold, italic, underline, strikethrough, heading, subscript, superscript, text color, background color, and larger and smaller font.
+- Light versions of the text formatting icons for dark mode: bold, italic, underline, strikethrough, heading, subscript, superscript, text color, background color, larger and smaller font, ordered and unordered list, horizontal rule, clear, and chapters.
 
 ## 1.0.0 (2026-11-04)
 

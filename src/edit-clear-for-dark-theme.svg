@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Clear. Yaru's edit-clear-all symbol: an eraser with its rubber end on a line. Sleeve in the dark gradient
+     of the 256px format-text-* glyphs, light rubber end, 4px white outline; the line is drawn like Yaru's
+     format-justify-left (#232629 bar with a white copy 8px below), over the eraser's outline so they touch.
+     Colors inverted for dark mode. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <linearGradient id="glyph" x1="1" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#d5d5d5"/><stop offset="1" stop-color="#f7f7f7"/></linearGradient>
+    <linearGradient id="light" x1="1" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#151515"/><stop offset="1" stop-color="#4d4d4d"/></linearGradient>
+  </defs>
+  <g transform="translate(128 112.82) rotate(45) scale(1.25)">
+    <g fill="#232629" stroke="#232629" stroke-width="6.40" stroke-linejoin="round"><rect x="-32" y="-76" width="64" height="152" rx="16"/></g>
+    <g fill="url(#glyph)"><path d="M-32 20 V-60 A16 16 0 0 1 -16 -76 H16 A16 16 0 0 1 32 -60 V20 Z"/></g>
+    <g fill="url(#light)" stroke="#e5e5e5" stroke-width="3.20" stroke-linejoin="round"><path d="M-30 20 H30 V60 A14 14 0 0 1 16 74 H-16 A14 14 0 0 1 -30 60 Z"/></g>
+  </g>
+  <rect x="32" y="208" width="192" height="8" fill="#232629"/>
+  <rect x="32" y="200" width="192" height="8" fill="#e5e5e5"/>
+</svg>
