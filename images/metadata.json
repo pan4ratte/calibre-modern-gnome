@@ -2,7 +2,7 @@
   "title": "Modern GNOME",
   "author": "Mark Ingram",
   "color_palette": "any",
-  "description": "Modern icons based on the Ubuntu Yaru-Blue icon theme.",
+  "description": "Modern icons from the Ubuntu Yaru-Blue icon theme and new icons drawn in the same style.",
   "license": "CC BY-SA 4.0 for Yaru and own icons, other icons keep their original licenses",
   "url": "https://github.com/pan4ratte/calibre-modern-gnome"
 }
