@@ -25,6 +25,12 @@ The "Icons Update Status and Source" section of `README.md` has four tables, one
 - Keep each table in alphabetical order by file name.
 - A new icon goes into the table that matches its status.
 
+## Tools
+
+- Run `tools\theme.cmd check` after changing icons or the README tables, and fix every error it reports.
+- Never run calibre's `read_theme_from_folder` on `images/` itself: it writes `.png` copies of the `.svg` icons into the folder it reads. `tools/theme.py` always works on a temporary copy.
+- `tools\theme.cmd build` writes the release `.zip` to `dist/`, which is not committed. The theme version calibre sees is the number of released versions in `CHANGELOG.md`.
+
 ## Changelog
 
 Add an entry to `CHANGELOG.md` for every user-visible change (new or replaced icons, license, theme details), under a `## Unreleased` heading at the top. A release renames that heading to the version and date, for example `## 1.1.0 (2026-12-01)`.

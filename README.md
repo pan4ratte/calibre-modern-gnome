@@ -13,6 +13,13 @@ The theme is not in calibre's icon theme list yet, so for now it is installed by
 
 Icons in that folder are used instead of any icon theme chosen in calibre. To go back to the default icons, delete `resources/images` and restart calibre.
 
+## Development
+
+This repository is meant to be cloned as calibre's `resources` folder, so calibre uses the icons in `images/` directly. `tools\theme.cmd` runs calibre's own icon theme tools on them (it needs calibre installed):
+
+- `tools\theme.cmd check` lists calibre icons the theme does not have, icons calibre no longer uses, broken images and README tables that do not match the `images` folder.
+- `tools\theme.cmd preview` closes calibre, builds the theme, installs it in calibre and starts calibre again, so you see exactly what a release would look like. Close calibre jobs first, the restart stops them.
+- `tools\theme.cmd build` saves the theme as a calibre icon theme `.zip` in `dist/`, named after the newest version in [CHANGELOG.md](CHANGELOG.md). This is the file to send for inclusion in calibre's icon theme list.
 
 ## Key Principles
 
