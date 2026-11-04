@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Jobs. Yaru's hourglass symbol (a glass with sand running through it), drawn like the 256px format-text-* glyphs and Yaru's pages. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <linearGradient id="glyph" gradientUnits="userSpaceOnUse" x1="256" y1="256" x2="0" y2="0"><stop offset="0" stop-color="#151515"/><stop offset="1" stop-color="#4d4d4d"/></linearGradient>
+    <linearGradient id="surface" gradientUnits="userSpaceOnUse" x1="256" y1="256" x2="0" y2="0"><stop offset="0" stop-color="#d5d5d5"/><stop offset="1" stop-color="#f7f7f7"/></linearGradient>
+    <linearGradient id="blue" x1="1" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#1a7fd4"/><stop offset="1" stop-color="#37a6e6"/></linearGradient>
+  </defs>
+  <path d="M66 36 H190 C190 90 144 110 144 128 C144 146 190 166 190 220 H66 C66 166 112 146 112 128 C112 110 66 90 66 36 Z" fill="#ffffff" stroke="#ffffff" stroke-width="22" stroke-linejoin="round"/>
+  <path d="M66 36 H190 C190 90 144 110 144 128 C144 146 190 166 190 220 H66 C66 166 112 146 112 128 C112 110 66 90 66 36 Z" fill="url(#surface)" stroke="url(#glyph)" stroke-width="14" stroke-linejoin="round"/>
+  <path d="M153.72 88 L152.76 89.13 L151.42 90.67 L150.08 92.19 L148.74 93.7 L147.4 95.19 L146.06 96.68 L144.74 98.16 L143.43 99.63 L142.13 101.11 L140.85 102.6 L139.6 104.1 L138.36 105.63 L137.16 107.2 L135.99 108.81 L134.85 110.48 L133.76 112.23 L132.72 114.07 L131.75 116.03 L130.88 118.13 L130.12 120.37 L129.53 122.77 L129.34 124 L126.66 124 L126.47 122.77 L125.88 120.37 L125.12 118.13 L124.25 116.03 L123.28 114.07 L122.24 112.23 L121.15 110.48 L120.01 108.81 L118.84 107.2 L117.64 105.63 L116.4 104.1 L115.15 102.6 L113.87 101.11 L112.57 99.63 L111.26 98.16 L109.94 96.68 L108.6 95.19 L107.26 93.7 L105.92 92.19 L104.58 90.67 L103.24 89.13 L102.28 88 Z" fill="url(#glyph)"/>
+  <path d="M125 122 L131 122 L131 168 L125 168 Z" fill="url(#glyph)"/>
+  <path d="M166.41 186 L167.21 187.5 L168.18 189.45 L169.09 191.44 L169.96 193.48 L170.77 195.57 L171.51 197.71 L172.2 199.91 L172.82 202.17 L173.37 204.49 L173.47 205 L82.53 205 L82.63 204.49 L83.18 202.17 L83.8 199.91 L84.49 197.71 L85.23 195.57 L86.04 193.48 L86.91 191.44 L87.82 189.45 L88.79 187.5 L89.59 186 C107.59 178 116 166 128 166 C140 166 148.41 178 166.41 186 Z" fill="url(#glyph)"/>
+</svg>

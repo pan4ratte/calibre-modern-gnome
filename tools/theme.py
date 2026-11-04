@@ -73,9 +73,9 @@ def readme_rows():
         for line in f:
             if line.startswith('### '):
                 table = line[4:].strip()
-            m = re.search(r'!\[\]\(images/([^)]+)\)', line)
-            if m and line.startswith('|'):
-                rows.append((m.group(1), table))
+            # a row can show more than one image, such as an icon and its dark mode version
+            if line.startswith('|'):
+                rows.extend((name, table) for name in re.findall(r'!\[\]\(images/([^)]+)\)', line))
     return rows
 
 

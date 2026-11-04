@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Highlight only, on. The highlight icon with Yaru's green badge and a check mark, drawn like the 256px format-text-* glyphs. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <linearGradient id="glyph" gradientUnits="userSpaceOnUse" x1="256" y1="256" x2="0" y2="0"><stop offset="0" stop-color="#151515"/><stop offset="1" stop-color="#4d4d4d"/></linearGradient>
+    <linearGradient id="surface" gradientUnits="userSpaceOnUse" x1="256" y1="256" x2="0" y2="0"><stop offset="0" stop-color="#d5d5d5"/><stop offset="1" stop-color="#f7f7f7"/></linearGradient>
+    <linearGradient id="blue" x1="1" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#1a7fd4"/><stop offset="1" stop-color="#37a6e6"/></linearGradient>
+  </defs>
+  <path d="M60.24 157.13 L159.06 58.31 A23.96 23.96 0 0 1 192.94 58.31 L207.06 72.43 A23.96 23.96 0 0 1 207.06 106.31 L108.24 205.13 Z" fill="#ffffff" stroke="#ffffff" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M60.24 168.43 L32 196.66 L32 214.63 L87.44 214.63 L96.94 205.13 Z" fill="#ffffff" stroke="#ffffff" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M60.24 157.13 L159.06 58.31 A23.96 23.96 0 0 1 192.94 58.31 L207.06 72.43 A23.96 23.96 0 0 1 207.06 106.31 L108.24 205.13 Z" fill="url(#glyph)"/>
+  <path d="M60.24 168.43 L32 196.66 L32 214.63 L87.44 214.63 L96.94 205.13 Z" fill="url(#glyph)"/>
+  <path d="M148 186 A38 38 0 1 1 224 186 A38 38 0 1 1 148 186 Z" fill="#ffffff" stroke="#ffffff" stroke-width="8"/>
+  <path d="M148 186 A38 38 0 1 1 224 186 A38 38 0 1 1 148 186 Z" fill="#45a925"/>
+  <path d="M164 186 L172 178 L182 188 L202 168 L210 176 L182 204 Z" fill="#ffffff"/>
+</svg>

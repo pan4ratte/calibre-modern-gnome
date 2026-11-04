@@ -11,9 +11,9 @@ Never add icons from other themes, websites or icon packs, even if their license
 
 Use one of these values in the README "Source" column for replaced icons:
 
-- `Ubuntu GNOME Yaru-Blue`
-- `Ubuntu GNOME Yaru-Blue (customized by me)`
-- `Pan4ratte (Me)` (drawn for this project)
+- `Yaru-Blue`
+- `Yaru-Blue (customized)`
+- `Mark Ingrem` (drawn for this project)
 
 ## Drawing icons
 

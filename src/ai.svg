@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- AI. calibre's two sparkles in Yaru blue, without an outline; one version for light and dark mode. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <linearGradient id="blue" x1="1" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#1a7fd4"/><stop offset="1" stop-color="#37a6e6"/></linearGradient>
+  </defs>
+  <path d="M112 32 Q124.8 99.2 192 112 Q124.8 124.8 112 192 Q99.2 124.8 32 112 Q99.2 99.2 112 32 Z" fill="url(#blue)"/>
+  <path d="M190 156 Q195.44 184.56 224 190 Q195.44 195.44 190 224 Q184.56 195.44 156 190 Q184.56 184.56 190 156 Z" fill="url(#blue)"/>
+</svg>

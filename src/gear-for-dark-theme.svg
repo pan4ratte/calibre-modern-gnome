@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Settings. Yaru's emblem-system symbol simplified to a gear with eight teeth, drawn like the 256px format-text-* glyphs, colors inverted for dark mode. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <linearGradient id="glyph" gradientUnits="userSpaceOnUse" x1="256" y1="256" x2="0" y2="0"><stop offset="0" stop-color="#d5d5d5"/><stop offset="1" stop-color="#f7f7f7"/></linearGradient>
+    <linearGradient id="surface" gradientUnits="userSpaceOnUse" x1="256" y1="256" x2="0" y2="0"><stop offset="0" stop-color="#151515"/><stop offset="1" stop-color="#4d4d4d"/></linearGradient>
+    <linearGradient id="blue" x1="1" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#1a7fd4"/><stop offset="1" stop-color="#37a6e6"/></linearGradient>
+  </defs>
+  <path d="M107.68 46.5 L111.11 21.33 L144.89 21.33 L148.32 46.5 A84 84 0 0 1 171.26 56 L171.26 56 L191.48 40.63 L215.37 64.52 L200 84.74 A84 84 0 0 1 209.5 107.68 L209.5 107.68 L234.67 111.11 L234.67 144.89 L209.5 148.32 A84 84 0 0 1 200 171.26 L200 171.26 L215.37 191.48 L191.48 215.37 L171.26 200 A84 84 0 0 1 148.32 209.5 L148.32 209.5 L144.89 234.67 L111.11 234.67 L107.68 209.5 A84 84 0 0 1 84.74 200 L84.74 200 L64.52 215.37 L40.63 191.48 L56 171.26 A84 84 0 0 1 46.5 148.32 L46.5 148.32 L21.33 144.89 L21.33 111.11 L46.5 107.68 A84 84 0 0 1 56 84.74 L56 84.74 L40.63 64.52 L64.52 40.63 L84.74 56 A84 84 0 0 1 107.68 46.5 Z M88 128 A40 40 0 1 1 168 128 A40 40 0 1 1 88 128 Z" fill-rule="evenodd" fill="#232629" stroke="#232629" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M107.68 46.5 L111.11 21.33 L144.89 21.33 L148.32 46.5 A84 84 0 0 1 171.26 56 L171.26 56 L191.48 40.63 L215.37 64.52 L200 84.74 A84 84 0 0 1 209.5 107.68 L209.5 107.68 L234.67 111.11 L234.67 144.89 L209.5 148.32 A84 84 0 0 1 200 171.26 L200 171.26 L215.37 191.48 L191.48 215.37 L171.26 200 A84 84 0 0 1 148.32 209.5 L148.32 209.5 L144.89 234.67 L111.11 234.67 L107.68 209.5 A84 84 0 0 1 84.74 200 L84.74 200 L64.52 215.37 L40.63 191.48 L56 171.26 A84 84 0 0 1 46.5 148.32 L46.5 148.32 L21.33 144.89 L21.33 111.11 L46.5 107.68 A84 84 0 0 1 56 84.74 L56 84.74 L40.63 64.52 L64.52 40.63 L84.74 56 A84 84 0 0 1 107.68 46.5 Z M88 128 A40 40 0 1 1 168 128 A40 40 0 1 1 88 128 Z" fill-rule="evenodd" fill="url(#glyph)"/>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Notes. A notebook with binding tabs and a pen writing in it, drawn like Yaru's page and the 256px format-text-* glyphs, colors inverted for dark mode. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <linearGradient id="glyph" gradientUnits="userSpaceOnUse" x1="256" y1="256" x2="0" y2="0"><stop offset="0" stop-color="#d5d5d5"/><stop offset="1" stop-color="#f7f7f7"/></linearGradient>
+    <linearGradient id="surface" gradientUnits="userSpaceOnUse" x1="256" y1="256" x2="0" y2="0"><stop offset="0" stop-color="#151515"/><stop offset="1" stop-color="#4d4d4d"/></linearGradient>
+    <linearGradient id="blue" x1="1" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#1a7fd4"/><stop offset="1" stop-color="#37a6e6"/></linearGradient>
+  </defs>
+  <path d="M70 32 H182 A14 14 0 0 1 196 46 V210 A14 14 0 0 1 182 224 H70 A14 14 0 0 1 56 210 V46 A14 14 0 0 1 70 32 Z" fill="#232629" stroke="#232629" stroke-width="22" stroke-linejoin="round"/>
+  <path d="M70 32 H182 A14 14 0 0 1 196 46 V210 A14 14 0 0 1 182 224 H70 A14 14 0 0 1 56 210 V46 A14 14 0 0 1 70 32 Z" fill="url(#surface)" stroke="url(#glyph)" stroke-width="14" stroke-linejoin="round"/>
+  <path d="M36 67 L76 67 L76 85 L36 85 Z" fill="#232629" stroke="#232629" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M36 119 L76 119 L76 137 L36 137 Z" fill="#232629" stroke="#232629" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M36 171 L76 171 L76 189 L36 189 Z" fill="#232629" stroke="#232629" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M36 67 L76 67 L76 85 L36 85 Z" fill="url(#glyph)"/>
+  <path d="M36 119 L76 119 L76 137 L36 137 Z" fill="url(#glyph)"/>
+  <path d="M36 171 L76 171 L76 189 L36 189 Z" fill="url(#glyph)"/>
+  <path d="M104 152 L143.6 143.51 L222.79 64.32 L191.68 33.21 L112.49 112.4 Z" fill="#232629" stroke="#232629" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M104 152 L143.6 143.51 L222.79 64.32 L191.68 33.21 L112.49 112.4 Z" fill="url(#glyph)"/>
+</svg>

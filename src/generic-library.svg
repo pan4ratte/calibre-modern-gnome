@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Library. calibre's library building (a pediment, an architrave, four columns and two steps), drawn like the 256px format-text-* glyphs. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <linearGradient id="glyph" gradientUnits="userSpaceOnUse" x1="256" y1="256" x2="0" y2="0"><stop offset="0" stop-color="#151515"/><stop offset="1" stop-color="#4d4d4d"/></linearGradient>
+    <linearGradient id="surface" gradientUnits="userSpaceOnUse" x1="256" y1="256" x2="0" y2="0"><stop offset="0" stop-color="#d5d5d5"/><stop offset="1" stop-color="#f7f7f7"/></linearGradient>
+    <linearGradient id="blue" x1="1" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#1a7fd4"/><stop offset="1" stop-color="#37a6e6"/></linearGradient>
+  </defs>
+  <path d="M128 30 L220 80 L36 80 Z" fill="#ffffff" stroke="#ffffff" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M44 90 L212 90 L212 106 L44 106 Z" fill="#ffffff" stroke="#ffffff" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M55 116 L73 116 L73 184 L55 184 Z" fill="#ffffff" stroke="#ffffff" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M98 116 L116 116 L116 184 L98 184 Z" fill="#ffffff" stroke="#ffffff" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M141 116 L159 116 L159 184 L141 184 Z" fill="#ffffff" stroke="#ffffff" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M184 116 L202 116 L202 184 L184 184 Z" fill="#ffffff" stroke="#ffffff" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M44 194 L212 194 L212 208 L44 208 Z" fill="#ffffff" stroke="#ffffff" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M32 216 L224 216 L224 230 L32 230 Z" fill="#ffffff" stroke="#ffffff" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M128 30 L220 80 L36 80 Z" fill="url(#glyph)"/>
+  <path d="M44 90 L212 90 L212 106 L44 106 Z" fill="url(#glyph)"/>
+  <path d="M55 116 L73 116 L73 184 L55 184 Z" fill="url(#glyph)"/>
+  <path d="M98 116 L116 116 L116 184 L98 184 Z" fill="url(#glyph)"/>
+  <path d="M141 116 L159 116 L159 184 L141 184 Z" fill="url(#glyph)"/>
+  <path d="M184 116 L202 116 L202 184 L184 184 Z" fill="url(#glyph)"/>
+  <path d="M44 194 L212 194 L212 208 L44 208 Z" fill="url(#glyph)"/>
+  <path d="M32 216 L224 216 L224 230 L32 230 Z" fill="url(#glyph)"/>
+</svg>
