@@ -6,7 +6,8 @@ Run it with calibre's Python:
 
 Commands:
     check     Compare images/ with the icons calibre uses and with the README tables.
-    build     Package the theme as a calibre icon theme .zip in dist/.
+    render    Render the icons drawn for this project (src/*.svg) to 256px PNGs in images/.
+    build    Package the theme as a calibre icon theme .zip in dist/.
     preview   Close calibre, build and install the theme, then start calibre again.
 """
 
@@ -21,6 +22,8 @@ import time
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(globals().get('__file__') or sys.argv[0])))
 IMAGES = os.path.join(ROOT, 'images')
+SRC = os.path.join(ROOT, 'src')
+ICON_SIZE = 256
 DIST = os.path.join(ROOT, 'dist')
 README = os.path.join(ROOT, 'README.md')
 CHANGELOG = os.path.join(ROOT, 'CHANGELOG.md')
@@ -121,7 +124,28 @@ def section(title, items):
             print('  ' + item)
 
 
-def build():
+def render():
+    from qt.core import QApplication, QImage, QPainter, QRectF, QSvgRenderer, Qt
+    app = QApplication.instance() or QApplication([])  # noqa: F841
+    for name in sorted(os.listdir(SRC)):
+        if not name.endswith('.svg'):
+            continue
+        renderer = QSvgRenderer(os.path.join(SRC, name))
+        if not renderer.isValid():
+            raise SystemExit(f'Cannot read src/{name}')
+        img = QImage(ICON_SIZE, ICON_SIZE, QImage.Format.Format_ARGB32_Premultiplied)
+        img.fill(Qt.GlobalColor.transparent)
+        p = QPainter(img)
+        p.setRenderHint(QPainter.RenderHint.Antialiasing)
+        renderer.render(p, QRectF(0, 0, ICON_SIZE, ICON_SIZE))
+        p.end()
+        out = name[:-4] + '.png'
+        if not img.save(os.path.join(IMAGES, out)):
+            raise SystemExit(f'Cannot write images/{out}')
+        print(f'src/{name} -> images/{out}')
+
+
+def build(save=True):
     from calibre.gui2.icon_theme import create_themeball
     versions = releases()
     if not versions:
@@ -142,6 +166,8 @@ def build():
         print(f'Building {metadata["title"]} {version} ({len(report.name_map)} icons)...')
         raw, prefix, icon_zip = create_themeball(report, metadata)
 
+    if not save:
+        return metadata, icon_zip
     os.makedirs(DIST, exist_ok=True)
     dest = os.path.join(DIST, f'{prefix}-{version}.zip')
     with open(dest, 'wb') as f:
@@ -168,10 +194,28 @@ def preview():
         else:
             raise SystemExit('calibre did not close, close it by hand and run preview again')
 
-    metadata, icon_zip = build()
+    try:
+        install_preview()
+    finally:
+        # start calibre again even if the install failed, so it is never left closed
+        print('Starting calibre...')
+        flags = getattr(subprocess, 'DETACHED_PROCESS', 0) | getattr(subprocess, 'CREATE_NEW_PROCESS_GROUP', 0)
+        subprocess.Popen([calibre], creationflags=flags, close_fds=True,
+                         stdin=subprocess.DEVNULL, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+
+
+def install_preview():
+    # build in memory only: dist/ keeps the release files
+    metadata, icon_zip = build(save=False)
 
     from calibre.gui2 import icon_resource_manager
     from calibre.gui2.icon_theme import install_icon_theme
+    from qt.core import QResource
+    # calibre's startup code (run inside this script too) keeps the installed theme files open,
+    # and Windows cannot overwrite an open file, so release them first
+    for path in list(icon_resource_manager.registered_user_resource_files):
+        QResource.unregisterResource(path)
+    icon_resource_manager.registered_user_resource_files = ()
     palette = metadata.get('color_palette', 'any')
     icon_zip.seek(0)
     install_icon_theme(metadata, icon_zip, icon_resource_manager.user_theme_resource_file(palette), palette)
@@ -184,14 +228,9 @@ def preview():
                 os.replace(path, path + '.bak')
                 print(f'Moved the old {other} mode theme aside: {path}.bak')
 
-    print('Starting calibre...')
-    flags = getattr(subprocess, 'DETACHED_PROCESS', 0) | getattr(subprocess, 'CREATE_NEW_PROCESS_GROUP', 0)
-    subprocess.Popen([calibre], creationflags=flags, close_fds=True,
-                     stdin=subprocess.DEVNULL, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
-
 
 def main():
-    commands = {'check': check, 'build': build, 'preview': preview}
+    commands = {'check': check, 'render': render, 'build': build, 'preview': preview}
     args = [a for a in sys.argv[1:] if a != '--']
     if len(args) != 1 or args[0] not in commands:
         print(__doc__)

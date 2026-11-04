@@ -18,6 +18,7 @@ Icons in that folder are used instead of any icon theme chosen in calibre. To go
 This repository is meant to be cloned as calibre's `resources` folder, so calibre uses the icons in `images/` directly. `tools\theme.cmd` runs calibre's own icon theme tools on them (it needs calibre installed):
 
 - `tools\theme.cmd check` lists calibre icons the theme does not have, icons calibre no longer uses, broken images and README tables that do not match the `images` folder.
+- `tools\theme.cmd render` turns the icons drawn for this project, kept as SVG files in `src/`, into the 256×256 PNG files in `images/` that calibre uses. Edit the SVG, never the PNG.
 - `tools\theme.cmd preview` closes calibre, builds the theme, installs it in calibre and starts calibre again, so you see exactly what a release would look like. Close calibre jobs first, the restart stops them.
 - `tools\theme.cmd build` saves the theme as a calibre icon theme `.zip` in `dist/`, named after the newest version in [CHANGELOG.md](CHANGELOG.md). This is the file to send for inclusion in calibre's icon theme list.
 
@@ -93,8 +94,8 @@ The tables below represent the current update status of each icon in the collect
 | format-justify-fill.png        | ![](images/format-justify-fill.png)        | Ubuntu GNOME Yaru-Blue                    |
 | format-justify-left.png        | ![](images/format-justify-left.png)        | Ubuntu GNOME Yaru-Blue                    |
 | format-justify-right.png       | ![](images/format-justify-right.png)       | Ubuntu GNOME Yaru-Blue                    |
-| format-list-ordered.png        | ![](images/format-list-ordered.png)        | Ubuntu GNOME Yaru-Blue                    |
-| format-text-color.png          | ![](images/format-text-color.png)          | Ubuntu GNOME Yaru-Blue                    |
+| format-list-ordered.png        | ![](images/format-list-ordered.png)        | Pan4ratte (Me)                            |
+| format-text-color.png          | ![](images/format-text-color.png)          | Pan4ratte (Me)                            |
 | format-text-italic.png         | ![](images/format-text-italic.png)         | Ubuntu GNOME Yaru-Blue                    |
 | format-text-strikethrough.png  | ![](images/format-text-strikethrough.png)  | Ubuntu GNOME Yaru-Blue                    |
 | format-text-underline.png      | ![](images/format-text-underline.png)      | Ubuntu GNOME Yaru-Blue                    |
