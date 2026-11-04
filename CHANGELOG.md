@@ -1,22 +1,32 @@
 # Changelog
 
-## Unreleased
+## 1.1.0 (2026-11-04)
 
-- New direction: the theme now uses only Yaru icons and icons drawn in Yaru style. The 17 icons from other sources are marked as "Needs an update" and will be replaced.
-- The theme is now licensed under CC BY-SA 4.0, the same license as the Yaru icons.
-- New formatting icons drawn in Yaru style: ordered and unordered list, heading, horizontal rule, subscript, superscript, text color, background color, larger and smaller font, and clear. They replace calibre's original icons and three icons of unknown origin.
-- New icons drawn in Yaru style for series (in the sidebar and the "books in this series" action), publisher, tags, identifiers and custom columns.
-- New neutral icons drawn in Yaru style for OK, plus, minus, double plus, double minus, next and previous, based on Yaru's symbolic icons, with light versions for dark mode. They replace calibre's original icons, two icons of unknown origin and the colored Yaru double minus.
-- New neutral icons drawn in Yaru style for back, forward, close, clear, auto reload, auto scroll, sort by author, read aloud, compare and split, with light versions for dark mode. They replace calibre's original icons.
-- New neutral icons drawn in Yaru style for links, refresh, rotate, remove, sync to the right, and up and down, with light versions for dark mode. They replace Yaru's colored link, refresh and rotate icons, calibre's original icons and one icon of unknown origin. Up and down were marked as "Unable to update" and now use the same chevron as next and previous.
-- New icons drawn in Yaru style for settings, filter, AI, library, highlight, highlight only (on and off), marked books, jobs, notes and quickview, with light versions for dark mode. They are neutral, except the blue AI sparkles (one version for light and dark mode) and the green "on" badge of highlight only. They replace calibre's original icons.
-- The external link icon now uses Yaru-Blue's blue version instead of Yaru's purple one.
-- New neutral icons drawn in Yaru style for undo and redo, with light versions for dark mode. They replace Yaru's colored undo and redo icons.
-- The calibre logo, the content server icons and the virtual library icon now use the theme's stack of books icon.
-- New icons for Fix HTML, heuristic processing and full text search, made from Yaru's HTML and text document icons: Fix HTML has Yaru's green check badge, heuristic processing a band-aid across the page, and full text search Yaru's magnifier over the page's text. They replace calibre's original icons.
-- The Hotmail, Gmail, donate, green and red dot, and DRM locked and unlocked icons are redrawn in Yaru's colorful style, keeping their ideas: Yaru's palette, built like Yaru's app icon templates (gentle gradients, soft shadows, thin top and bottom rims). Hotmail uses Yaru's square app tile, the DRM icons show a rounded padlock on Yaru's round app icon, and the dots are Yaru's emblem circle. They replace icons of unknown origin.
-- The chapters icon now uses the ordered list icon.
-- Light versions of the text formatting icons for dark mode: bold, italic, underline, strikethrough, heading, subscript, superscript, text color, background color, larger and smaller font, ordered and unordered list, horizontal rule, clear, and chapters.
+The theme now follows one direction: Ubuntu's Yaru icons, and new icons drawn in Yaru style. 152 calibre icons are replaced: 75 from Yaru-Blue, 12 customized Yaru-Blue icons and 65 drawn by me. 52 of them have light versions for dark mode. 37 icons are left to update; the README lists the status and source of each icon.
+
+### Theme
+
+- The theme uses only Yaru icons and icons drawn in Yaru style. Icons from other sources are marked as "Needs an update" and are being replaced.
+- The theme is licensed under CC BY-SA 4.0, the same license as the Yaru icons.
+- The calibre logo, the content server icons and the virtual library icon use the theme's stack of books icon.
+
+### New icons drawn in Yaru style
+
+- Text formatting: ordered and unordered list, heading, horizontal rule, subscript, superscript, text color, background color, larger and smaller font, and clear. The chapters icon uses the ordered list icon.
+- Books and metadata: series (in the sidebar and the "books in this series" action), publisher, tags, identifiers and custom columns.
+- Basic actions, neutral and based on Yaru's symbolic icons: OK, plus, minus, double plus, double minus, next, previous, back, forward, up, down, close, clear, remove, links, refresh, auto reload, rotate, sync to the right, auto scroll, sort by author, read aloud, compare, split, undo and redo. Up and down use the same chevron as next and previous.
+- Tools: settings, filter, AI, library, highlight, highlight only (on and off), marked books, jobs, notes and quickview. They are neutral, except the blue AI sparkles and the green "on" badge of highlight only.
+- Documents, made from Yaru's HTML and text document icons: Fix HTML (with Yaru's green check badge), heuristic processing (a band-aid across the page) and full text search (Yaru's magnifier over the page's text).
+- Colorful icons, built like Yaru's app icons: Hotmail (on Yaru's square tile), Gmail, donate, green and red dots (Yaru's emblem circle), and DRM locked and unlocked (a padlock on Yaru's round icon).
+
+### Dark mode
+
+- Light versions for dark mode of all neutral icons and of the text formatting icons, including Yaru's bold, italic, underline and strikethrough. The AI icon has one version for both.
+
+### Replaced icons
+
+- The new icons replace calibre's original icons, 15 icons of unknown origin, and Yaru's colored link, refresh, rotate, double minus, undo and redo icons.
+- The external link icon uses Yaru-Blue's blue version instead of Yaru's purple one.
 
 ## 1.0.0 (2026-11-04)
 
