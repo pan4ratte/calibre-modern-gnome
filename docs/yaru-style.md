@@ -89,6 +89,18 @@ Small generic symbols and buttons that calibre uses in many places: OK, plus, mi
 - **Pages** (compare, split) are Yaru's page: rounded corners (14 px), the top right corner folded (36 px, a solid triangle), a light surface with a 14 px glyph edge. Arrows that show content moving are Yaru blue, as in the formatting icons. With several shapes, the gradient is set on the whole canvas (`gradientUnits="userSpaceOnUse"`, from #4d4d4d at 0,0 to #151515 at 256,256) so it runs evenly across them.
 - **Icons calibre has only as a light and dark pair** (`close`, `clear_left`) get a source for each: `<name>-for-light-theme.svg` and `<name>-for-dark-theme.svg`.
 
+### Colorful icons
+
+Icons that keep their colors (service logos, status dots, padlocks, a heart, objects on a Yaru page) are built the way Yaru's square and round app icon templates (`icons/src/fullcolor/`) are. Working examples: `hotmail`, `gmail_logo`, `donate`, `drm-locked`, `drm-unlocked` and the band-aid in `heuristics` in `src/`.
+
+- **Fill**: a gentle gradient between two neighboring shades of one palette family, the darker one at the top (the templates use Deep Blue 03 to 04).
+- **Shadow**: two black copies of the shape, 1 px lower: blur 1.12 at 10% and blur 4.48 at 20%.
+- **Rims**: a 2 px white rim along the top edges at 30% and a 2 px black rim along the bottom edges at 20%, each the shape minus a copy moved 2 px. They are the only highlight; no white fades or colored bottom bands.
+- **White shapes** get Yaru's outline for white icons under them: the shape with a 4 px black stroke at 20%.
+- **Objects on a shape** (a padlock on a circle, a band-aid on a page) get their own shadows. Keep them simple and flat, like the padlock; the band-aid, which lies across a whole page, also gets the rims.
+- **Pictograms on emblems** stay flat, as on Yaru's emblems: the dots are the emblem circle (two soft shadows, flat fill) without the symbol.
+- calibre's SVG renderer draws masks but not clip paths, so rims and cut-outs are made with `<mask>`.
+
 ## Working in Illustrator
 
 Simple icons (letters, lines, badges, basic shapes) are written as SVG code directly. Icons with detailed artwork are made together with the user in Adobe Illustrator 2025, which is installed and can be driven by scripts through its COM interface (`Illustrator.Application`):

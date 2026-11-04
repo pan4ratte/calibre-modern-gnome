@@ -89,7 +89,12 @@ In the "Updated" table, the "Light theme" column shows the icon calibre uses in 
 | document-new.png               | ![](images/document-new.png)               |                                                          | Yaru-Blue              |
 | document-split.png             | ![](images/document-split.png)             | ![](images/document-split-for-dark-theme.png)            | Mark Ingrem            |
 | document_open.png              | ![](images/document_open.png)              |                                                          | Yaru-Blue              |
+| donate.png                     | ![](images/donate.png)                     |                                                          | Mark Ingrem            |
+| dot_green.png                  | ![](images/dot_green.png)                  |                                                          | Yaru-Blue (customized) |
+| dot_red.png                    | ![](images/dot_red.png)                    |                                                          | Yaru-Blue (customized) |
 | download-metadata.png          | ![](images/download-metadata.png)          |                                                          | Yaru-Blue              |
+| drm-locked.png                 | ![](images/drm-locked.png)                 |                                                          | Yaru-Blue (customized) |
+| drm-unlocked.png               | ![](images/drm-unlocked.png)               |                                                          | Yaru-Blue (customized) |
 | edit-clear.png                 | ![](images/edit-clear.png)                 | ![](images/edit-clear-for-dark-theme.png)                | Mark Ingrem            |
 | edit-copy.png                  | ![](images/edit-copy.png)                  |                                                          | Yaru-Blue              |
 | edit-cut.png                   | ![](images/edit-cut.png)                   |                                                          | Yaru-Blue              |
@@ -129,14 +134,19 @@ In the "Updated" table, the "Light theme" column shows the icon calibre uses in 
 | format-text-superscript.png    | ![](images/format-text-superscript.png)    | ![](images/format-text-superscript-for-dark-theme.png)   | Mark Ingrem            |
 | format-text-underline.png      | ![](images/format-text-underline.png)      | ![](images/format-text-underline-for-dark-theme.png)     | Yaru-Blue (customized) |
 | forward.png                    | ![](images/forward.png)                    | ![](images/forward-for-dark-theme.png)                   | Mark Ingrem            |
+| fts.png                        | ![](images/fts.png)                        |                                                          | Yaru-Blue (customized) |
 | gear.png                       | ![](images/gear.png)                       | ![](images/gear-for-dark-theme.png)                      | Mark Ingrem            |
 | generic-library.png            | ![](images/generic-library.png)            | ![](images/generic-library-for-dark-theme.png)           | Mark Ingrem            |
+| gmail_logo.png                 | ![](images/gmail_logo.png)                 |                                                          | Mark Ingrem            |
 | grid.png                       | ![](images/grid.png)                       |                                                          | Yaru-Blue              |
 | h-ellipsis.png                 | ![](images/h-ellipsis.png)                 |                                                          | Yaru-Blue              |
 | help.png                       | ![](images/help.png)                       |                                                          | Yaru-Blue              |
+| heuristics.png                 | ![](images/heuristics.png)                 |                                                          | Yaru-Blue (customized) |
 | highlight.png                  | ![](images/highlight.png)                  | ![](images/highlight-for-dark-theme.png)                 | Mark Ingrem            |
 | highlight_only_off.png         | ![](images/highlight_only_off.png)         | ![](images/highlight_only_off-for-dark-theme.png)        | Mark Ingrem            |
 | highlight_only_on.png          | ![](images/highlight_only_on.png)          | ![](images/highlight_only_on-for-dark-theme.png)         | Mark Ingrem            |
+| hotmail.png                    | ![](images/hotmail.png)                    |                                                          | Mark Ingrem            |
+| html-fix.png                   | ![](images/html-fix.png)                   |                                                          | Yaru-Blue (customized) |
 | icon_choose.png                | ![](images/icon_choose.png)                |                                                          | Yaru-Blue              |
 | identifiers.png                | ![](images/identifiers.png)                |                                                          | Mark Ingrem            |
 | insert-link.png                | ![](images/insert-link.png)                | ![](images/insert-link-for-dark-theme.png)               | Mark Ingrem            |
@@ -213,16 +223,6 @@ In the "Updated" table, the "Light theme" column shows the icon calibre uses in 
 | cyoa.png                       | ![](images/cyoa.png)                       | Calibre original icon  |
 | debug.svg                      | ![](images/debug.svg)                      | ???                    |
 | default_cover.png              | ![](images/default_cover.png)              | Calibre original icon  |
-| donate.svg                     | ![](images/donate.svg)                     | ???                    |
-| dot_green.svg                  | ![](images/dot_green.svg)                  | ???                    |
-| dot_red.svg                    | ![](images/dot_red.svg)                    | ???                    |
-| drm-locked.svg                 | ![](images/drm-locked.svg)                 | ???                    |
-| drm-unlocked.svg               | ![](images/drm-unlocked.svg)               | ???                    |
-| fts.png                        | ![](images/fts.png)                        | Calibre original icon  |
-| gmail_logo.svg                 | ![](images/gmail_logo.svg)                 | ???                    |
-| heuristics.png                 | ![](images/heuristics.png)                 | Calibre original icon  |
-| hotmail.svg                    | ![](images/hotmail.svg)                    | ???                    |
-| html-fix.png                   | ![](images/html-fix.png)                   | Calibre original icon  |
 | merge.png                      | ![](images/merge.png)                      | Calibre original icon  |
 | merge_books.png                | ![](images/merge_books.png)                | Calibre original icon  |
 | metadata.png                   | ![](images/metadata.png)                   | Calibre original icon  |

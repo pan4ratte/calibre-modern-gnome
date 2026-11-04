@@ -13,6 +13,8 @@
 - The external link icon now uses Yaru-Blue's blue version instead of Yaru's purple one.
 - New neutral icons drawn in Yaru style for undo and redo, with light versions for dark mode. They replace Yaru's colored undo and redo icons.
 - The calibre logo, the content server icons and the virtual library icon now use the theme's stack of books icon.
+- New icons for Fix HTML, heuristic processing and full text search, made from Yaru's HTML and text document icons: Fix HTML has Yaru's green check badge, heuristic processing a band-aid across the page, and full text search Yaru's magnifier over the page's text. They replace calibre's original icons.
+- The Hotmail, Gmail, donate, green and red dot, and DRM locked and unlocked icons are redrawn in Yaru's colorful style, keeping their ideas: Yaru's palette, built like Yaru's app icon templates (gentle gradients, soft shadows, thin top and bottom rims). Hotmail uses Yaru's square app tile, the DRM icons show a rounded padlock on Yaru's round app icon, and the dots are Yaru's emblem circle. They replace icons of unknown origin.
 - The chapters icon now uses the ordered list icon.
 - Light versions of the text formatting icons for dark mode: bold, italic, underline, strikethrough, heading, subscript, superscript, text color, background color, larger and smaller font, ordered and unordered list, horizontal rule, clear, and chapters.
 
