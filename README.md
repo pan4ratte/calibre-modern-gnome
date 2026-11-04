@@ -61,200 +61,200 @@ In the "Updated" table, the "Light theme" column shows the icon calibre uses in 
 
 ### Updated
 
-| File name                      | Light theme                                | Dark theme                                               | Source                 |
-|--------------------------------|--------------------------------------------|----------------------------------------------------------|------------------------|
-| add_book.png                   | ![](images/add_book.png)                   |                                                          | Yaru-Blue              |
-| ai.png                         | ![](images/ai.png)                         |                                                          | Mark Ingrem            |
-| apple-touch-icon.png           | ![](images/apple-touch-icon.png)           |                                                          | Mark Ingrem            |
-| arrow-down.png                 | ![](images/arrow-down.png)                 | ![](images/arrow-down-for-dark-theme.png)                | Mark Ingrem            |
-| arrow-up.png                   | ![](images/arrow-up.png)                   | ![](images/arrow-up-for-dark-theme.png)                  | Mark Ingrem            |
-| auto-reload.png                | ![](images/auto-reload.png)                | ![](images/auto-reload-for-dark-theme.png)               | Mark Ingrem            |
-| auto-scroll.png                | ![](images/auto-scroll.png)                | ![](images/auto-scroll-for-dark-theme.png)               | Mark Ingrem            |
-| auto_author_sort.png           | ![](images/auto_author_sort.png)           | ![](images/auto_author_sort-for-dark-theme.png)          | Mark Ingrem            |
-| back.png                       | ![](images/back.png)                       | ![](images/back-for-dark-theme.png)                      | Mark Ingrem            |
-| blank.png                      | ![](images/blank.png)                      |                                                          | Calibre original icon  |
-| books_in_series.png            | ![](images/books_in_series.png)            |                                                          | Mark Ingrem            |
-| bullhorn.png                   | ![](images/bullhorn.png)                   | ![](images/bullhorn-for-dark-theme.png)                  | Mark Ingrem            |
-| calibre.png                    | ![](images/calibre.png)                    |                                                          | Mark Ingrem            |
-| chapters.png                   | ![](images/chapters.png)                   | ![](images/chapters-for-dark-theme.png)                  | Mark Ingrem            |
-| character-set.png              | ![](images/character-set.png)              |                                                          | Yaru-Blue              |
-| clear_left-for-light-theme.png | ![](images/clear_left-for-light-theme.png) | ![](images/clear_left-for-dark-theme.png)                | Mark Ingrem            |
-| close-for-light-theme.png      | ![](images/close-for-light-theme.png)      | ![](images/close-for-dark-theme.png)                     | Mark Ingrem            |
-| code.png                       | ![](images/code.png)                       |                                                          | Yaru-Blue              |
-| column.png                     | ![](images/column.png)                     |                                                          | Mark Ingrem            |
-| config.png                     | ![](images/config.png)                     |                                                          | Yaru-Blue              |
-| connect_share.png              | ![](images/connect_share.png)              |                                                          | Yaru-Blue (customized) |
-| connect_share_on.png           | ![](images/connect_share_on.png)           |                                                          | Yaru-Blue              |
-| context_menu.png               | ![](images/context_menu.png)               |                                                          | Yaru-Blue              |
-| convert.png                    | ![](images/convert.png)                    |                                                          | Yaru-Blue              |
-| dialog_error.png               | ![](images/dialog_error.png)               |                                                          | Yaru-Blue              |
-| dialog_information.png         | ![](images/dialog_information.png)         |                                                          | Yaru-Blue              |
-| dialog_question.png            | ![](images/dialog_question.png)            |                                                          | Yaru-Blue              |
-| dialog_warning.png             | ![](images/dialog_warning.png)             |                                                          | Yaru-Blue              |
-| dictionary.png                 | ![](images/dictionary.png)                 |                                                          | Yaru-Blue              |
-| diff.png                       | ![](images/diff.png)                       | ![](images/diff-for-dark-theme.png)                      | Mark Ingrem            |
-| document-encrypt.png           | ![](images/document-encrypt.png)           |                                                          | Yaru-Blue              |
-| document-import.png            | ![](images/document-import.png)            |                                                          | Yaru-Blue              |
-| document-new.png               | ![](images/document-new.png)               |                                                          | Yaru-Blue              |
-| document-split.png             | ![](images/document-split.png)             | ![](images/document-split-for-dark-theme.png)            | Mark Ingrem            |
-| document_open.png              | ![](images/document_open.png)              |                                                          | Yaru-Blue              |
-| donate.png                     | ![](images/donate.png)                     |                                                          | Mark Ingrem            |
-| dot_green.png                  | ![](images/dot_green.png)                  |                                                          | Yaru-Blue (customized) |
-| dot_red.png                    | ![](images/dot_red.png)                    |                                                          | Yaru-Blue (customized) |
-| download-metadata.png          | ![](images/download-metadata.png)          |                                                          | Yaru-Blue              |
-| drm-locked.png                 | ![](images/drm-locked.png)                 |                                                          | Yaru-Blue (customized) |
-| drm-unlocked.png               | ![](images/drm-unlocked.png)               |                                                          | Yaru-Blue (customized) |
-| edit-clear.png                 | ![](images/edit-clear.png)                 | ![](images/edit-clear-for-dark-theme.png)                | Mark Ingrem            |
-| edit-copy.png                  | ![](images/edit-copy.png)                  |                                                          | Yaru-Blue              |
-| edit-cut.png                   | ![](images/edit-cut.png)                   |                                                          | Yaru-Blue              |
-| edit-paste.png                 | ![](images/edit-paste.png)                 |                                                          | Yaru-Blue              |
-| edit-redo.png                  | ![](images/edit-redo.png)                  | ![](images/edit-redo-for-dark-theme.png)                 | Mark Ingrem            |
-| edit-select-all.png            | ![](images/edit-select-all.png)            |                                                          | Yaru-Blue              |
-| edit-undo.png                  | ![](images/edit-undo.png)                  | ![](images/edit-undo-for-dark-theme.png)                 | Mark Ingrem            |
-| edit_book.png                  | ![](images/edit_book.png)                  |                                                          | Yaru-Blue              |
-| edit_input.png                 | ![](images/edit_input.png)                 |                                                          | Yaru-Blue              |
-| eject.png                      | ![](images/eject.png)                      |                                                          | Yaru-Blue              |
-| embed-fonts.png                | ![](images/embed-fonts.png)                |                                                          | Yaru-Blue              |
-| exec.png                       | ![](images/exec.png)                       |                                                          | Yaru-Blue              |
-| external-link.png              | ![](images/external-link.png)              |                                                          | Yaru-Blue              |
-| favicon-192.png                | ![](images/favicon-192.png)                |                                                          | Mark Ingrem            |
-| favicon-512.png                | ![](images/favicon-512.png)                |                                                          | Mark Ingrem            |
-| filter.png                     | ![](images/filter.png)                     | ![](images/filter-for-dark-theme.png)                    | Mark Ingrem            |
-| folder_saved_search.png        | ![](images/folder_saved_search.png)        |                                                          | Yaru-Blue              |
-| font.png                       | ![](images/font.png)                       |                                                          | Yaru-Blue              |
-| font_size_larger.png           | ![](images/font_size_larger.png)           | ![](images/font_size_larger-for-dark-theme.png)          | Mark Ingrem            |
-| font_size_smaller.png          | ![](images/font_size_smaller.png)          | ![](images/font_size_smaller-for-dark-theme.png)         | Mark Ingrem            |
-| format-fill-color.png          | ![](images/format-fill-color.png)          | ![](images/format-fill-color-for-dark-theme.png)         | Mark Ingrem            |
-| format-indent-less.png         | ![](images/format-indent-less.png)         |                                                          | Yaru-Blue              |
-| format-indent-more.png         | ![](images/format-indent-more.png)         |                                                          | Yaru-Blue              |
-| format-justify-center.png      | ![](images/format-justify-center.png)      |                                                          | Yaru-Blue              |
-| format-justify-fill.png        | ![](images/format-justify-fill.png)        |                                                          | Yaru-Blue              |
-| format-justify-left.png        | ![](images/format-justify-left.png)        |                                                          | Yaru-Blue              |
-| format-justify-right.png       | ![](images/format-justify-right.png)       |                                                          | Yaru-Blue              |
-| format-list-ordered.png        | ![](images/format-list-ordered.png)        | ![](images/format-list-ordered-for-dark-theme.png)       | Mark Ingrem            |
-| format-list-unordered.png      | ![](images/format-list-unordered.png)      | ![](images/format-list-unordered-for-dark-theme.png)     | Mark Ingrem            |
-| format-text-bold.png           | ![](images/format-text-bold.png)           | ![](images/format-text-bold-for-dark-theme.png)          | Yaru-Blue (customized) |
-| format-text-color.png          | ![](images/format-text-color.png)          | ![](images/format-text-color-for-dark-theme.png)         | Mark Ingrem            |
-| format-text-heading.png        | ![](images/format-text-heading.png)        | ![](images/format-text-heading-for-dark-theme.png)       | Mark Ingrem            |
-| format-text-hr.png             | ![](images/format-text-hr.png)             | ![](images/format-text-hr-for-dark-theme.png)            | Mark Ingrem            |
-| format-text-italic.png         | ![](images/format-text-italic.png)         | ![](images/format-text-italic-for-dark-theme.png)        | Yaru-Blue (customized) |
-| format-text-strikethrough.png  | ![](images/format-text-strikethrough.png)  | ![](images/format-text-strikethrough-for-dark-theme.png) | Yaru-Blue (customized) |
-| format-text-subscript.png      | ![](images/format-text-subscript.png)      | ![](images/format-text-subscript-for-dark-theme.png)     | Mark Ingrem            |
-| format-text-superscript.png    | ![](images/format-text-superscript.png)    | ![](images/format-text-superscript-for-dark-theme.png)   | Mark Ingrem            |
-| format-text-underline.png      | ![](images/format-text-underline.png)      | ![](images/format-text-underline-for-dark-theme.png)     | Yaru-Blue (customized) |
-| forward.png                    | ![](images/forward.png)                    | ![](images/forward-for-dark-theme.png)                   | Mark Ingrem            |
-| fts.png                        | ![](images/fts.png)                        |                                                          | Yaru-Blue (customized) |
-| gear.png                       | ![](images/gear.png)                       | ![](images/gear-for-dark-theme.png)                      | Mark Ingrem            |
-| generic-library.png            | ![](images/generic-library.png)            | ![](images/generic-library-for-dark-theme.png)           | Mark Ingrem            |
-| gmail_logo.png                 | ![](images/gmail_logo.png)                 |                                                          | Mark Ingrem            |
-| grid.png                       | ![](images/grid.png)                       |                                                          | Yaru-Blue              |
-| h-ellipsis.png                 | ![](images/h-ellipsis.png)                 |                                                          | Yaru-Blue              |
-| help.png                       | ![](images/help.png)                       |                                                          | Yaru-Blue              |
-| heuristics.png                 | ![](images/heuristics.png)                 |                                                          | Yaru-Blue (customized) |
-| highlight.png                  | ![](images/highlight.png)                  | ![](images/highlight-for-dark-theme.png)                 | Mark Ingrem            |
-| highlight_only_off.png         | ![](images/highlight_only_off.png)         | ![](images/highlight_only_off-for-dark-theme.png)        | Mark Ingrem            |
-| highlight_only_on.png          | ![](images/highlight_only_on.png)          | ![](images/highlight_only_on-for-dark-theme.png)         | Mark Ingrem            |
-| hotmail.png                    | ![](images/hotmail.png)                    |                                                          | Mark Ingrem            |
-| html-fix.png                   | ![](images/html-fix.png)                   |                                                          | Yaru-Blue (customized) |
-| icon_choose.png                | ![](images/icon_choose.png)                |                                                          | Yaru-Blue              |
-| identifiers.png                | ![](images/identifiers.png)                |                                                          | Mark Ingrem            |
-| insert-link.png                | ![](images/insert-link.png)                | ![](images/insert-link-for-dark-theme.png)               | Mark Ingrem            |
-| jobs.png                       | ![](images/jobs.png)                       | ![](images/jobs-for-dark-theme.png)                      | Mark Ingrem            |
-| keyboard-prefs.png             | ![](images/keyboard-prefs.png)             |                                                          | Yaru-Blue              |
-| languages.png                  | ![](images/languages.png)                  |                                                          | Yaru-Blue              |
-| layout.png                     | ![](images/layout.png)                     |                                                          | Yaru-Blue              |
-| library.png                    | ![](images/library.png)                    |                                                          | Mark Ingrem            |
-| list_remove.png                | ![](images/list_remove.png)                | ![](images/list_remove-for-dark-theme.png)               | Mark Ingrem            |
-| lookfeel.png                   | ![](images/lookfeel.png)                   |                                                          | Yaru-Blue              |
-| lt.png                         | ![](images/lt.png)                         |                                                          | Mark Ingrem            |
-| mail.png                       | ![](images/mail.png)                       |                                                          | Yaru-Blue              |
-| marked.png                     | ![](images/marked.png)                     | ![](images/marked-for-dark-theme.png)                    | Mark Ingrem            |
-| minus.png                      | ![](images/minus.png)                      | ![](images/minus-for-dark-theme.png)                     | Mark Ingrem            |
-| minusminus.png                 | ![](images/minusminus.png)                 | ![](images/minusminus-for-dark-theme.png)                | Mark Ingrem            |
-| network-server.png             | ![](images/network-server.png)             |                                                          | Yaru-Blue              |
-| news.png                       | ![](images/news.png)                       |                                                          | Yaru-Blue              |
-| next.png                       | ![](images/next.png)                       | ![](images/next-for-dark-theme.png)                      | Mark Ingrem            |
-| notes.png                      | ![](images/notes.png)                      | ![](images/notes-for-dark-theme.png)                     | Mark Ingrem            |
-| ok.png                         | ![](images/ok.png)                         | ![](images/ok-for-dark-theme.png)                        | Mark Ingrem            |
-| plugboard.png                  | ![](images/plugboard.png)                  |                                                          | Yaru-Blue              |
-| plugins.png                    | ![](images/plugins.png)                    |                                                          | Yaru-Blue              |
-| plus.png                       | ![](images/plus.png)                       | ![](images/plus-for-dark-theme.png)                      | Mark Ingrem            |
-| plusplus.png                   | ![](images/plusplus.png)                   | ![](images/plusplus-for-dark-theme.png)                  | Mark Ingrem            |
-| previous.png                   | ![](images/previous.png)                   | ![](images/previous-for-dark-theme.png)                  | Mark Ingrem            |
-| print-preview.png              | ![](images/print-preview.png)              |                                                          | Yaru-Blue              |
-| print.png                      | ![](images/print.png)                      |                                                          | Yaru-Blue              |
-| publisher.png                  | ![](images/publisher.png)                  |                                                          | Mark Ingrem            |
-| quickview.png                  | ![](images/quickview.png)                  | ![](images/quickview-for-dark-theme.png)                 | Mark Ingrem            |
-| reader.png                     | ![](images/reader.png)                     |                                                          | Yaru-Blue              |
-| remove_books.png               | ![](images/remove_books.png)               |                                                          | Yaru-Blue              |
-| reports.png                    | ![](images/reports.png)                    |                                                          | Yaru-Blue              |
-| restart.png                    | ![](images/restart.png)                    |                                                          | Yaru-Blue              |
-| rotate-right.png               | ![](images/rotate-right.png)               | ![](images/rotate-right-for-dark-theme.png)              | Mark Ingrem            |
-| save.png                       | ![](images/save.png)                       |                                                          | Yaru-Blue              |
-| scheduler.png                  | ![](images/scheduler.png)                  |                                                          | Yaru-Blue              |
-| sd.png                         | ![](images/sd.png)                         |                                                          | Yaru-Blue              |
-| search.png                     | ![](images/search.png)                     |                                                          | Yaru-Blue              |
-| search_add_saved.png           | ![](images/search_add_saved.png)           |                                                          | Yaru-Blue              |
-| search_delete_saved.png        | ![](images/search_delete_saved.png)        |                                                          | Yaru-Blue              |
-| series.png                     | ![](images/series.png)                     |                                                          | Mark Ingrem            |
-| store.png                      | ![](images/store.png)                      |                                                          | Yaru-Blue              |
-| sync-right.png                 | ![](images/sync-right.png)                 | ![](images/sync-right-for-dark-theme.png)                | Mark Ingrem            |
-| sync.png                       | ![](images/sync.png)                       |                                                          | Yaru-Blue              |
-| tags.png                       | ![](images/tags.png)                       |                                                          | Mark Ingrem            |
-| tb_folder.png                  | ![](images/tb_folder.png)                  |                                                          | Yaru-Blue              |
-| template_funcs.png             | ![](images/template_funcs.png)             |                                                          | Yaru-Blue              |
-| trash.png                      | ![](images/trash.png)                      |                                                          | Yaru-Blue              |
-| trim.png                       | ![](images/trim.png)                       |                                                          | Yaru-Blue              |
-| tweak.png                      | ![](images/tweak.png)                      |                                                          | Yaru-Blue              |
-| tweaks.png                     | ![](images/tweaks.png)                     |                                                          | Yaru-Blue              |
-| user_profile.png               | ![](images/user_profile.png)               |                                                          | Yaru-Blue              |
-| v-ellipsis.png                 | ![](images/v-ellipsis.png)                 |                                                          | Yaru-Blue              |
-| view-image.png                 | ![](images/view-image.png)                 |                                                          | Yaru-Blue              |
-| view-refresh.png               | ![](images/view-refresh.png)               | ![](images/view-refresh-for-dark-theme.png)              | Mark Ingrem            |
-| view.png                       | ![](images/view.png)                       |                                                          | Yaru-Blue              |
-| viewer.png                     | ![](images/viewer.png)                     |                                                          | Yaru-Blue              |
-| vl.png                         | ![](images/vl.png)                         |                                                          | Mark Ingrem            |
-| window-close.png               | ![](images/window-close.png)               |                                                          | Yaru-Blue              |
-| wizard.png                     | ![](images/wizard.png)                     |                                                          | Yaru-Blue              |
+| File name                      | Light theme                                                  | Dark theme                                                                 | Source                 |
+|--------------------------------|:------------------------------------------------------------:|:--------------------------------------------------------------------------:|------------------------|
+| add_book.png                   | <img src="images/add_book.png" width="96">                   |                                                                            | Yaru-Blue              |
+| ai.png                         | <img src="images/ai.png" width="96">                         |                                                                            | Mark Ingrem            |
+| apple-touch-icon.png           | <img src="images/apple-touch-icon.png" width="96">           |                                                                            | Mark Ingrem            |
+| arrow-down.png                 | <img src="images/arrow-down.png" width="96">                 | <img src="images/arrow-down-for-dark-theme.png" width="96">                | Mark Ingrem            |
+| arrow-up.png                   | <img src="images/arrow-up.png" width="96">                   | <img src="images/arrow-up-for-dark-theme.png" width="96">                  | Mark Ingrem            |
+| auto-reload.png                | <img src="images/auto-reload.png" width="96">                | <img src="images/auto-reload-for-dark-theme.png" width="96">               | Mark Ingrem            |
+| auto-scroll.png                | <img src="images/auto-scroll.png" width="96">                | <img src="images/auto-scroll-for-dark-theme.png" width="96">               | Mark Ingrem            |
+| auto_author_sort.png           | <img src="images/auto_author_sort.png" width="96">           | <img src="images/auto_author_sort-for-dark-theme.png" width="96">          | Mark Ingrem            |
+| back.png                       | <img src="images/back.png" width="96">                       | <img src="images/back-for-dark-theme.png" width="96">                      | Mark Ingrem            |
+| blank.png                      | <img src="images/blank.png" width="96">                      |                                                                            | Calibre original icon  |
+| books_in_series.png            | <img src="images/books_in_series.png" width="96">            |                                                                            | Mark Ingrem            |
+| bullhorn.png                   | <img src="images/bullhorn.png" width="96">                   | <img src="images/bullhorn-for-dark-theme.png" width="96">                  | Mark Ingrem            |
+| calibre.png                    | <img src="images/calibre.png" width="96">                    |                                                                            | Mark Ingrem            |
+| chapters.png                   | <img src="images/chapters.png" width="96">                   | <img src="images/chapters-for-dark-theme.png" width="96">                  | Mark Ingrem            |
+| character-set.png              | <img src="images/character-set.png" width="96">              |                                                                            | Yaru-Blue              |
+| clear_left-for-light-theme.png | <img src="images/clear_left-for-light-theme.png" width="96"> | <img src="images/clear_left-for-dark-theme.png" width="96">                | Mark Ingrem            |
+| close-for-light-theme.png      | <img src="images/close-for-light-theme.png" width="96">      | <img src="images/close-for-dark-theme.png" width="96">                     | Mark Ingrem            |
+| code.png                       | <img src="images/code.png" width="96">                       |                                                                            | Yaru-Blue              |
+| column.png                     | <img src="images/column.png" width="96">                     |                                                                            | Mark Ingrem            |
+| config.png                     | <img src="images/config.png" width="96">                     |                                                                            | Yaru-Blue              |
+| connect_share.png              | <img src="images/connect_share.png" width="96">              |                                                                            | Yaru-Blue (customized) |
+| connect_share_on.png           | <img src="images/connect_share_on.png" width="96">           |                                                                            | Yaru-Blue              |
+| context_menu.png               | <img src="images/context_menu.png" width="96">               |                                                                            | Yaru-Blue              |
+| convert.png                    | <img src="images/convert.png" width="96">                    |                                                                            | Yaru-Blue              |
+| dialog_error.png               | <img src="images/dialog_error.png" width="96">               |                                                                            | Yaru-Blue              |
+| dialog_information.png         | <img src="images/dialog_information.png" width="96">         |                                                                            | Yaru-Blue              |
+| dialog_question.png            | <img src="images/dialog_question.png" width="96">            |                                                                            | Yaru-Blue              |
+| dialog_warning.png             | <img src="images/dialog_warning.png" width="96">             |                                                                            | Yaru-Blue              |
+| dictionary.png                 | <img src="images/dictionary.png" width="96">                 |                                                                            | Yaru-Blue              |
+| diff.png                       | <img src="images/diff.png" width="96">                       | <img src="images/diff-for-dark-theme.png" width="96">                      | Mark Ingrem            |
+| document-encrypt.png           | <img src="images/document-encrypt.png" width="96">           |                                                                            | Yaru-Blue              |
+| document-import.png            | <img src="images/document-import.png" width="96">            |                                                                            | Yaru-Blue              |
+| document-new.png               | <img src="images/document-new.png" width="96">               |                                                                            | Yaru-Blue              |
+| document-split.png             | <img src="images/document-split.png" width="96">             | <img src="images/document-split-for-dark-theme.png" width="96">            | Mark Ingrem            |
+| document_open.png              | <img src="images/document_open.png" width="96">              |                                                                            | Yaru-Blue              |
+| donate.png                     | <img src="images/donate.png" width="96">                     |                                                                            | Mark Ingrem            |
+| dot_green.png                  | <img src="images/dot_green.png" width="96">                  |                                                                            | Yaru-Blue (customized) |
+| dot_red.png                    | <img src="images/dot_red.png" width="96">                    |                                                                            | Yaru-Blue (customized) |
+| download-metadata.png          | <img src="images/download-metadata.png" width="96">          |                                                                            | Yaru-Blue              |
+| drm-locked.png                 | <img src="images/drm-locked.png" width="96">                 |                                                                            | Yaru-Blue (customized) |
+| drm-unlocked.png               | <img src="images/drm-unlocked.png" width="96">               |                                                                            | Yaru-Blue (customized) |
+| edit-clear.png                 | <img src="images/edit-clear.png" width="96">                 | <img src="images/edit-clear-for-dark-theme.png" width="96">                | Mark Ingrem            |
+| edit-copy.png                  | <img src="images/edit-copy.png" width="96">                  |                                                                            | Yaru-Blue              |
+| edit-cut.png                   | <img src="images/edit-cut.png" width="96">                   |                                                                            | Yaru-Blue              |
+| edit-paste.png                 | <img src="images/edit-paste.png" width="96">                 |                                                                            | Yaru-Blue              |
+| edit-redo.png                  | <img src="images/edit-redo.png" width="96">                  | <img src="images/edit-redo-for-dark-theme.png" width="96">                 | Mark Ingrem            |
+| edit-select-all.png            | <img src="images/edit-select-all.png" width="96">            |                                                                            | Yaru-Blue              |
+| edit-undo.png                  | <img src="images/edit-undo.png" width="96">                  | <img src="images/edit-undo-for-dark-theme.png" width="96">                 | Mark Ingrem            |
+| edit_book.png                  | <img src="images/edit_book.png" width="96">                  |                                                                            | Yaru-Blue              |
+| edit_input.png                 | <img src="images/edit_input.png" width="96">                 |                                                                            | Yaru-Blue              |
+| eject.png                      | <img src="images/eject.png" width="96">                      |                                                                            | Yaru-Blue              |
+| embed-fonts.png                | <img src="images/embed-fonts.png" width="96">                |                                                                            | Yaru-Blue              |
+| exec.png                       | <img src="images/exec.png" width="96">                       |                                                                            | Yaru-Blue              |
+| external-link.png              | <img src="images/external-link.png" width="96">              |                                                                            | Yaru-Blue              |
+| favicon-192.png                | <img src="images/favicon-192.png" width="96">                |                                                                            | Mark Ingrem            |
+| favicon-512.png                | <img src="images/favicon-512.png" width="96">                |                                                                            | Mark Ingrem            |
+| filter.png                     | <img src="images/filter.png" width="96">                     | <img src="images/filter-for-dark-theme.png" width="96">                    | Mark Ingrem            |
+| folder_saved_search.png        | <img src="images/folder_saved_search.png" width="96">        |                                                                            | Yaru-Blue              |
+| font.png                       | <img src="images/font.png" width="96">                       |                                                                            | Yaru-Blue              |
+| font_size_larger.png           | <img src="images/font_size_larger.png" width="96">           | <img src="images/font_size_larger-for-dark-theme.png" width="96">          | Mark Ingrem            |
+| font_size_smaller.png          | <img src="images/font_size_smaller.png" width="96">          | <img src="images/font_size_smaller-for-dark-theme.png" width="96">         | Mark Ingrem            |
+| format-fill-color.png          | <img src="images/format-fill-color.png" width="96">          | <img src="images/format-fill-color-for-dark-theme.png" width="96">         | Mark Ingrem            |
+| format-indent-less.png         | <img src="images/format-indent-less.png" width="96">         |                                                                            | Yaru-Blue              |
+| format-indent-more.png         | <img src="images/format-indent-more.png" width="96">         |                                                                            | Yaru-Blue              |
+| format-justify-center.png      | <img src="images/format-justify-center.png" width="96">      |                                                                            | Yaru-Blue              |
+| format-justify-fill.png        | <img src="images/format-justify-fill.png" width="96">        |                                                                            | Yaru-Blue              |
+| format-justify-left.png        | <img src="images/format-justify-left.png" width="96">        |                                                                            | Yaru-Blue              |
+| format-justify-right.png       | <img src="images/format-justify-right.png" width="96">       |                                                                            | Yaru-Blue              |
+| format-list-ordered.png        | <img src="images/format-list-ordered.png" width="96">        | <img src="images/format-list-ordered-for-dark-theme.png" width="96">       | Mark Ingrem            |
+| format-list-unordered.png      | <img src="images/format-list-unordered.png" width="96">      | <img src="images/format-list-unordered-for-dark-theme.png" width="96">     | Mark Ingrem            |
+| format-text-bold.png           | <img src="images/format-text-bold.png" width="96">           | <img src="images/format-text-bold-for-dark-theme.png" width="96">          | Yaru-Blue (customized) |
+| format-text-color.png          | <img src="images/format-text-color.png" width="96">          | <img src="images/format-text-color-for-dark-theme.png" width="96">         | Mark Ingrem            |
+| format-text-heading.png        | <img src="images/format-text-heading.png" width="96">        | <img src="images/format-text-heading-for-dark-theme.png" width="96">       | Mark Ingrem            |
+| format-text-hr.png             | <img src="images/format-text-hr.png" width="96">             | <img src="images/format-text-hr-for-dark-theme.png" width="96">            | Mark Ingrem            |
+| format-text-italic.png         | <img src="images/format-text-italic.png" width="96">         | <img src="images/format-text-italic-for-dark-theme.png" width="96">        | Yaru-Blue (customized) |
+| format-text-strikethrough.png  | <img src="images/format-text-strikethrough.png" width="96">  | <img src="images/format-text-strikethrough-for-dark-theme.png" width="96"> | Yaru-Blue (customized) |
+| format-text-subscript.png      | <img src="images/format-text-subscript.png" width="96">      | <img src="images/format-text-subscript-for-dark-theme.png" width="96">     | Mark Ingrem            |
+| format-text-superscript.png    | <img src="images/format-text-superscript.png" width="96">    | <img src="images/format-text-superscript-for-dark-theme.png" width="96">   | Mark Ingrem            |
+| format-text-underline.png      | <img src="images/format-text-underline.png" width="96">      | <img src="images/format-text-underline-for-dark-theme.png" width="96">     | Yaru-Blue (customized) |
+| forward.png                    | <img src="images/forward.png" width="96">                    | <img src="images/forward-for-dark-theme.png" width="96">                   | Mark Ingrem            |
+| fts.png                        | <img src="images/fts.png" width="96">                        |                                                                            | Yaru-Blue (customized) |
+| gear.png                       | <img src="images/gear.png" width="96">                       | <img src="images/gear-for-dark-theme.png" width="96">                      | Mark Ingrem            |
+| generic-library.png            | <img src="images/generic-library.png" width="96">            | <img src="images/generic-library-for-dark-theme.png" width="96">           | Mark Ingrem            |
+| gmail_logo.png                 | <img src="images/gmail_logo.png" width="96">                 |                                                                            | Mark Ingrem            |
+| grid.png                       | <img src="images/grid.png" width="96">                       |                                                                            | Yaru-Blue              |
+| h-ellipsis.png                 | <img src="images/h-ellipsis.png" width="96">                 |                                                                            | Yaru-Blue              |
+| help.png                       | <img src="images/help.png" width="96">                       |                                                                            | Yaru-Blue              |
+| heuristics.png                 | <img src="images/heuristics.png" width="96">                 |                                                                            | Yaru-Blue (customized) |
+| highlight.png                  | <img src="images/highlight.png" width="96">                  | <img src="images/highlight-for-dark-theme.png" width="96">                 | Mark Ingrem            |
+| highlight_only_off.png         | <img src="images/highlight_only_off.png" width="96">         | <img src="images/highlight_only_off-for-dark-theme.png" width="96">        | Mark Ingrem            |
+| highlight_only_on.png          | <img src="images/highlight_only_on.png" width="96">          | <img src="images/highlight_only_on-for-dark-theme.png" width="96">         | Mark Ingrem            |
+| hotmail.png                    | <img src="images/hotmail.png" width="96">                    |                                                                            | Mark Ingrem            |
+| html-fix.png                   | <img src="images/html-fix.png" width="96">                   |                                                                            | Yaru-Blue (customized) |
+| icon_choose.png                | <img src="images/icon_choose.png" width="96">                |                                                                            | Yaru-Blue              |
+| identifiers.png                | <img src="images/identifiers.png" width="96">                |                                                                            | Mark Ingrem            |
+| insert-link.png                | <img src="images/insert-link.png" width="96">                | <img src="images/insert-link-for-dark-theme.png" width="96">               | Mark Ingrem            |
+| jobs.png                       | <img src="images/jobs.png" width="96">                       | <img src="images/jobs-for-dark-theme.png" width="96">                      | Mark Ingrem            |
+| keyboard-prefs.png             | <img src="images/keyboard-prefs.png" width="96">             |                                                                            | Yaru-Blue              |
+| languages.png                  | <img src="images/languages.png" width="96">                  |                                                                            | Yaru-Blue              |
+| layout.png                     | <img src="images/layout.png" width="96">                     |                                                                            | Yaru-Blue              |
+| library.png                    | <img src="images/library.png" width="96">                    |                                                                            | Mark Ingrem            |
+| list_remove.png                | <img src="images/list_remove.png" width="96">                | <img src="images/list_remove-for-dark-theme.png" width="96">               | Mark Ingrem            |
+| lookfeel.png                   | <img src="images/lookfeel.png" width="96">                   |                                                                            | Yaru-Blue              |
+| lt.png                         | <img src="images/lt.png" width="96">                         |                                                                            | Mark Ingrem            |
+| mail.png                       | <img src="images/mail.png" width="96">                       |                                                                            | Yaru-Blue              |
+| marked.png                     | <img src="images/marked.png" width="96">                     | <img src="images/marked-for-dark-theme.png" width="96">                    | Mark Ingrem            |
+| minus.png                      | <img src="images/minus.png" width="96">                      | <img src="images/minus-for-dark-theme.png" width="96">                     | Mark Ingrem            |
+| minusminus.png                 | <img src="images/minusminus.png" width="96">                 | <img src="images/minusminus-for-dark-theme.png" width="96">                | Mark Ingrem            |
+| network-server.png             | <img src="images/network-server.png" width="96">             |                                                                            | Yaru-Blue              |
+| news.png                       | <img src="images/news.png" width="96">                       |                                                                            | Yaru-Blue              |
+| next.png                       | <img src="images/next.png" width="96">                       | <img src="images/next-for-dark-theme.png" width="96">                      | Mark Ingrem            |
+| notes.png                      | <img src="images/notes.png" width="96">                      | <img src="images/notes-for-dark-theme.png" width="96">                     | Mark Ingrem            |
+| ok.png                         | <img src="images/ok.png" width="96">                         | <img src="images/ok-for-dark-theme.png" width="96">                        | Mark Ingrem            |
+| plugboard.png                  | <img src="images/plugboard.png" width="96">                  |                                                                            | Yaru-Blue              |
+| plugins.png                    | <img src="images/plugins.png" width="96">                    |                                                                            | Yaru-Blue              |
+| plus.png                       | <img src="images/plus.png" width="96">                       | <img src="images/plus-for-dark-theme.png" width="96">                      | Mark Ingrem            |
+| plusplus.png                   | <img src="images/plusplus.png" width="96">                   | <img src="images/plusplus-for-dark-theme.png" width="96">                  | Mark Ingrem            |
+| previous.png                   | <img src="images/previous.png" width="96">                   | <img src="images/previous-for-dark-theme.png" width="96">                  | Mark Ingrem            |
+| print-preview.png              | <img src="images/print-preview.png" width="96">              |                                                                            | Yaru-Blue              |
+| print.png                      | <img src="images/print.png" width="96">                      |                                                                            | Yaru-Blue              |
+| publisher.png                  | <img src="images/publisher.png" width="96">                  |                                                                            | Mark Ingrem            |
+| quickview.png                  | <img src="images/quickview.png" width="96">                  | <img src="images/quickview-for-dark-theme.png" width="96">                 | Mark Ingrem            |
+| reader.png                     | <img src="images/reader.png" width="96">                     |                                                                            | Yaru-Blue              |
+| remove_books.png               | <img src="images/remove_books.png" width="96">               |                                                                            | Yaru-Blue              |
+| reports.png                    | <img src="images/reports.png" width="96">                    |                                                                            | Yaru-Blue              |
+| restart.png                    | <img src="images/restart.png" width="96">                    |                                                                            | Yaru-Blue              |
+| rotate-right.png               | <img src="images/rotate-right.png" width="96">               | <img src="images/rotate-right-for-dark-theme.png" width="96">              | Mark Ingrem            |
+| save.png                       | <img src="images/save.png" width="96">                       |                                                                            | Yaru-Blue              |
+| scheduler.png                  | <img src="images/scheduler.png" width="96">                  |                                                                            | Yaru-Blue              |
+| sd.png                         | <img src="images/sd.png" width="96">                         |                                                                            | Yaru-Blue              |
+| search.png                     | <img src="images/search.png" width="96">                     |                                                                            | Yaru-Blue              |
+| search_add_saved.png           | <img src="images/search_add_saved.png" width="96">           |                                                                            | Yaru-Blue              |
+| search_delete_saved.png        | <img src="images/search_delete_saved.png" width="96">        |                                                                            | Yaru-Blue              |
+| series.png                     | <img src="images/series.png" width="96">                     |                                                                            | Mark Ingrem            |
+| store.png                      | <img src="images/store.png" width="96">                      |                                                                            | Yaru-Blue              |
+| sync-right.png                 | <img src="images/sync-right.png" width="96">                 | <img src="images/sync-right-for-dark-theme.png" width="96">                | Mark Ingrem            |
+| sync.png                       | <img src="images/sync.png" width="96">                       |                                                                            | Yaru-Blue              |
+| tags.png                       | <img src="images/tags.png" width="96">                       |                                                                            | Mark Ingrem            |
+| tb_folder.png                  | <img src="images/tb_folder.png" width="96">                  |                                                                            | Yaru-Blue              |
+| template_funcs.png             | <img src="images/template_funcs.png" width="96">             |                                                                            | Yaru-Blue              |
+| trash.png                      | <img src="images/trash.png" width="96">                      |                                                                            | Yaru-Blue              |
+| trim.png                       | <img src="images/trim.png" width="96">                       |                                                                            | Yaru-Blue              |
+| tweak.png                      | <img src="images/tweak.png" width="96">                      |                                                                            | Yaru-Blue              |
+| tweaks.png                     | <img src="images/tweaks.png" width="96">                     |                                                                            | Yaru-Blue              |
+| user_profile.png               | <img src="images/user_profile.png" width="96">               |                                                                            | Yaru-Blue              |
+| v-ellipsis.png                 | <img src="images/v-ellipsis.png" width="96">                 |                                                                            | Yaru-Blue              |
+| view-image.png                 | <img src="images/view-image.png" width="96">                 |                                                                            | Yaru-Blue              |
+| view-refresh.png               | <img src="images/view-refresh.png" width="96">               | <img src="images/view-refresh-for-dark-theme.png" width="96">              | Mark Ingrem            |
+| view.png                       | <img src="images/view.png" width="96">                       |                                                                            | Yaru-Blue              |
+| viewer.png                     | <img src="images/viewer.png" width="96">                     |                                                                            | Yaru-Blue              |
+| vl.png                         | <img src="images/vl.png" width="96">                         |                                                                            | Mark Ingrem            |
+| window-close.png               | <img src="images/window-close.png" width="96">               |                                                                            | Yaru-Blue              |
+| wizard.png                     | <img src="images/wizard.png" width="96">                     |                                                                            | Yaru-Blue              |
 
 ### Needs an update
 
-| File name                      | Icon                                       | Source                 |
-|--------------------------------|--------------------------------------------|------------------------|
-| beautify.png                   | ![](images/beautify.png)                   | Calibre original icon  |
-| book.png                       | ![](images/book.png)                       | Calibre original icon  |
-| bookmarks.svg                  | ![](images/bookmarks.svg)                  | Yaru-Blue              |
-| bookshelf.png                  | ![](images/bookshelf.png)                  | Calibre original icon  |
-| catalog.png                    | ![](images/catalog.png)                    | Calibre original icon  |
-| compress-image.png             | ![](images/compress-image.png)             | Calibre original icon  |
-| copy-to-library.png            | ![](images/copy-to-library.png)            | Calibre original icon  |
-| cover_flow.png                 | ![](images/cover_flow.png)                 | Calibre original icon  |
-| cyoa.png                       | ![](images/cyoa.png)                       | Calibre original icon  |
-| debug.svg                      | ![](images/debug.svg)                      | ???                    |
-| default_cover.png              | ![](images/default_cover.png)              | Calibre original icon  |
-| merge.png                      | ![](images/merge.png)                      | Calibre original icon  |
-| merge_books.png                | ![](images/merge_books.png)                | Calibre original icon  |
-| metadata.png                   | ![](images/metadata.png)                   | Calibre original icon  |
-| modified-for-dark-theme.png    | ![](images/modified-for-dark-theme.png)    | Calibre original icon  |
-| modified-for-light-theme.png   | ![](images/modified-for-light-theme.png)   | Calibre original icon  |
-| page.svg                       | ![](images/page.svg)                       | ???                    |
-| polish.png                     | ![](images/polish.png)                     | Calibre original icon  |
-| random.png                     | ![](images/random.png)                     | Calibre original icon  |
-| rating.png                     | ![](images/rating.png)                     | Yaru-Blue              |
-| reference.png                  | ![](images/reference.png)                  | Calibre original icon  |
-| resize.png                     | ![](images/resize.png)                     | Calibre original icon  |
-| scene-divider.png              | ![](images/scene-divider.png)              | Calibre original icon  |
-| scroll.png                     | ![](images/scroll.png)                     | Calibre original icon  |
-| search_copy_saved.png          | ![](images/search_copy_saved.png)          | Calibre original icon  |
-| send.png                       | ![](images/send.png)                       | Calibre original icon  |
-| similar.png                    | ![](images/similar.png)                    | Calibre original icon  |
-| smarten-punctuation.png        | ![](images/smarten-punctuation.png)        | Calibre original icon  |
-| snippets.png                   | ![](images/snippets.png)                   | Calibre original icon  |
-| sort.png                       | ![](images/sort.png)                       | Calibre original icon  |
-| spell-check.png                | ![](images/spell-check.png)                | Yaru-Blue              |
-| split.png                      | ![](images/split.png)                      | Calibre original icon  |
-| subset-fonts.png               | ![](images/subset-fonts.png)               | Calibre original icon  |
-| swap.png                       | ![](images/swap.png)                       | Calibre original icon  |
-| toc.png                        | ![](images/toc.png)                        | Calibre original icon  |
-| unpack-book.png                | ![](images/unpack-book.png)                | Calibre original icon  |
-| width.png                      | ![](images/width.png)                      | Calibre original icon  |
+| File name                    | Icon                                                       | Source                |
+|------------------------------|:----------------------------------------------------------:|-----------------------|
+| beautify.png                 | <img src="images/beautify.png" width="96">                 | Calibre original icon |
+| book.png                     | <img src="images/book.png" width="96">                     | Calibre original icon |
+| bookmarks.svg                | <img src="images/bookmarks.svg" width="96">                | Yaru-Blue             |
+| bookshelf.png                | <img src="images/bookshelf.png" width="96">                | Calibre original icon |
+| catalog.png                  | <img src="images/catalog.png" width="96">                  | Calibre original icon |
+| compress-image.png           | <img src="images/compress-image.png" width="96">           | Calibre original icon |
+| copy-to-library.png          | <img src="images/copy-to-library.png" width="96">          | Calibre original icon |
+| cover_flow.png               | <img src="images/cover_flow.png" width="96">               | Calibre original icon |
+| cyoa.png                     | <img src="images/cyoa.png" width="96">                     | Calibre original icon |
+| debug.svg                    | <img src="images/debug.svg" width="96">                    | ???                   |
+| default_cover.png            | <img src="images/default_cover.png" width="96">            | Calibre original icon |
+| merge.png                    | <img src="images/merge.png" width="96">                    | Calibre original icon |
+| merge_books.png              | <img src="images/merge_books.png" width="96">              | Calibre original icon |
+| metadata.png                 | <img src="images/metadata.png" width="96">                 | Calibre original icon |
+| modified-for-dark-theme.png  | <img src="images/modified-for-dark-theme.png" width="96">  | Calibre original icon |
+| modified-for-light-theme.png | <img src="images/modified-for-light-theme.png" width="96"> | Calibre original icon |
+| page.svg                     | <img src="images/page.svg" width="96">                     | ???                   |
+| polish.png                   | <img src="images/polish.png" width="96">                   | Calibre original icon |
+| random.png                   | <img src="images/random.png" width="96">                   | Calibre original icon |
+| rating.png                   | <img src="images/rating.png" width="96">                   | Yaru-Blue             |
+| reference.png                | <img src="images/reference.png" width="96">                | Calibre original icon |
+| resize.png                   | <img src="images/resize.png" width="96">                   | Calibre original icon |
+| scene-divider.png            | <img src="images/scene-divider.png" width="96">            | Calibre original icon |
+| scroll.png                   | <img src="images/scroll.png" width="96">                   | Calibre original icon |
+| search_copy_saved.png        | <img src="images/search_copy_saved.png" width="96">        | Calibre original icon |
+| send.png                     | <img src="images/send.png" width="96">                     | Calibre original icon |
+| similar.png                  | <img src="images/similar.png" width="96">                  | Calibre original icon |
+| smarten-punctuation.png      | <img src="images/smarten-punctuation.png" width="96">      | Calibre original icon |
+| snippets.png                 | <img src="images/snippets.png" width="96">                 | Calibre original icon |
+| sort.png                     | <img src="images/sort.png" width="96">                     | Calibre original icon |
+| spell-check.png              | <img src="images/spell-check.png" width="96">              | Yaru-Blue             |
+| split.png                    | <img src="images/split.png" width="96">                    | Calibre original icon |
+| subset-fonts.png             | <img src="images/subset-fonts.png" width="96">             | Calibre original icon |
+| swap.png                     | <img src="images/swap.png" width="96">                     | Calibre original icon |
+| toc.png                      | <img src="images/toc.png" width="96">                      | Calibre original icon |
+| unpack-book.png              | <img src="images/unpack-book.png" width="96">              | Calibre original icon |
+| width.png                    | <img src="images/width.png" width="96">                    | Calibre original icon |

@@ -32,6 +32,7 @@ The "Icons Update Status and Source" section of `README.md` has two tables, one 
 - Update the row's "Source" column if the new icon comes from a different source.
 - An icon goes into "Updated" only if its source is one of the values listed above. Icons from any other source belong in "Needs an update".
 - Keep each table in alphabetical order by file name.
+- Show icons as `<img src="images/<file>" width="96">` in centered columns, so the "Light theme" and "Dark theme" columns have the same width.
 - A new icon goes into the table that matches its status.
 
 ## Tools

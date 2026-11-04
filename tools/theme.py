@@ -75,7 +75,7 @@ def readme_rows():
                 table = line[4:].strip()
             # a row can show more than one image, such as an icon and its dark mode version
             if line.startswith('|'):
-                rows.extend((name, table) for name in re.findall(r'!\[\]\(images/([^)]+)\)', line))
+                rows.extend((name, table) for name in re.findall(r'<img src="images/([^"]+)"', line))
     return rows
 
 
